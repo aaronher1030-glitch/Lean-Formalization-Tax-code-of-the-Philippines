@@ -1,0 +1,39 @@
+# ── Lean toolchain binary distribution (3.2 GB, regenerated via elan; see lean-toolchain) ──
+tools/lean/
+
+# ── Lean build artifacts ──
+*.olean
+*.ilean
+*.trace
+.lake/
+build/
+
+# ── Python caches ──
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ── Node / web build artifacts (bettergovtarlacph-publish) ──
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+.env.local
+
+# ── Local browser profiles / visual QA scratch ──
+_visual_check/
+_edge_profile/
+
+# ── Nested-repo metadata preserved locally, not tracked here ──
+*.local-backup/
+
+# ── Rust build output ──
+target/logs/
+
+# ── OS / editor noise ──
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp

@@ -1,0 +1,425 @@
+REVENUE REGULATIONS NO. 8-2018 issued on February 20, 2018 implements the 
+amended provisions on Income Tax pursuant to Republic Act No. 10963 (Tax Reform for 
+Acceleration and Inclusion or TRAIN Law). 
+The Income Tax on the individual’s taxable income shall be computed based on the 
+following schedules as provided under Sec. 24(A)(2)(a) of the Tax Code, as amended: 
+ 
+Effective January 1, 2018 until December 31, 2022: 
+ 
+RANGE OF TAXABLE INCOME 
+TAX DUE = a + (b x c) 
+OVER 
+NOT OVER 
+BASIC 
+AMOUNT 
+(a) 
+ADDITIONAL 
+RATE 
+(b) 
+OF EXCESS 
+OVER 
+(c) 
+- 
+250,000.00 
+- 
+ 
+- 
+250,000.00 
+400,000.00 
+- 
+20% 
+250,000.00 
+400,000.00 
+800,000.00 
+30,000.00 
+25% 
+400,000.00 
+800,000.00 
+2,000,000.00 
+130,000.00 
+30% 
+800,000.00 
+2,000,000.00 
+8,000,000.00 
+490,000.00 
+32% 
+2,000,000.00 
+8,000,000.00 
+- 
+2,410,000.00 
+35% 
+8,000,000.00 
+ 
+Effective January 1, 2023 and onwards: 
+ 
+RANGE OF TAXABLE INCOME 
+TAX DUE = a + (b x c) 
+OVER 
+NOT OVER 
+BASIC 
+AMOUNT 
+(a) 
+ADDITIONAL 
+RATE 
+(b) 
+OF EXCESS 
+OVER 
+(c) 
+- 
+250,000.00 
+- 
+ 
+- 
+250,000.00 
+400,000.00 
+- 
+15% 
+250,000.00 
+400,000.00 
+800,000.00 
+22,500.00 
+20% 
+400,000.00 
+800,000.00 
+2,000,000.00 
+102,500.00 
+25% 
+800,000.00 
+2,000,000.00 
+8,000,000.00 
+402,500.00 
+30% 
+2,000,000.00 
+8,000,000.00 
+- 
+2,202,500.00 
+35% 
+8,000,000.00 
+ 
+Individuals earning purely compensation income shall be taxed based on the Income Tax 
+rates prescribed under subsection (A) of these Regulations. Taxable income for compensation 
+earners is the gross compensation income less non-taxable income/benefits such as but not 
+limited to the thirteenth (13th) month pay and other benefits (subject to limitations specified in 
+Section 6(G)(e) of these Regulations), de minimis benefits, and employee’s share in the SSS, 
+GSIS, PHIC, Pag-ibig contributions and union dues. 
+Husband and wife shall compute their individual Income Tax separately based on their 
+respective taxable income. If any income cannot be definitely attributed to or identified as 
+income exclusively earned or realized by either of the spouses, the same shall be divided equally 
+between the spouses, for the purpose of determining their respective taxable income. 
+Minimum wage earners shall be exempt from the payment of Income Tax based on their 
+statutory minimum wage rates. The holiday pa, overtime pay, night shift differential pay and 
+hazard pay received by such earner are likewise exempt. 
+Individuals earning income purely from self-employment and/or practice of profession, 
+whose gross sales/receipts and other non-operating income does not exceed the Value-Added 
+Tax (VAT) threshold as provided under Section 109 (BB) of the Tax Code, as amended, shall 
+have the option to avail of: a) the graduated rates under Section 24(A)(2)(a) of the Tax Code, as 
+amended; or b) the eight percent (8%) tax on gross sales or receipts and other non-operating 
+income in excess of Two Hundred Fifty Thousand Pesos (₱ 250,000.00), in lieu of the graduated 
+
+income tax rates under Section 24(A) and the Percentage Tax under Section 116 all under the 
+Tax Code, as amended. 
+Unless the taxpayer signifies the intention to elect the 8% Income Tax rate in the 1st 
+Quarter Percentage and/or Income Tax Return, or on the initial quarter return of the taxable year 
+after the commencement of a new business/practice of profession, the taxpayer shall be 
+considered as having availed of the graduated rates under Section 24(A)(2)(a) of the Tax Code, 
+as amended. Such election shall be irrevocable and no amendment of option shall be made for 
+the said taxable year.  
+The option to be taxed at 8% Income Tax rate is not available to a VAT-registered 
+taxpayer, regardless of the amount of gross sales/receipts, and to a taxpayer who is subject to 
+other Percentage Taxes under Title V of the Tax Code, as amended, except those subject under 
+Section 116 of the same Title. Likewise, partners of a General Professional Partnership (GPP) by 
+virtue of their distributive share from GPP, which is already net of cost and expenses, cannot 
+avail of the 8% Income Tax rate option. 
+A taxpayer who signifies the intention to avail of the 8% Income Tax rate option, and is 
+conclusively qualified for said option at the end of the taxable year (annual gross sales/receipts 
+and other non-operating income did not exceed the VAT threshold         [₱ 3,000,000.00]) shall 
+compute the final annual Income Tax due based on the actual annual gross sales/receipts and 
+other non-operating income.  The said Income Tax due shall be in lieu of the graduated rates of 
+Income Tax and the Percentage Tax under Sec. 116 of the Tax Code, as amended. The Financial 
+Statements (FS) is not required to be attached in filing the final Income Tax Return. However, 
+existing rules and regulations on bookkeeping and invoicing/receipting shall still apply. 
+A taxpayer shall automatically be subject to the graduated rates under Section 
+24(A)(2)(a) of the Tax Code, as amended, even if the flat 8% Income Tax rate option is initially 
+selected, when taxpayer’s gross sales/receipts and other non-operating income exceeded the 
+VAT threshold during the taxable year.  In such case, his/her Income Tax shall be computed 
+under the graduated Income Tax rates and shall be allowed a tax credit for the previous quarter/s 
+Income Tax payment/s under the 8% Income Tax rate option.   
+In addition, a taxpayer subject to the graduated Income Tax rates (either selected this as 
+the Income Tax regime, or failed to signify chosen intention or failed to qualify to be taxed at the 
+8% Income Tax rate) is also subject to the applicable business tax, if any. Subject to the 
+provisions of Section 8 of these Regulations, an FS shall be required as an attachment to the 
+annual Income Tax return even if the gross sales/receipts and other non-operating income is less 
+than the VAT threshold. However, the annual Income Tax return of a taxpayer with gross 
+sales/receipts and other non-operating income of more than the said VAT threshold shall be 
+accompanied by an audited FS. 
+Taxable income for individuals earning income from self-employment/practice of 
+profession shall be the net income, if taxpayer opted to be taxed at graduated rates or has failed 
+to signify the chosen option. However, if the option availed is the 8% income tax rate, the 
+taxable base is the gross sales/receipts and other non-operating income. 
+For mixed income earners, the Income Tax rates applicable are the following:  
+a. The compensation income shall be subject to the tax rates prescribed under Section 
+24(A)(2)(a) of the Tax Code, as amended; and 
+b. The income from business or practice of profession shall be subject to the following: 
+b.1 If the gross sales/receipts and other non-operating income do not exceed the VAT 
+threshold, the individual has the option to be taxed at: a) graduated Income Tax 
+rates prescribed under Section 24(A)(2)(a) of the Tax Code, as amended; or b) 
+Eight Percent (8%) Income Tax rate based on gross sales/receipts and other non-
+
+operating income in lieu of the graduated Income Tax rates and Percentage Tax 
+under Section 116 of the Tax Code, as amended. 
+b.2 If the gross sales/receipts and other non-operating income exceeds the VAT 
+threshold, the individual shall be subject to the Graduated Income Tax rates 
+prescribed under Section 24(A)(2)(a) of the Tax Code, as amended. 
+The provision under Section 24(A)(2)(b) of the Tax Code, as amended, which allows an 
+option of 8% Income Tax rate on gross sales/receipts and other non-operating income in excess 
+of P 250,000.00 is available only to purely self-employed individuals and/or professionals. The 
+said P 250,000.00 is not applicable to mixed income earners since it is already incorporated in 
+the first tier of the graduated Income Tax rates applicable to compensation income.  Under the 
+said graduated rates, the excess of the P 250,000.00 over the actual taxable compensation income 
+is not deductible against the taxable income from business/practice of profession under the 8% 
+Income Tax rate option.   
+The total tax due shall be the sum of the: a) tax due from compensation, computed using 
+the graduated Income Tax rates; and b) tax due from self-employment/practice of profession, 
+resulting from the multiplication of the 8% Income Tax rate with the total of the gross 
+sales/receipts and other non-operating income. 
+Mixed income earner who opted to be taxed under the graduated Income Tax rates for 
+income from business/practice of profession shall combine the taxable income from both 
+compensation and business/practice of profession in computing for the total taxable income and 
+consequently the Income Tax due.  
+The following passive income shall be subject to the final Income Tax rates: 
+a. Interests from any currency bank deposit and yield or any other monetary benefit 
+from deposit substitutes and from trust funds and similar arrangements – 20%; 
+b. Interest income received by an individual taxpayer (except a non-resident individual) 
+from a depository bank under the expanded foreign currency deposit system – 15%; 
+c. Proceeds of pre-terminated long-term deposit or investment in the form of savings, 
+common or individual trust funds, deposit substitutes, investment management 
+accounts and other investments evidenced by certificates in such form as prescribed 
+by the Bangko Sentral ng Pilipinas – the final tax shall be based on the remaining 
+maturity of the investment:  
+c.1 Four (4) years but less than five (5) years – 5% 
+c.2 Three (3) years but less than four (4) years – 12%; and  
+c.3 Less than three (3) years – 20%   
+d. Royalties (except royalties on books and other literary works and musical 
+compositions) – 20%   
+e. Royalties on books and other literary works and musical compositions – 10%; 
+f. Prizes (except prizes amounting to P 10,000 or less) – 20%; 
+g. Winnings (except Philippine Charity Sweepstakes and Lotto winnings amounting to 
+P 10,000 or less) – 20%; 
+h. Cash and Property Dividends – 10%; 
+i. Capital Gains from Sale of Shares of Stock not Traded in the Stock Exchange – 15%; 
+j. Capital Gains from Sale of Real Property located in the Philippines – 6%. 
+The following Income Tax rates shall be imposed to non-resident alien individual:  
+a. The rates imposed on individual citizen and a resident alien individual on the taxable 
+income derived within the Philippines shall be applicable to non-resident alien 
+engaged in trade or business within the Philippines; 
+b. Upon the entire income received from all sources within the Philippines by   the non-
+resident alien not engaged in trade or business within the Philippines    such as 
+
+interest, cash and/or property dividends, rents, salaries, wages, premiums, annuities, 
+compensation, remuneration, emoluments, or other fixed or determinable annual or 
+periodic or casual gains, profits, and income, and capital gains. - 25%; 
+c. The preferential income tax rate under subsection (C), (D) and (E) of Section 25 of 
+the Tax Code, as amended, shall no longer be applicable without prejudice to the 
+application of preferential tax rates under existing international tax treaties, if 
+warranted.  Thus, all concerned employees of the regional or area headquarters and 
+regional operating headquarters of multinational companies, offshore banking units 
+and petroleum service contractor and subcontractors shall be subject to the regular 
+Income Tax rate under Sec. 24(A)(2)(a) of the Tax Code, as amended. This is in 
+accordance with the veto message of the President. 
+Under Section 27(C) of the Tax Code, as amended, Government-Owned and       -
+Controlled Corporations (GOCCs), Government Agencies or Instrumentalities shall pay such 
+rate of tax upon their taxable income as imposed upon corporations or associations engaged in a 
+similar business, industry, or activity, except for the following: 
+a. Government Service Insurance System (GSIS); 
+b. Social Security System (SSS); 
+c. Philippine Health Insurance Corporation (PHIC); and 
+d. Local Water Districts (LWD). 
+The items that shall not be included in gross income and shall be exempt from income 
+taxation are the following: 
+a. Life Insurance. – The proceeds of life insurance policies paid to the heirs or 
+beneficiaries upon the death of the insured, whether in a single sum or otherwise, but 
+if such amounts are held by the insurer under an agreement to pay interest thereon, 
+the interest payments shall be included in gross income; 
+b. Amount received by insured as Return of Premium; 
+c. Gifts, bequests, and devises; 
+d. Compensation for injuries or sickness; 
+e. Income exempt under treaty; 
+f. Retirement benefits, pensions, gratuities, etc.; 
+g. Miscellaneous items  
+g.1 Income derived by foreign government; 
+g.2 Income derived by the government or its political subdivisions; 
+g.3 Prizes and awards; 
+g.4 Prizes and awards in sports competition; 
+g.5 13th month pay and other benefits. – Gross benefits received by officials and 
+employees of public and private entities. Provided, however, that the total 
+exclusion under this item shall not exceed ninety thousand (₱ 90,000.00), which 
+shall cover the following: 
+(i) 
+Benefits received by officials and employees of the national and local 
+government pursuant to Republic Act No. 6686; 
+(ii) 
+Benefits received by employees pursuant to Presidential Decree No. 851, 
+as amended by Memorandum Order No. 28 dated August 13, 1986; 
+(iii) Benefits received by officials and employees not covered by Presidential 
+Decree No. 851, as amended by Memorandum Order No. 28 dated August 
+13, 1986; and 
+(iv) Other benefits such as productivity incentives and Christmas bonus; 
+g.6   GSIS, SSS, Medicare and other contributions;  
+
+g.7 Gains from the sale of bonds, debentures or other Certificate of    Indebtedness 
+with a maturity of more than five (5) years; and 
+g.8   Gains from redemption of shares in mutual fund. 
+The tax on fringe benefits at the rate of thirty-five percent (35%) shall be imposed on the 
+grossed-up monetary value of fringe benefits furnished or granted to an employee (except rank-
+and-file employees) by the employer, whether an individual or a corporation (unless the fringe 
+benefit is required by the nature of, or necessary to the trade, business or profession of the 
+employer, or when the fringe benefit is for the convenience of or advantage of the employer). 
+The tax herein imposed is payable by the employer, which tax shall be paid in the same manner 
+as provided for under Section 57 (A) of the Tax Code, as amended.   
+The grossed-up monetary value of the fringe benefit shall be determined by dividing the 
+actual monetary value of the fringe benefit by sixty-five percent (65%), effective January 1, 2018 
+and onwards. Provided, that the grossed-up value of the benefit shall be determined by dividing 
+the actual monetary value of the fringe benefit by the difference between one hundred percent 
+(100%) and the applicable tax rates. 
+In general, there shall be allowed, at the option of the taxpayer, itemized deductions or an 
+Optional Standard Deduction (OSD) at the rate of forty percent (40%). In case of individual 
+taxpayers, OSD shall be computed at the rate of forty percent (40%) of gross sales/receipts, as 
+the case may be. Corporations may elect standard deduction in an amount not exceeding forty 
+percent (40%) of its gross income. 
+However, no deductions shall be allowed to individual taxpayers earning compensation 
+income arising from personal services rendered under an employer-employee relationship, and 
+those who opted to be taxed at 8% Income Tax rate on their income from business/practice of 
+profession. The following are the allowable itemized deductions: 
+a. Expenses;  
+b. Interest; 
+c. Taxes; 
+d. Losses; 
+e. Bad Debts; 
+f. Depreciation; 
+g. Depletion of oil and gas wells and mines; 
+h. Charitable and other contributions; 
+i. Research and development; and 
+j. Pension trusts. 
+Unless the taxpayer, who is taxable under the graduated Income Tax rate, signifies in the 
+Income Tax return the intention to elect the OSD, it shall be considered as having availed of the 
+itemized deductions. Such election of the option, when made in the return, shall be irrevocable 
+for the taxable year for which the return is made. The election to claim either the itemized 
+deductions or the OSD for the taxable year must be signified by checking the appropriate box in 
+the Income Tax return filed for the first quarter or the initial quarter of the taxable year after the 
+commencement of a new business/practice of profession. Once the election is made, it must be 
+consistently applied to all the succeeding quarterly returns and in the final income tax return for 
+the taxable year. 
+The OSD allowed to individual taxpayers, except non-resident aliens, shall be forty 
+percent (40%) of gross sales/receipts during the taxable year. An individual who is entitled to 
+and claimed for the OSD shall not be required to submit with the tax return such FS otherwise 
+required under the Tax Code, as amended. A General Professional Partnership (GPP) may avail 
+of the OSD only once, either by the GPP or the partners comprising the partnership. 
+
+GPP is not subject to Income Tax imposed pursuant to Sec. 26 of the Tax Code, as 
+amended.  However, the partners shall be liable to pay Income Tax on their separate and 
+individual capacities for their respective distributive share in the net income of the GPP.  
+The GPP is not a taxable entity for Income Tax purposes since it is only acting as a “pass-
+through” entity where its income is ultimately taxed to the partners comprising it.  Section 26 of 
+the Tax Code, as amended, likewise provides that “For purposes of computing the distributive 
+share of the partners, the net income of the GPP shall be computed in the same manner as a 
+corporation.” As such, a GPP may claim either the itemized deductions allowed under Section 34 
+of the Code or in lieu thereof, it can opt to avail of the OSD allowed to corporations in claiming 
+the deductions in an amount not exceeding Forty Percent (40 %) of its gross income. 
+In computing taxable income defined under Section 31 of the Tax Code, as amended, the 
+following may be allowed as deductions: 
+a. Itemized expenses which are ordinary and necessary, incurred or paid for the practice 
+of profession; or 
+b. Optional Standard Deduction (OSD).  
+The distributable net income of the partnership may be determined by claiming either 
+itemized deductions or OSD. The share in the net income of the partnership, actually or 
+constructively received, shall be reported as taxable income of each partner.  The partners 
+comprising the GPP can no longer claim further deduction from their distributive share in the net 
+income of the GPP and are not allowed to avail of the 8% Income Tax rate option since their 
+distributive share from the GPP is already net of cost and expenses. 
+If the partner also derives other income from trade, business or practice of profession 
+apart and distinct from the share in the net income of the GPP, the deduction that can be claimed 
+from the other income would either be the itemized deductions or OSD. 
+The following individuals are not required to file Income Tax Return since the 
+Certificate of Withholding filed by the respective employers, duly stamped “Received” by the 
+BIR, shall be tantamount to the substituted filing of Income Tax returns: 
+a. An individual earning purely compensation income whose taxable income does not 
+exceed Two Hundred Fifty Thousand Pesos (P 250,000.00);  
+b. An individual whose Income Tax has been correctly withheld by his employer, 
+provided that such individual has only one employer for the taxable year; and 
+c. A minimum wage earner.  
+An individual whose sole income has been subjected to Final Withholding Tax is also not 
+required to file Income Tax Return. In all cases, all individuals deriving compensation income, 
+regardless of the amount, from two (2) or more concurrent or successive employers at any time 
+during the taxable year, are not qualified for substituted filing. Thus, they are still required to file 
+a return. 
+Individuals engaged in business/practice of profession, regardless of amount of 
+sales/receipts, are required to file Quarterly Income Tax Return on or before May 15, August 15 
+and November 15 for the first, second and third quarters of the current year, respectively 
+pursuant to Section 74(A) of the Tax Code, as amended; and to file an annual Income Tax Return 
+not later than the fifteenth (15th) day of the fourth month following the close of the calendar year 
+or April 15 as provided under Section 51(C)(1) of the Tax Code, as amended.  
+When the tax due is in excess of Two Thousand Pesos (P 2,000.00), the individual may 
+elect to pay the tax in two (2) equal installments, wherein the first installment shall be paid at the 
+time the annual Income Tax Return is filed and the second installment paid on or before October 
+15 following the close of the calendar year.  
+
+If any installment is not paid on or before the date fixed for its payment, the whole 
+amount of the unpaid tax becomes due and payable, together with the delinquency penalties to be 
+reckoned on the original date when the tax is required to be paid.  
+In relation to Sections 24(A)(2)(b) and 24(A)(2)(c)(2) of the Tax Code, as amended, 
+relative to the option of self-employed individuals and/or professionals to avail of an 8% Income 
+Tax rate based on gross sales/receipts and other non-operating income, the existing non-VAT 
+taxpayer who is contemplating to avail of the 8% Income Tax rate at the beginning of the taxable 
+year or before the due date for filing and/or payment of the Percentage Tax shall file an 
+Application for Registration Information Update (BIR Form No. 1905) to end-date the registered 
+tax type of Percentage Tax. If the taxpayer is unable to timely update the required registration, 
+s/he shall continue to file the Percentage Tax return reflecting a zero-amount of tax with a 
+notation that s/he is availing of the 8% Income Tax rate option for the taxable year.  S/he is still 
+required to signify the intention to avail the option on the initial Quarterly Income Tax Return for 
+Income Tax purposes. On the other hand, if the non-VAT taxpayer opted to be taxed under the 
+graduated Income Tax rates, s/he shall continue to pay the required Percentage Tax under Sec. 
+116 of the Tax Code, as amended.  
+A taxpayer who initially presumed that the gross sales/receipts and other non-operating 
+income for the taxable year will not exceed the P 3,000,000.00 VAT threshold but has actually 
+exceeded the same during the taxable year shall immediately update his/her registration to reflect 
+the change in tax profile from non-VAT to a VAT taxpayer.  S/he shall be required to update 
+registration immediately within the month following the month s/he exceeded the VAT threshold 
+and shall be liable to VAT prospectively starting on the first day of the month following the 
+month when the threshold is breached. The taxpayer shall pay the required Percentage Tax 
+covering the sales/receipts and other non-operating income, from the beginning of the taxable 
+year or commencement of business/practice of profession until the time the taxpayer becomes 
+liable for VAT, without imposition of penalty if timely paid on the immediately succeeding 
+month/quarter. Thus, there may be an instance when a taxpayer files two (2) business tax returns 
+in a month/quarter – i.e., Percentage and VAT returns.  
+A VAT taxpayer who did not exceed the VAT threshold within the immediately 
+preceding three (3) year period may opt to be a non-VAT taxpayer and avail of the 8% Income 
+Tax rate option.  S/he shall update the registration records on or before the first quarter of a 
+taxable year to reflect the change in registration. However, s/he shall remain liable for VAT for 
+as long as there is no update of registration and VAT-registered invoices/receipts are 
+continuously issued. Registration updates shall be subject to existing rules and regulations on 
+updates, verification, inventory and surrender/cancellation of unused VAT-invoices/receipts. 
+A non-VAT taxpayer who volunteers to be a VAT taxpayer, knowing that sales/receipts 
+and other non-operating income will exceed the VAT threshold within the taxable year, shall 
+update the registration records. Such taxpayer becomes liable to VAT on the day when such 
+updating is made. In this case, the taxpayer shall automatically be subject to the graduated 
+Income Tax rates if the 8% Income Tax rate option is initially selected.  Any Income Tax paid 
+under the said flat 8% Income Tax rate shall be deducted from the Income Tax due under the 
+graduated Income Tax rates.  The Percentage Tax due from the beginning of the taxable year or 
+commencement of business/practice of profession shall be paid on the month/quarter 
+immediately following such registration update.  However, if the graduated Income Tax rate is 
+chosen from the beginning, then taxpayer ceases to be liable to Percentage Tax upon registration 
+updates and, instead, is now liable to VAT. 
+In connection with the provision of Section 24(A)(2)(b) and Section 24(A)(2)(c) of the 
+Tax Code, as amended, all existing VAT-registered taxpayers whose gross sales/receipts and 
+other non-operating income in the preceding year did not exceed the VAT threshold of 
+
+P3,000,000.00 shall have the option to update their registration to non-VAT until March 31, 
+2018, following the existing procedures on registration update, and the inventory and 
+surrender/cancellation of unused VAT invoices/receipts. After the said date, existing VAT-
+registered taxpayers who have not exceeded the threshold for the immediately preceding three 
+years may opt to update their registration to non-VAT following rules and regulations on 
+registration updates, verification, and the inventory and cancellation of VAT invoices/receipts. 
+These regulations are effective beginning January 1, 2018, the effectivity date of the 
+TRAIN Law. 
+ 
+ 

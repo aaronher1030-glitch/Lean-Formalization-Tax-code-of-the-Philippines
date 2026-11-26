@@ -1,0 +1,31 @@
+Source: https://www.lawphil.net/statutes/repacts/ra2017/ra_10963_2017.html (fetched 2026-11-16)
+RA 10963 (TRAIN), Section 5 amending NIRC Sec. 24; Section 38 amending NIRC Sec. 116.
+
+> > "For married individuals, the husband and wife, subject to the provision of Section 51(D) hereof, shall compute separately their individual income tax based on their respective total taxable income: _Provided,_ That if any income cannot be definitely attributed to or identified as income exclusively earned or realized by either of the spouses, the same shall be divided equally between the spouses for the purpose of determining their respective taxable income.
+> > 
+> > "_Provided,_ That minimum wage earners as defined in Section 22(HH) of this Code shall be exempt from the payment of income tax on their taxable income: _Provided, further,_ That the holiday pay, pay received by such minimum wage earners shall likewise be exempt from income tax.
+> > 
+> > "(b) Rate of Tax on Income of "Purely Self-employed Individuals and/ or Professionals Whose Gross Sales or Gross Receipts and Other Non-operating Income Does Not Exceed the Value-added Tax (VAT) Threshold as Provided in Section 109(BB).� Self-employed individuals and/or professionals shall have the option to avail of an eight percent (8%) tax on gross sales or gross receipts and other non-operating income in excess of Two hundred fifty thousand pesos (₱250,000) in lieu of the graduated income tax rates under Subsection (A)(2)(a) of this Section and the percentage tax under Section 116 of this Code.
+> > 
+> > "(c) Rate of Tax for Mixed Income Earners.� Taxpayers earning both compensation income and income from business or practice of profession shall be subject to the following taxes:
+> > 
+> > "(1) All Income from Compensation � The rates prescribed under Subsection (A)(2)(a) of this Section.
+> > 
+> > "(2) All Income from Business or Practice of Profession �
+> > 
+> > "(a) If Total Gross Sales and/or Gross Receipts and Other Non-operating Income Do Not Exceed the VAT Threshold as Provided in Section 109(BB) of this Code.� The rates prescribed under Subsection (A)(2)(a) of this Section on taxable income, or eight percent (8%) income tax based on gross sales or gross receipts and other non-operating income in lieu of the graduated income tax rates under Subsection (A)(2)(a) of this Section and the percentage tax under Section 116 of this Code.
+> > 
+> > "(b) If Total Gross Sales and/or Gross Receipts and Other Non-operating Income Exceeds the VAT Threshold as Provided in Section 109(BB) of this Code.� The rates prescribed under Subsection (A)(2)(a) of this Section.
+> > 
+> > "(B) Rate of Tax on Certain Passive Income.�
+> > 
+> > "(1) Interests, Royalties, Prizes, and Other Winnings.� A final tax at the rate of twenty percent (20%) is hereby imposed upon the amount of interest from any currency bank deposit and yield or any other monetary benefit from deposit substitutes and from trust funds and. similar arrangements; royalties, except on books, as well as other literary works and musical compositions, which shall be imposed a final tax of ten percent (10%); prizes (except prizes amounting to Ten thousand pesos (₱10,000) or less which shall be subject to tax under Subsection (A) of Section 24; and other winnings (except winnings amounting to Ten thousand pesos (₱10,000) or less from Philippine Charity Sweepstakes and Lotto which shall be exempt), derived from sources within the Philippines: _Provided,_ however, That interest income received by an individual taxpayer (except a nonresident individual) from a depository bank under the expanded foreign currency deposit system shall be subject to a final income tax at the rate of fifteen percent (15%) of such interest income: _Provided, further,_ That interest income from long-term deposit or investment in the form of savings, common or individual trust funds, deposit substitutes, investment management accounts and other investments evidenced by certificates in such form prescribed by the Bangko Sentral ng Pilipinas (BSP) shall be exempt from the tax imposed under this Subsection: _Provided, finally,_ That should the holder of the certificate pre-terminate the deposit or investment before the fifth (5th) year, a final tax shall be imposed on the entire income and shall be deducted and withheld by the depository bank from the proceeds of the long-term deposit or investment certificate based on the remaining maturity thereof:
+> > 
+
+> 
+> **Section 38**. Section 116 of the NIRC, as amended, is hereby further amended to read as follows:
+> 
+> > "Sec. 116. _Tax on Persons Exempt from Value-added Tax (VAT)._ - Any person whose sales or receipts are exempt under Section 109(BB) of this Code from the payment of value-added tax and who is not a VAT-registered person shall pay a tax equivalent to three percent (3%) of his gross quarterly sales or receipts: _Provided,_ That cooperatives, and beginning January 1, 2019, self-employed and professionals with total annual gross sales and/or gross receipts not exceeding Five hundred thousand pesos (₱500,000) shall be exempt from the three percent (3%) gross receipts tax herein imposed."
+> 
+> **Section 39.** Section 127 of the NIRC, as amended, is hereby further amended to read as follows:
+> 

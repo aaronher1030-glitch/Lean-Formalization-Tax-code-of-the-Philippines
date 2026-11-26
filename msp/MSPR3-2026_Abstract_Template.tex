@@ -1,0 +1,64 @@
+% =====================================================================
+% MSP Region 3 Convention 2026 -- Abstract Template (LaTeX)
+% 4 December 2026, Central Luzon State University
+%
+% IMPORTANT:
+% Do not use user-defined commands/definitions/packages. You may use
+% commands and definitions enabled by standard packages available on ctan.org.
+% Abstract length: 100-250 words. References are optional (max 5).
+% Submit both the .tex file and the compiled PDF.
+% =====================================================================
+\documentclass[a4paper, 12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage[a4paper, total={6.5in, 9in}]{geometry}
+\usepackage{array}
+\usepackage{cite}
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage{latexsym}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{verbatim}
+\usepackage{longtable}
+\usepackage{fancyhdr}
+
+\begin{document}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[L]{\textbf{MSP Region 3 Convention 2026}}
+\fancyhead[R]{4 December 2026, CLSU}
+
+\noindent{\large\bfseries Title of the Paper}
+\\ First Author$^{1}$ and Second Author$^{2,*}$
+% Adjust as needed for more authors. The asterisk (*) marks the presenter.
+\\ \textit{$^{1}$Department/Institute 1, College 1, University 1}
+% e.g. Department of Mathematics, College of Science, Central Luzon State University
+\\ \textit{$^{2}$Department/Institute 2, College 2, University 2}
+\\ \texttt{$^{1}$email1@example.com, $^{2}$email2@example.com}
+
+\medskip
+\medskip
+
+\noindent Write your abstract here (100--250 words). If applicable, cite
+references like this: according to the article \cite{cite_key1} and based
+on the book \cite{cite_key2}, \ldots
+
+% To include a figure (optional), uncomment:
+% \begin{figure}[h]
+%   \centering
+%   \includegraphics[height=4cm]{figure-file}
+%   \caption{Caption}
+% \end{figure}
+
+% References: optional, maximum of 5
+\vspace{2cm}
+\renewcommand{\refname}{\normalsize References}
+\begin{thebibliography}{5}
+\bibitem{cite_key1} Authors, \textit{Paper Title}, Journal {\bf No. or Issue} (Year) pages.
+\bibitem{cite_key2} Authors, \textit{Book Title}. Publisher, Year.
+\end{thebibliography}
+
+\end{document}

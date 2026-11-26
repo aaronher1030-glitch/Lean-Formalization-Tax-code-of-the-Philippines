@@ -1,0 +1,78 @@
+{
+ "certificates_checked": 512,
+ "false_accepts": [],
+ "engines": {
+  "G0_honest": {
+   "n": 64,
+   "accepted": 64,
+   "rejected": 0,
+   "accept_rate": 1.0,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 0,
+   "max_abs_error_any": 0
+  },
+  "G1_eight_on_income": {
+   "n": 64,
+   "accepted": 55,
+   "rejected": 9,
+   "accept_rate": 0.8594,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 0,
+   "max_abs_error_any": 24308493
+  },
+  "G2_no_exempt_floor": {
+   "n": 64,
+   "accepted": 55,
+   "rejected": 9,
+   "accept_rate": 0.8594,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 2320000,
+   "max_abs_error_any": 2320000
+  },
+  "G3_ineligible_eight": {
+   "n": 64,
+   "accepted": 41,
+   "rejected": 23,
+   "accept_rate": 0.6406,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 9441098459,
+   "max_abs_error_any": 9441098459
+  },
+  "G4_pct_double": {
+   "n": 64,
+   "accepted": 55,
+   "rejected": 9,
+   "accept_rate": 0.8594,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 10033150,
+   "max_abs_error_any": 10033150
+  },
+  "G5_missing_pct": {
+   "n": 64,
+   "accepted": 9,
+   "rejected": 55,
+   "accept_rate": 0.1406,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 0,
+   "max_abs_error_any": 5758150685
+  },
+  "G6_rate10": {
+   "n": 64,
+   "accepted": 55,
+   "rejected": 9,
+   "accept_rate": 0.8594,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 6131370,
+   "max_abs_error_any": 6131370
+  },
+  "G7_penalty_wrong_base": {
+   "n": 64,
+   "accepted": 55,
+   "rejected": 9,
+   "accept_rate": 0.8594,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 5692534,
+   "max_abs_error_any": 5692534
+  }
+ }
+}

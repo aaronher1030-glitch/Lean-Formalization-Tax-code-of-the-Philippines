@@ -1,0 +1,30 @@
+{
+  "name": "discord-mcp-lite",
+  "version": "0.1.0",
+  "description": "Read-only Discord MCP server. One file, zero dependencies, no build step.",
+  "type": "module",
+  "bin": {
+    "discord-mcp-lite": "server.mjs"
+  },
+  "files": [
+    "server.mjs",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/server.test.mjs"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "discord",
+    "llm",
+    "claude",
+    "cursor"
+  ],
+  "license": "MIT"
+}

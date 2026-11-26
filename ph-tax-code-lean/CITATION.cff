@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this artifact or paper, please cite them as below."
+title: "How Strong Is a Verified Tax Code? A Critical Study of Formalizing Philippine Tax Rules in Lean 4, with a Proven Certificate Checker"
+type: software
+authors:
+  - family-names: Hernandez
+    given-names: Aaron Y.
+    affiliation: BSANHS
+version: 0.1.0
+date-released: 2026-11-18
+license: MIT
+abstract: >-
+  A Lean 4 formalization of computational parts of the Philippine National
+  Internal Revenue Code, with sound and complete certificate checkers, measured
+  studies of untrusted engines, five kernel-checked loophole findings, and a
+  generated battery of 274 kernel-checked propositions.
+keywords:
+  - formal verification
+  - Lean 4
+  - rules as code
+  - certifying algorithms
+  - tax law
+  - Philippines
+  - large language models

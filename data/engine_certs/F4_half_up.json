@@ -1,0 +1,1570 @@
+[
+ {
+  "engine": "F4_half_up",
+  "case_id": "B01",
+  "gross_sales": 250000000,
+  "tier": "micro",
+  "income": 0,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 0,
+  "surcharge": 0,
+  "interest": 0,
+  "total": 0
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B02",
+  "gross_sales": 250000000,
+  "tier": "micro",
+  "income": 25000000,
+  "days_late": 0,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 0,
+  "surcharge": 0,
+  "interest": 0,
+  "total": 0
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B03",
+  "gross_sales": 250000000,
+  "tier": "micro",
+  "income": 25000001,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 1,
+    "amount": 0
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 0,
+  "surcharge": 0,
+  "interest": 0,
+  "total": 0
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B04",
+  "gross_sales": 299999999,
+  "tier": "micro",
+  "income": 40000000,
+  "days_late": 90,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 2250000,
+  "surcharge": 225000,
+  "interest": 33288,
+  "total": 2508288
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B05",
+  "gross_sales": 250000000,
+  "tier": "micro",
+  "income": 10000000,
+  "days_late": 365,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 0,
+  "surcharge": 0,
+  "interest": 0,
+  "total": 0
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B06",
+  "gross_sales": 250000000,
+  "tier": "micro",
+  "income": 50000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 10000000,
+    "amount": 2000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 4250000,
+  "surcharge": 425000,
+  "interest": 20959,
+  "total": 4695959
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B07",
+  "gross_sales": 299999999,
+  "tier": "micro",
+  "income": 290000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 90000000,
+    "amount": 27000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 67250000,
+  "surcharge": 6725000,
+  "interest": 331644,
+  "total": 74306644
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B08",
+  "gross_sales": 300000000,
+  "tier": "small",
+  "income": 50000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 10000000,
+    "amount": 2000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 4250000,
+  "surcharge": 425000,
+  "interest": 20959,
+  "total": 4695959
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B09",
+  "gross_sales": 300000000,
+  "tier": "small",
+  "income": 25000005,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 5,
+    "amount": 0
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 0,
+  "surcharge": 0,
+  "interest": 0,
+  "total": 0
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B10",
+  "gross_sales": 500000000,
+  "tier": "small",
+  "income": 80000000,
+  "days_late": 90,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 10250000,
+  "surcharge": 1025000,
+  "interest": 151644,
+  "total": 11426644
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B11",
+  "gross_sales": 500000000,
+  "tier": "small",
+  "income": 80000001,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 1,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 10250000,
+  "surcharge": 1025000,
+  "interest": 50548,
+  "total": 11325548
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B12",
+  "gross_sales": 500000000,
+  "tier": "small",
+  "income": 150000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 70000000,
+    "amount": 17500000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 27750000,
+  "surcharge": 2775000,
+  "interest": 136849,
+  "total": 30661849
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B13",
+  "gross_sales": 500000000,
+  "tier": "small",
+  "income": 200000000,
+  "days_late": 365,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 40250000,
+  "surcharge": 4025000,
+  "interest": 2415000,
+  "total": 46690000
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B14",
+  "gross_sales": 500000000,
+  "tier": "small",
+  "income": 25000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 0,
+  "surcharge": 0,
+  "interest": 0,
+  "total": 0
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B15",
+  "gross_sales": 1999999999,
+  "tier": "small",
+  "income": 200000001,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 1,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 40250000,
+  "surcharge": 4025000,
+  "interest": 198493,
+  "total": 44473493
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B16",
+  "gross_sales": 1999999999,
+  "tier": "small",
+  "income": 800000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 600000000,
+    "amount": 180000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 220250000,
+  "surcharge": 22025000,
+  "interest": 1086164,
+  "total": 243361164
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B17",
+  "gross_sales": 1999999999,
+  "tier": "small",
+  "income": 800000001,
+  "days_late": 365,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 600000000,
+    "amount": 180000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 1,
+    "amount": 0
+   }
+  ],
+  "income_tax": 220250000,
+  "surcharge": 22025000,
+  "interest": 13215000,
+  "total": 255490000
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B18",
+  "gross_sales": 2000000000,
+  "tier": "medium",
+  "income": 250000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 50000000,
+    "amount": 15000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 55250000,
+  "surcharge": 13812500,
+  "interest": 544932,
+  "total": 69607432
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B19",
+  "gross_sales": 2000000000,
+  "tier": "medium",
+  "income": 400000000,
+  "days_late": 90,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 200000000,
+    "amount": 60000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 100250000,
+  "surcharge": 25062500,
+  "interest": 2966301,
+  "total": 128278801
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B20",
+  "gross_sales": 2000000000,
+  "tier": "medium",
+  "income": 800000000,
+  "days_late": 1,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 600000000,
+    "amount": 180000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 220250000,
+  "surcharge": 55062500,
+  "interest": 72411,
+  "total": 275384911
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B21",
+  "gross_sales": 2000000000,
+  "tier": "medium",
+  "income": 100000000,
+  "days_late": 730,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 20000000,
+    "amount": 5000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 15250000,
+  "surcharge": 3812500,
+  "interest": 3660000,
+  "total": 22722500
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B22",
+  "gross_sales": 50000000000,
+  "tier": "medium",
+  "income": 900000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 600000000,
+    "amount": 180000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 100000000,
+    "amount": 35000000
+   }
+  ],
+  "income_tax": 255250000,
+  "surcharge": 63812500,
+  "interest": 2517534,
+  "total": 321580034
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B23",
+  "gross_sales": 99999999999,
+  "tier": "medium",
+  "income": 1000000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 600000000,
+    "amount": 180000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 200000000,
+    "amount": 70000000
+   }
+  ],
+  "income_tax": 290250000,
+  "surcharge": 72562500,
+  "interest": 2862740,
+  "total": 365675240
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B24",
+  "gross_sales": 2000000000,
+  "tier": "medium",
+  "income": 25000000,
+  "days_late": 90,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 0,
+  "surcharge": 0,
+  "interest": 0,
+  "total": 0
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B25",
+  "gross_sales": 100000000000,
+  "tier": "large",
+  "income": 25000000,
+  "days_late": 0,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 0,
+  "surcharge": 0,
+  "interest": 0,
+  "total": 0
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B26",
+  "gross_sales": 100000000000,
+  "tier": "large",
+  "income": 900000000,
+  "days_late": 365,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 600000000,
+    "amount": 180000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 100000000,
+    "amount": 35000000
+   }
+  ],
+  "income_tax": 255250000,
+  "surcharge": 63812500,
+  "interest": 30630000,
+  "total": 349692500
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B27",
+  "gross_sales": 150000000000,
+  "tier": "large",
+  "income": 50000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 10000000,
+    "amount": 2000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 4250000,
+  "surcharge": 1062500,
+  "interest": 41918,
+  "total": 5354418
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B28",
+  "gross_sales": 150000000000,
+  "tier": "large",
+  "income": 2000000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 600000000,
+    "amount": 180000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 1200000000,
+    "amount": 420000000
+   }
+  ],
+  "income_tax": 640250000,
+  "surcharge": 160062500,
+  "interest": 6314795,
+  "total": 806627295
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B29",
+  "gross_sales": 150000000000,
+  "tier": "large",
+  "income": 2000000001,
+  "days_late": 90,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 600000000,
+    "amount": 180000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 1200000001,
+    "amount": 420000000
+   }
+  ],
+  "income_tax": 640250000,
+  "surcharge": 160062500,
+  "interest": 18944384,
+  "total": 819256884
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B30",
+  "gross_sales": 150000000000,
+  "tier": "large",
+  "income": 850000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 600000000,
+    "amount": 180000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 50000000,
+    "amount": 17500000
+   }
+  ],
+  "income_tax": 237750000,
+  "surcharge": 59437500,
+  "interest": 2344932,
+  "total": 299532432
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B31",
+  "gross_sales": 100000000000,
+  "tier": "large",
+  "income": 30000000,
+  "days_late": 30,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 5000000,
+    "amount": 750000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 0,
+    "amount": 0
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 0,
+    "amount": 0
+   }
+  ],
+  "income_tax": 750000,
+  "surcharge": 187500,
+  "interest": 7397,
+  "total": 944897
+ },
+ {
+  "engine": "F4_half_up",
+  "case_id": "B32",
+  "gross_sales": 100000000000,
+  "tier": "large",
+  "income": 8000000000,
+  "days_late": 730,
+  "lines": [
+   {
+    "lo": 25000000,
+    "hi": 40000000,
+    "rate": 15,
+    "base": 15000000,
+    "amount": 2250000
+   },
+   {
+    "lo": 40000000,
+    "hi": 80000000,
+    "rate": 20,
+    "base": 40000000,
+    "amount": 8000000
+   },
+   {
+    "lo": 80000000,
+    "hi": 200000000,
+    "rate": 25,
+    "base": 120000000,
+    "amount": 30000000
+   },
+   {
+    "lo": 200000000,
+    "hi": 800000000,
+    "rate": 30,
+    "base": 600000000,
+    "amount": 180000000
+   },
+   {
+    "lo": 800000000,
+    "hi": null,
+    "rate": 35,
+    "base": 7200000000,
+    "amount": 2520000000
+   }
+  ],
+  "income_tax": 2740250000,
+  "surcharge": 685062500,
+  "interest": 657660000,
+  "total": 4082972500
+ }
+]

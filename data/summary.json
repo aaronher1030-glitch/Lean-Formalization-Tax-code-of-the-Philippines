@@ -1,0 +1,97 @@
+{
+ "certificates_checked": 254,
+ "false_accepts": [],
+ "llm_parse_failures": [],
+ "engines": {
+  "E0_honest": {
+   "n": 32,
+   "accepted": 32,
+   "rejected": 0,
+   "accept_rate": 1.0,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 0,
+   "max_abs_error_any": 0
+  },
+  "F1_flat_top": {
+   "n": 32,
+   "accepted": 0,
+   "rejected": 32,
+   "accept_rate": 0.0,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 75990000,
+   "max_abs_error_any": 75990000
+  },
+  "F2_untiered": {
+   "n": 32,
+   "accepted": 21,
+   "rejected": 11,
+   "accept_rate": 0.6562,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 46252500,
+   "max_abs_error_any": 46252500
+  },
+  "F3_year360": {
+   "n": 32,
+   "accepted": 8,
+   "rejected": 24,
+   "accept_rate": 0.25,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 9134166,
+   "max_abs_error_any": 9134166
+  },
+  "F4_half_up": {
+   "n": 32,
+   "accepted": 19,
+   "rejected": 13,
+   "accept_rate": 0.5938,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 1,
+   "max_abs_error_any": 1
+  },
+  "F5_train2018": {
+   "n": 32,
+   "accepted": 0,
+   "rejected": 32,
+   "accept_rate": 0.0,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 74680000,
+   "max_abs_error_any": 74680000
+  },
+  "F6_micro_le": {
+   "n": 32,
+   "accepted": 30,
+   "rejected": 2,
+   "accept_rate": 0.9375,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 0,
+   "max_abs_error_any": 0
+  },
+  "LLM_agent1_B01_B10": {
+   "n": 10,
+   "accepted": 10,
+   "rejected": 0,
+   "accept_rate": 1.0,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 0,
+   "max_abs_error_any": 0
+  },
+  "LLM_agent2_B11_B20": {
+   "n": 10,
+   "accepted": 10,
+   "rejected": 0,
+   "accept_rate": 1.0,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 0,
+   "max_abs_error_any": 0
+  },
+  "LLM_agent3_B21_B30": {
+   "n": 10,
+   "accepted": 10,
+   "rejected": 0,
+   "accept_rate": 1.0,
+   "accepted_with_wrong_total": 0,
+   "max_overclaim_rejected": 0,
+   "max_abs_error_any": 0
+  }
+ }
+}

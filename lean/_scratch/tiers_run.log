@@ -1,0 +1,10 @@
+'PHTax.checkT_sound' depends on axioms: [propext, Quot.sound]
+'PHTax.checkT_complete' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PHTax.vat_tier_gap' depends on axioms: [propext, Quot.sound]
+[(250000000, PHTax.Tier.micro),
+ (300000000, PHTax.Tier.small),
+ (1999999999, PHTax.Tier.small),
+ (2000000000, PHTax.Tier.medium),
+ (99999999999, PHTax.Tier.medium),
+ (100000000000, PHTax.Tier.large)]
+[(250000000, (PHTax.Tier.micro, (425000, (20958, 4695958)))), (2500000000, (PHTax.Tier.medium, (1062500, (41917, 5354417)))), (150000000000, (PHTax.Tier.large, (1062500, (41917, 5354417))))]

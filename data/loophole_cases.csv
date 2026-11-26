@@ -1,0 +1,12 @@
+finding,label,checker,gross_sales,income,days_late,elected,accepted,total_centavos,note
+L1,income_gt_gross_checkT,checkT,100000000,10000000000,30,False,True,3801240616,"P1M gross sales, P100M taxable income: impossible, accepted"
+L1,income_gt_gross_check8,check8,100000000,10000000000,30,False,True,3804555410,same inputs under the election-aware checker: accepted
+L2,retro_graduated,check8,300000000,300000000,30,False,True,87565821,"delinquent taxpayer, no election"
+L2,retro_eight,check8,300000000,300000000,30,True,True,24308493,same certificate with elected flipped after the fact
+L3,cliff_below_20M,check8,1999999999,1500000000,30,False,True,580365271,one centavo below the P20M tier line
+L3,cliff_at_20M,check8,2000000000,1500000000,30,False,True,661743047,one centavo above: penalties jump
+L4,trap_graduated,check8,300000000,25000000,30,False,True,9944383,income at exemption floor: graduated penalty base P90k
+L4,trap_eight,check8,300000000,25000000,30,True,True,24308493,electing 8% RAISES penalties here (base P220k)
+L4,crossover_at,check8,300000000,91000000,30,True,True,24308493,smallest income where the 8% base stops exceeding graduated
+L4,crossover_below,check8,300000000,90999999,30,True,True,24308493,one centavo below the crossover
+L5,hundred_years_late,check8,150000000000,5000000000,36500,False,True,82020812500,"100 years late: accepted, interest = 12x basic, no prescription"

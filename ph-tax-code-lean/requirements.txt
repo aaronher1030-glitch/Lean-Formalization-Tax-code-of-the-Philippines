@@ -1,0 +1,4 @@
+# Optional Python dependencies for the paper/figure/benchmark tooling.
+# The Lean artifact itself needs only the Lean 4.35.0 toolchain (see lean-toolchain).
+python-docx
+matplotlib

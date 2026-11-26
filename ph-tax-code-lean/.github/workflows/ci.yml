@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  lean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install elan and the pinned toolchain
+        run: |
+          curl -sSf https://elan.lean-lang.org/elan-init.sh | sh -s -- -y --default-toolchain none
+          echo "$HOME/.elan/bin" >> "$GITHUB_PATH"
+      - name: Build and check the verified core
+        run: LEAN=lean bash lean/run_demo.sh
+      - name: Kernel-check the findings battery
+        run: LEAN=lean python -X utf8 tools/findings.py
+      - name: Guard necessity (mutation tests)
+        run: LEAN=lean python -X utf8 tools/mutation_tests.py
+
+  python:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tool tests
+        run: python -X utf8 -m unittest discover -s tools -p "test_*.py" -v
+      - name: Findings dry run
+        run: python -X utf8 tools/findings.py --dry-run
+      - name: Relative links in Markdown
+        run: python -X utf8 tools/check_links.py

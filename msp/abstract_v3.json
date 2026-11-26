@@ -1,0 +1,34 @@
+{
+  "title": "A Verified Core for Tax Administration: Philippine Tax Rules and a Proven Checker in Lean 4",
+  "author": "Aaron Y. Hernandez",
+  "affiliation": "Senior High School, Benigno S. Aquino National High School, Philippines",
+  "email": "",
+  "body": "Legal systems are increasingly implemented through software, yet scalable methods for translating legal texts into accurate symbolic representations remain underdeveloped [3]. Following neuro-symbolic formalization of United States tax forms [1] and law-specific languages for statutory computation [2], we study Philippine tax law, where the National Internal Revenue Code and its amendments define computational structures of arithmetic, branching, and tabular reasoning [4,5]. We propose a verified Lean 4 core formalizing the TRAIN income tax schedule, late-payment penalties, the \u20b13,000,000 VAT threshold, taxpayer tiers, and the 8% optional regime as executable, machine-checked definitions. Our approach establishes two correspondences between law and logic: structural, aligning the statutory bracket schedule with the checker's bracket list, and denotational, proved as soundness and completeness of the certificate checkers that accept any engine's line-by-line assessment only if every line implements the statute's computation. We combine kernel-checked proofs (59 theorems, 82 examples, no unproven steps) with mutation tests, a battery of 274 generated propositions, and benchmarks whose ground truth is agreed by independent Python and Lean implementations. We then evaluate thirteen seeded-fault implementations and three large language model sessions: 766 certificates judged only by the verified checkers. Although a misreading of the \u20b13,000,000 tier boundary passes 30 of 32 cases, the checker rejects it, and no faulty engine produced an accepted wrong total. The encoded specification awaits practitioner review.",
+  "references": [
+    [
+      "S. S. Han, Y. Takashima, A. Wei, Z. Li, M. Genesereth, ",
+      "Law and Order: Tax Law Autoformalization",
+      ", arXiv:2610.02792 (2026)."
+    ],
+    [
+      "D. Merigoux, N. Chataing, J. Protzenko, ",
+      "Catala: A Programming Language for the Law",
+      ", arXiv:2103.03198 (2021)."
+    ],
+    [
+      "OECD, ",
+      "Cracking the Code: Rulemaking for Humans and Machines",
+      ". OECD Publishing, 2020."
+    ],
+    [
+      "Republic Act No. 8424 (National Internal Revenue Code, as amended) and Republic Act No. 10963 (TRAIN), LawPhil.",
+      "",
+      ""
+    ],
+    [
+      "Republic Act No. 11976 (Ease of Paying Taxes Act, 2024), LawPhil.",
+      "",
+      ""
+    ]
+  ]
+}
