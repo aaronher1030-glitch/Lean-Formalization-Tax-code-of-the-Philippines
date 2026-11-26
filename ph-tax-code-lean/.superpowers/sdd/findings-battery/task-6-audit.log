@@ -1,0 +1,8 @@
+'f001_equivalence_certt_001' depends on axioms: [propext]
+'f033_equivalence_cert8_033' depends on axioms: [propext]
+'f129_divergence_129' depends on axioms: [propext]
+'f185_boundary_185' does not depend on any axioms
+'f201_cliff_201' depends on axioms: [propext]
+'f219_crossover_219' does not depend on any axioms
+'f239_monotone_239' depends on axioms: [propext]
+'f259_gap_259' depends on axioms: [propext]

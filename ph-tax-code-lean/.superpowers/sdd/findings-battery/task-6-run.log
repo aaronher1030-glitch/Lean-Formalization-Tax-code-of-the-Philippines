@@ -1,0 +1,11 @@
+PASS: 274 findings kernel-checked in 12.0 s; axioms: propext only
+  equivalence_certT    equivalence   32
+  equivalence_cert8    equivalence   96
+  divergence           divergence    56
+  boundary             boundary      16
+  cliff                incentive     18
+  crossover            incentive     20
+  monotone             identity      20
+  gap                  gap           16
+wrote C:\Users\Ma Christine\Downloads\LEAN FORMALIZATION OF TAX CODE\ph-tax-code-lean\data\findings.csv and C:\Users\Ma Christine\Downloads\LEAN FORMALIZATION OF TAX CODE\ph-tax-code-lean\FINDINGS.md
+WALL_CLOCK seconds=12.496 user=0.000 sys=0.046
