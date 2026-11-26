@@ -37,3 +37,6 @@ target/logs/
 Thumbs.db
 desktop.ini
 *.swp
+
+# Local archive staging (uploaded as release assets, not committed)
+_archives/
