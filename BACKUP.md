@@ -6,8 +6,8 @@ cannot hold (GitHub caps a single git file at 100 MB).
 
 | | Location | Size | What |
 |---|---|---|---|
-| **1** | `git clone` of this repo | ~44 MB, 343 files | All source, proofs, papers, data, configs, and full history of the 3 nested repos |
-| **2** | [Release `backup-2026-11-26`](https://github.com/aaronher1030-glitch/Lean-Formalization-Tax-code-of-the-Philippines/releases/tag/backup-2026-11-26) | ~883 MB | `tools-lean-4.35.0-windows.zip` (857 MB) + `bettergovtarlacph-node_modules.zip` (26 MB) |
+| **1** | `git clone` of this repo | ~51 MB, 351 files | All source, proofs, papers, data, configs, and full history of the 3 nested repos |
+| **2** | [Release `backup-2026-11-26`](https://github.com/aaronher1030-glitch/Lean-Formalization-Tax-code-of-the-Philippines/releases/tag/backup-2026-11-26) | ~883 MB | `tools-lean-4.35.0-windows.zip` in 18 parts (857 MB) + `bettergovtarlacph-node_modules.zip` (26 MB) |
 
 ## Get it all back on a new machine
 
@@ -17,11 +17,29 @@ cd Lean-Formalization-Tax-code-of-the-Philippines
 
 # large directories (needs the GitHub CLI: https://cli.github.com)
 gh release download backup-2026-11-26
+```
+
+The Lean toolchain ships as **18 numbered parts** (GitHub rejects single uploads
+this large on slow connections), so reassemble it before unzipping:
+
+```powershell
+# 1. stitch the parts back together
+$out = [IO.File]::Create("tools-lean-4.35.0-windows.zip")
+Get-ChildItem "tools-lean-4.35.0-windows.zip.part*" | Sort-Object Name | ForEach-Object {
+  $in = [IO.File]::OpenRead($_.FullName); $in.CopyTo($out); $in.Close()
+}
+$out.Close()
+
+# 2. verify against the published checksum, then unzip
+Get-FileHash tools-lean-4.35.0-windows.zip -Algorithm SHA256
 Expand-Archive tools-lean-4.35.0-windows.zip -DestinationPath tools\lean\dist
 Expand-Archive bettergovtarlacph-node_modules.zip -DestinationPath bettergovtarlacph-publish
 ```
 
-Without `gh`, download both files manually from the Releases page and unzip as above.
+The expected SHA-256 is in the `tools-lean-4.35.0-windows.zip.sha256` asset.
+
+Without `gh`, download every file manually from the Releases page into one folder
+and run the same steps.
 
 ## Map of the repository
 

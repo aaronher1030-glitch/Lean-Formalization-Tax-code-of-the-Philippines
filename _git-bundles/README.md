@@ -81,12 +81,19 @@ on upstream availability to restore them:
 
 | Asset | Size | Restores to |
 |---|---|---|
-| `tools-lean-4.35.0-windows.zip` | ~1.1 GB | `tools/lean/dist/lean-4.35.0-windows/` |
-| `bettergovtarlacph-node_modules.zip` | 27 MB | `bettergovtarlacph-publish/node_modules/` |
+| `tools-lean-4.35.0-windows.zip.part001` … `.part018` | 857 MB total | `tools/lean/dist/lean-4.35.0-windows/` |
+| `bettergovtarlacph-node_modules.zip` | 26 MB | `bettergovtarlacph-publish/node_modules/` |
 
-Restore:
+The toolchain is split into 18 parts because a single 857 MB upload times out on
+slow connections. Reassemble before extracting:
 
 ```powershell
+$out = [IO.File]::Create("tools-lean-4.35.0-windows.zip")
+Get-ChildItem "tools-lean-4.35.0-windows.zip.part*" | Sort-Object Name | ForEach-Object {
+  $in = [IO.File]::OpenRead($_.FullName); $in.CopyTo($out); $in.Close()
+}
+$out.Close()
+
 Expand-Archive tools-lean-4.35.0-windows.zip -DestinationPath tools\lean\dist
 Expand-Archive bettergovtarlacph-node_modules.zip -DestinationPath bettergovtarlacph-publish
 ```
