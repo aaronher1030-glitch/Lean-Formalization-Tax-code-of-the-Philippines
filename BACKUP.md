@@ -36,7 +36,13 @@ Expand-Archive tools-lean-4.35.0-windows.zip -DestinationPath tools\lean\dist
 Expand-Archive bettergovtarlacph-node_modules.zip -DestinationPath bettergovtarlacph-publish
 ```
 
-The expected SHA-256 is in the `tools-lean-4.35.0-windows.zip.sha256` asset.
+The expected SHA-256 is
+`9C065EA352FA38BA181F1A43EEE166327C149BBBF4782ECE39AEF8CFB5A1A025`
+(also published as the `tools-lean-4.35.0-windows.zip.sha256` asset).
+
+All 18 parts were verified byte-for-byte against GitHub's stored SHA-256 digests
+after upload, and one part was downloaded back and re-hashed as an end-to-end
+check.
 
 Without `gh`, download every file manually from the Releases page into one folder
 and run the same steps.
