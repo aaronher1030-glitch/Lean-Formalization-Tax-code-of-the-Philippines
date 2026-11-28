@@ -351,6 +351,60 @@ ANNEX_D = {
     ],
 }
 
+# A second publication of the same 2018 table, and not the annex file: RMC No.
+# 105-2017 (28 December 2017), Annex "A", "Revised Withholding Tax Table,
+# Effective January 1, 2018 to December 31, 2022", read on RETRIEVED from the
+# Supreme Court E-Library,
+# elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/89733 .
+#
+# That circular is the instrument the regulation's own Sec. 2.79(B)(1) points
+# at, and RMC No. 1-2018 (4 January 2018) then prescribes "the Revised
+# Withholding Tax Tables, version 2 (Annex 'A')" and prints worked examples
+# instead of the table itself. This is the version-2 table, so it is the one
+# that governs 2018-2022 compensation.
+#
+# The copy read is the e-library's text, not a scan: the Bureau's own scan of
+# the same annex, bir-cdn.bir.gov.ph/local/pdf/WT table.pdf, is an OCR that
+# renders the semi-monthly nil band as "5.00" and the monthly one as "0.0".
+# The e-library copy prints the annex as a table whose first column is "685 and
+# below" and whose columns 2-6 head "Compensation Level (CL)", with the bases
+# under "Prescribed Minimum Withholding Tax" -- the same floors and bases as
+# ANNEX_D, one document removed from the regulation.
+RMC_105_2017 = {
+    "daily": [
+        (685_00, 0, 20),
+        (1_096_00, 82_19, 25),
+        (2_192_00, 356_16, 30),
+        (5_479_00, 1_342_47, 32),
+        (21_918_00, 6_602_74, 35),
+    ],
+    "weekly": [
+        (4_808_00, 0, 20),
+        (7_692_00, 576_92, 25),
+        (15_385_00, 2_500_00, 30),
+        (38_462_00, 9_423_08, 32),
+        (153_846_00, 46_346_15, 35),
+    ],
+    "semi_monthly": [
+        (10_417_00, 0, 20),
+        (16_667_00, 1_250_00, 25),
+        (33_333_00, 5_416_67, 30),
+        (83_333_00, 20_416_67, 32),
+        (333_333_00, 100_416_67, 35),
+    ],
+    "monthly": [
+        (20_833_00, 0, 20),
+        (33_333_00, 2_500_00, 25),
+        (66_667_00, 10_833_33, 30),
+        (166_667_00, 40_833_33, 32),
+        (666_667_00, 200_833_33, 35),
+    ],
+}
+
+ANNEX_D_REPRINTS = {
+    "RMC No. 105-2017 Annex A": RMC_105_2017,
+}
+
 # The 2018 bases the regulation body itself prints, in the illustrations of
 # Sec. 2.79(B)(4) that use the withholding tables. Each entry is the tax printed
 # on that floor, the marginal rate printed beside it, and the illustration that
@@ -438,6 +492,28 @@ def annex_d_mismatches():
             elif (row[1], row[2]) != (base_c, rate):
                 out.append(f"{cite}: Annex D {period} at {floor_c} is "
                            f"{(row[1], row[2])} != printed {(base_c, rate)}")
+    return out
+
+
+def annex_d_reprint_mismatches():
+    """Bands where ANNEX_D departs from a second publication of the table.
+
+    RMC 105-2017's Annex A prints all twenty bases, so the fourteen the
+    regulation's illustrations do not name no longer rest on the annex file.
+    Two BIR documents printing one table are independent as publications, not
+    as derivations; this catches a slip in either transcription, not a
+    drafting error common to both.
+    """
+    out = []
+    for name, tables in ANNEX_D_REPRINTS.items():
+        for period, rows in tables.items():
+            if len(rows) != len(ANNEX_D[period]):
+                out.append(f"{name}: {period} has {len(rows)} bands, "
+                           f"ANNEX_D has {len(ANNEX_D[period])}")
+                continue
+            for i, (want, row) in enumerate(zip(rows, ANNEX_D[period]), start=1):
+                if want != row:
+                    out.append(f"{name}: {period} band {i} {row} != reprint {want}")
     return out
 
 
@@ -772,6 +848,11 @@ def main():
         for p in annex_d_problems:
             print(f"ANNEX D {p}")
         sys.exit("2018 Annex D no longer matches RR 11-2018's illustrations")
+    annex_d_reprint_problems = annex_d_reprint_mismatches()
+    if annex_d_reprint_problems:
+        for p in annex_d_reprint_problems:
+            print(f"ANNEX D REPRINT {p}")
+        sys.exit("2018 Annex D no longer matches RMC 105-2017's Annex A")
     drift = annex_d_drift()
 
     sweep = (list(range(0, 900_000_00, 7_777)) +
@@ -807,6 +888,9 @@ def main():
     print(f"2018 Annex D: RR 11-2018's illustrations print "
           f"{sum(len(v) for v in RR_ILLUSTRATIONS.values())} of its bases and "
           f"all match the transcription; floors are Annex E's")
+    print(f"2018 Annex D reprint ("
+          f"{', '.join(ANNEX_D_REPRINTS)}) agrees on all "
+          f"{sum(len(r) for r in RMC_105_2017.values())} bands")
     print(f"2018 Annex D: {len(drift)} of "
           f"{sum(len(r) - 1 for r in ANNEX_D.values())} bases are rounded, "
           f"not the tax accumulated at their floor "

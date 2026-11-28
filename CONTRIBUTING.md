@@ -32,7 +32,7 @@ Open an issue naming the NIRC section and what you intend to do. One section and
 |---|---|---|
 | Read a section against the source | `data/ra8424.html` | Quote the text, list every undefined term it uses, and say which parts are computational |
 | Add a boundary case | `tools/bir_calculator_check.py`, `data/benchmark_cases.csv` | The case fails before the fix and passes after; live-calculator cases must reproduce the live answer |
-| Check a period table | `ANNEX_E` and `ANNEX_D` in `tools/bir_calculator_check.py` — both tranches are transcribed, see §4 of [`BIR_CALCULATOR_CROSSCHECK.md`](BIR_CALCULATOR_CROSSCHECK.md) | A second source for the fourteen 2018 bases RR 11-2018's illustrations do not print, or a dated list of differences when a table is amended |
+| Check a period table | `ANNEX_E` and `ANNEX_D` in `tools/bir_calculator_check.py` — both tranches are transcribed and checked against independent publications, see §4 of [`BIR_CALCULATOR_CROSSCHECK.md`](BIR_CALCULATOR_CROSSCHECK.md) | A practitioner's derivation of either table — every copy reprints the same schedule, and the 2018 bases are rounded rather than cumulative — or a dated list of differences when a table is amended |
 | Verify a citation edge | `data/nirc_refs.csv`, `tools/cluster_graph.py` | A false edge is removed or a missing one added, with the quoted reference |
 | Write a bug report from a finding | an issue | Reproduction steps, statute citation, expected and actual figures |
 | Explain or translate a section | new Markdown beside the report | Plain-language summary in English, Filipino, Cebuano or Ilocano, checked by a second reader |
