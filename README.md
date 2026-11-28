@@ -16,6 +16,10 @@ only if every line follows the statute. The checker is proven sound (accepted
 means correct under the specification) and complete (honest means accepted),
 and the repository measures what it catches when untrusted engines are wrong.
 
+The project is open to contributors anywhere in the Philippines with a laptop
+or desktop; [`CONTRIBUTING.md`](CONTRIBUTING.md) lists work that needs no Lean
+installation and how to claim a section.
+
 ## What is formalized
 
 Seven NIRC sections in their computational parts — each only in part. Full
@@ -49,6 +53,7 @@ detail in [`COVERAGE.md`](ph-tax-code-lean/COVERAGE.md).
 | [`data/`](data/) | NIRC section index, benchmark cases, results, engine certificates, raw LLM runs |
 | [`msp/`](msp/) | MSPR3-2026 abstract submissions and templates |
 | [`docs/`](docs/) | Specification review packet |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to take a work unit, with or without Lean |
 | [`figures/`](figures/), [`preview*/`](previews/) | Plots and rendered page previews |
 | [`bettergovtarlacph-publish/`](bettergovtarlacph-publish/) | Better Concepcion web project (TypeScript/Vite) |
 | [`discord-mcp-lite/`](discord-mcp-lite/) | Discord MCP server |
@@ -56,7 +61,13 @@ detail in [`COVERAGE.md`](ph-tax-code-lean/COVERAGE.md).
 
 Root-level papers: `Verified_Core_Tax_Governance_PH` (`.md`/`.pdf`/`.docx`),
 `Feasibility_Study_Lean_Governance_PH`, `DEEP_RESEARCH_LEAN_TAX_GOVERNANCE.md`,
-`DEEP_RESEARCH_VENUES_GAPS_HURDLES.md`, `REVIEWER_RED_TEAM.md`,
+`DEEP_RESEARCH_VENUES_GAPS_HURDLES.md`,
+`DEEP_RESEARCH_DISTRIBUTED_TAX_FORMALIZATION.md` (the cluster/desk design),
+[`NIRC_CLUSTER_GRAPH.md`](NIRC_CLUSTER_GRAPH.md) (the measured section graph:
+163 references, 264 clusters, dependency frontier),
+[`BIR_CALCULATOR_CROSSCHECK.md`](BIR_CALCULATOR_CROSSCHECK.md) (the BIR
+withholding calculator, replayed and compared against the model),
+`REVIEWER_RED_TEAM.md`,
 `FINDINGS.md`, `LOOPHOLE_FINDINGS.md`, `OVERVIEW_AND_BETTERGOV_PROPOSAL.md`.
 
 ## Quick start
@@ -79,6 +90,8 @@ python -X utf8 tools/engines8.py          # eight election-aware engines
 python -X utf8 tools/run_harness8.py      # 512 certificates judged by check8
 python -X utf8 tools/loopholes.py         # exploiting certificates, cross-checked
 python -X utf8 tools/findings.py          # 274 kernel-checked findings
+python -X utf8 tools/cluster_graph.py     # NIRC citation graph -> cluster frontier
+python -X utf8 tools/bir_calculator_check.py   # BIR calculator vs the model
 ```
 
 ## Honesty notes

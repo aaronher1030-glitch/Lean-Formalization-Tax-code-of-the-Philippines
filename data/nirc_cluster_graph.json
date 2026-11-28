@@ -1,0 +1,8458 @@
+{
+ "source": "data/ra8424.html",
+ "note": "RA 8424 (1997) base text only; not the Code as amended. Section-level references only; subdivision references are counted per section as coupling, not as edges.",
+ "sections": 292,
+ "edges": 163,
+ "clusters": 264,
+ "cycles": [
+  [
+   108,
+   109,
+   110,
+   112,
+   113,
+   116,
+   119,
+   128,
+   236
+  ],
+  [
+   22,
+   24,
+   25,
+   27,
+   28,
+   32,
+   33,
+   34,
+   35,
+   36,
+   38,
+   39,
+   51,
+   56,
+   57,
+   58,
+   79
+  ],
+  [
+   203,
+   222
+  ],
+  [
+   84,
+   86,
+   90,
+   91
+  ]
+ ],
+ "noise": {
+  "duplicate": 36,
+  "self": 3
+ },
+ "totals": {
+  "formalizable_sections": 113,
+  "units_est": 927,
+  "units_merged": 58,
+  "density_basis": "1 + rule_paragraphs + max(1, rp//10); 0 if score<6"
+ },
+ "nodes": [
+  {
+   "section": 1,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Title of the Code",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 0,
+   "merged": false
+  },
+  {
+   "section": 2,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Powers and duties of the Bureau of Internal Revenue",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 1,
+   "merged": false
+  },
+  {
+   "section": 3,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Chief Officials of the Bureau of Internal Revenue",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 2,
+   "merged": false
+  },
+  {
+   "section": 4,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Power of the Commissioner to Interpret Tax Laws and to Decide Tax Cases",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 3,
+   "merged": false
+  },
+  {
+   "section": 5,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Power of the Commissioner to Obtain Information, and to Summon, Examine, and Take Testimony of Persons",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 1,
+   "fan_in": 1,
+   "fan_out": 1,
+   "cluster": 15,
+   "merged": false
+  },
+  {
+   "section": 6,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Power of the Commissioner to Make assessments and Prescribe additional Requirements for Tax Administration and Enforcement",
+   "units": 11,
+   "numbers": 18,
+   "internal_refs": 0,
+   "fan_in": 4,
+   "fan_out": 3,
+   "cluster": 14,
+   "merged": false
+  },
+  {
+   "section": 7,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Authority of the Commissioner to Delegate Power",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 16,
+   "merged": false
+  },
+  {
+   "section": 8,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Duty of the Commissioner to Ensure the Provision and Distribution of forms, Receipts, Certificates, and Appliances, and the Acknowledgment of Payment of Taxes",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 17,
+   "merged": false
+  },
+  {
+   "section": 9,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Internal Revenue Districts",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 18,
+   "merged": false
+  },
+  {
+   "section": 10,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Revenue Regional Director",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 19,
+   "merged": false
+  },
+  {
+   "section": 11,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Duties of Revenue District Officers and Other Internal Revenue Officers",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 20,
+   "merged": false
+  },
+  {
+   "section": 12,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Agents and Deputies for Collection of National Internal Revenue Taxes",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 2,
+   "cluster": 24,
+   "merged": false
+  },
+  {
+   "section": 13,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Authority of a Revenue Offices",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 25,
+   "merged": false
+  },
+  {
+   "section": 14,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Authority of Officers to Administer Oaths and Take Testimony",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 26,
+   "merged": false
+  },
+  {
+   "section": 15,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Authority of Internal Revenue Officers to Make Arrests and Seizures",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 27,
+   "merged": false
+  },
+  {
+   "section": 16,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Assignment of Internal Revenue Officers Involved in Excise Tax Functions to Establishments Where Articles subject to Excise Tax are Produced or Kept",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 28,
+   "merged": false
+  },
+  {
+   "section": 17,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Assignment of Internal Revenue Officers and Other Employees to Other Duties",
+   "units": 0,
+   "numbers": 3,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 29,
+   "merged": false
+  },
+  {
+   "section": 18,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Reports of violation of Laws",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 30,
+   "merged": false
+  },
+  {
+   "section": 19,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Contents of Commissioner's Annual Report",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 31,
+   "merged": false
+  },
+  {
+   "section": 20,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Submission of Report and Pertinent Information by the Commissioner",
+   "units": 0,
+   "numbers": 4,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 3,
+   "cluster": 33,
+   "merged": false
+  },
+  {
+   "section": 21,
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE",
+   "heading": "Sources of Revenue",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 34,
+   "merged": true
+  },
+  {
+   "section": 22,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Definitions - When used in this Title: (A) The term 'person' means an individual, a trust, estate or corporation",
+   "units": 15,
+   "numbers": 20,
+   "internal_refs": 1,
+   "fan_in": 6,
+   "fan_out": 2,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 23,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "General Principles of Income Taxation in the Philippines",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 35,
+   "merged": false
+  },
+  {
+   "section": 24,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Income Tax Rates",
+   "units": 14,
+   "numbers": 91,
+   "internal_refs": 14,
+   "fan_in": 11,
+   "fan_out": 5,
+   "cluster": 42,
+   "merged": true
+  },
+  {
+   "section": 25,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Tax on Nonresident Alien Individual",
+   "units": 9,
+   "numbers": 25,
+   "internal_refs": 3,
+   "fan_in": 3,
+   "fan_out": 3,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 26,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Tax Liability of Members of General Professional Partnerships",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 43,
+   "merged": false
+  },
+  {
+   "section": 27,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Rates of Income tax on Domestic Corporations",
+   "units": 25,
+   "numbers": 50,
+   "internal_refs": 13,
+   "fan_in": 7,
+   "fan_out": 2,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 28,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Rates of Income Tax on Foreign Corporations",
+   "units": 23,
+   "numbers": 87,
+   "internal_refs": 3,
+   "fan_in": 4,
+   "fan_out": 4,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 29,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Imposition of Improperly Accumulated Earnings Tax",
+   "units": 9,
+   "numbers": 16,
+   "internal_refs": 6,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 44,
+   "merged": false
+  },
+  {
+   "section": 30,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Exemptions from Tax on Corporations",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 45,
+   "merged": false
+  },
+  {
+   "section": 31,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Taxable Income Defined",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 36,
+   "merged": false
+  },
+  {
+   "section": 32,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Gross Income",
+   "units": 21,
+   "numbers": 36,
+   "internal_refs": 3,
+   "fan_in": 3,
+   "fan_out": 1,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 33,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Special Treatment of Fringe Benefit",
+   "units": 11,
+   "numbers": 36,
+   "internal_refs": 3,
+   "fan_in": 1,
+   "fan_out": 2,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 34,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Deductions from Gross Income",
+   "units": 45,
+   "numbers": 113,
+   "internal_refs": 51,
+   "fan_in": 3,
+   "fan_out": 9,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 35,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Allowance of Personal Exemption for Individual Taxpayer",
+   "units": 11,
+   "numbers": 10,
+   "internal_refs": 3,
+   "fan_in": 1,
+   "fan_out": 1,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 36,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Items not Deductible",
+   "units": 11,
+   "numbers": 14,
+   "internal_refs": 3,
+   "fan_in": 1,
+   "fan_out": 1,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 37,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Special Provisions Regarding Income and Deductions of Insurance Companies, Whether Domestic or Foreign",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 46,
+   "merged": false
+  },
+  {
+   "section": 38,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "(6) Wagering Losses",
+   "units": 4,
+   "numbers": 3,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 1,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 39,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "(b) Securities Becoming worthless",
+   "units": 11,
+   "numbers": 13,
+   "internal_refs": 1,
+   "fan_in": 3,
+   "fan_out": 1,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 40,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Determination of Amount and Recognition of Gain or Loss",
+   "units": 12,
+   "numbers": 19,
+   "internal_refs": 9,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 37,
+   "merged": false
+  },
+  {
+   "section": 41,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Inventories",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 47,
+   "merged": false
+  },
+  {
+   "section": 42,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Income from Sources Within the Philippines",
+   "units": 20,
+   "numbers": 18,
+   "internal_refs": 19,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 48,
+   "merged": false
+  },
+  {
+   "section": 43,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "General Rule",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 1,
+   "cluster": 49,
+   "merged": false
+  },
+  {
+   "section": 44,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Period in which Items of Gross Income Included",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 50,
+   "merged": false
+  },
+  {
+   "section": 45,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Period for which Deductions and Credits Taken",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 51,
+   "merged": false
+  },
+  {
+   "section": 46,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Change of Accounting Period",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 53,
+   "merged": false
+  },
+  {
+   "section": 47,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Section 47",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 1,
+   "fan_in": 2,
+   "fan_out": 0,
+   "cluster": 52,
+   "merged": false
+  },
+  {
+   "section": 48,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Accounting for Long-term Contracts",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 54,
+   "merged": false
+  },
+  {
+   "section": 49,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Installment Basis",
+   "units": 3,
+   "numbers": 4,
+   "internal_refs": 4,
+   "fan_in": 2,
+   "fan_out": 0,
+   "cluster": 38,
+   "merged": false
+  },
+  {
+   "section": 50,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Allocation of Income and Deductions",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 55,
+   "merged": false
+  },
+  {
+   "section": 51,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Individual Return",
+   "units": 13,
+   "numbers": 20,
+   "internal_refs": 2,
+   "fan_in": 1,
+   "fan_out": 5,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 52,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Corporation Returns",
+   "units": 5,
+   "numbers": 12,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 5,
+   "cluster": 56,
+   "merged": false
+  },
+  {
+   "section": 53,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Extension of Time to File Returns",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 57,
+   "merged": false
+  },
+  {
+   "section": 54,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Returns of Receivers, Trustees in Bankruptcy or Assignees",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 58,
+   "merged": false
+  },
+  {
+   "section": 55,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Returns of General Professional Partnerships",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 59,
+   "merged": false
+  },
+  {
+   "section": 56,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Payment and Assessment of Income Tax for Individuals and Corporation",
+   "units": 8,
+   "numbers": 19,
+   "internal_refs": 0,
+   "fan_in": 2,
+   "fan_out": 4,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 57,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Withholding of Tax at Source",
+   "units": 5,
+   "numbers": 51,
+   "internal_refs": 0,
+   "fan_in": 5,
+   "fan_out": 2,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 58,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Returns and Payment of Taxes Withheld at Source",
+   "units": 8,
+   "numbers": 14,
+   "internal_refs": 1,
+   "fan_in": 3,
+   "fan_out": 6,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 59,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Tax on Profits Collectible from Owner or Other Persons",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 60,
+   "merged": false
+  },
+  {
+   "section": 60,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Imposition of Tax",
+   "units": 9,
+   "numbers": 10,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 2,
+   "cluster": 63,
+   "merged": false
+  },
+  {
+   "section": 61,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Taxable Income",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 4,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 64,
+   "merged": false
+  },
+  {
+   "section": 62,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Exemption Allowed to Estates and Trusts",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 65,
+   "merged": false
+  },
+  {
+   "section": 63,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Revocable trusts",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 61,
+   "merged": false
+  },
+  {
+   "section": 64,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Income for Benefit of Grantor",
+   "units": 3,
+   "numbers": 3,
+   "internal_refs": 1,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 62,
+   "merged": false
+  },
+  {
+   "section": 65,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Fiduciary Returns",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 66,
+   "merged": false
+  },
+  {
+   "section": 66,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Fiduciaries Indemnified Against Claims for Taxes Paid",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 67,
+   "merged": false
+  },
+  {
+   "section": 67,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Collection of Foreign Payments",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 68,
+   "merged": false
+  },
+  {
+   "section": 68,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Information at Source as to Income Payments",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 2,
+   "fan_out": 1,
+   "cluster": 40,
+   "merged": false
+  },
+  {
+   "section": 69,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Return of Information of Brokers",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 39,
+   "merged": false
+  },
+  {
+   "section": 70,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Returns of Foreign Corporations",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 69,
+   "merged": false
+  },
+  {
+   "section": 71,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Disposition of Income Tax Returns, Publication of Lists of Taxpayers and Filers",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 22,
+   "merged": false
+  },
+  {
+   "section": 72,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Suit to Recover Tax Based on False or Fraudulent Returns",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 70,
+   "merged": false
+  },
+  {
+   "section": 73,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Distribution of dividends or Assets by Corporations",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 71,
+   "merged": false
+  },
+  {
+   "section": 74,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Declaration of Income Tax for Individuals",
+   "units": 4,
+   "numbers": 7,
+   "internal_refs": 3,
+   "fan_in": 0,
+   "fan_out": 2,
+   "cluster": 72,
+   "merged": false
+  },
+  {
+   "section": 75,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Declaration of Quarterly Corporate Income Tax",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 73,
+   "merged": false
+  },
+  {
+   "section": 76,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Final Adjustment Return",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 1,
+   "cluster": 74,
+   "merged": false
+  },
+  {
+   "section": 77,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Place and Time of Filing and Payment of Quarterly Corporate Income Tax",
+   "units": 5,
+   "numbers": 6,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 2,
+   "cluster": 75,
+   "merged": false
+  },
+  {
+   "section": 78,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Definitions",
+   "units": 8,
+   "numbers": 11,
+   "internal_refs": 2,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 76,
+   "merged": false
+  },
+  {
+   "section": 79,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Income Tax Collected at Source",
+   "units": 18,
+   "numbers": 22,
+   "internal_refs": 7,
+   "fan_in": 1,
+   "fan_out": 2,
+   "cluster": 42,
+   "merged": false
+  },
+  {
+   "section": 80,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Liability for Tax",
+   "units": 5,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 77,
+   "merged": false
+  },
+  {
+   "section": 81,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Filing of Return and Payment of Taxes Withheld",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 41,
+   "merged": false
+  },
+  {
+   "section": 82,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Return and Payment in Case of Government Employees",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 78,
+   "merged": false
+  },
+  {
+   "section": 83,
+   "title": "Title II - TAX ON INCOME",
+   "heading": "Statements and Returns",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 3,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 79,
+   "merged": false
+  },
+  {
+   "section": 84,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Rates of Estate Tax",
+   "units": 3,
+   "numbers": 27,
+   "internal_refs": 0,
+   "fan_in": 2,
+   "fan_out": 2,
+   "cluster": 82,
+   "merged": false
+  },
+  {
+   "section": 85,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Gross Estate",
+   "units": 8,
+   "numbers": 7,
+   "internal_refs": 3,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 80,
+   "merged": false
+  },
+  {
+   "section": 86,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Computation of Net Estate",
+   "units": 34,
+   "numbers": 65,
+   "internal_refs": 16,
+   "fan_in": 2,
+   "fan_out": 2,
+   "cluster": 82,
+   "merged": false
+  },
+  {
+   "section": 87,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Exemption of Certain Acquisitions and Transmissions",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 83,
+   "merged": false
+  },
+  {
+   "section": 88,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Determination of the Value of the Estate",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 84,
+   "merged": false
+  },
+  {
+   "section": 89,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Notice of Death to be Filed",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 85,
+   "merged": false
+  },
+  {
+   "section": 90,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Estate Tax Returns",
+   "units": 11,
+   "numbers": 11,
+   "internal_refs": 2,
+   "fan_in": 1,
+   "fan_out": 2,
+   "cluster": 82,
+   "merged": false
+  },
+  {
+   "section": 91,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "(2) Property Previously Taxed",
+   "units": 5,
+   "numbers": 5,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 2,
+   "cluster": 82,
+   "merged": false
+  },
+  {
+   "section": 92,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Discharge of Executor or Administrator from Personal Liability",
+   "units": 0,
+   "numbers": 3,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 86,
+   "merged": false
+  },
+  {
+   "section": 93,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Definition of Deficiency",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 87,
+   "merged": false
+  },
+  {
+   "section": 94,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Payment before Delivery by Executor or Administrator",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 88,
+   "merged": false
+  },
+  {
+   "section": 95,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Duties of Certain Officers and Debtors",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 89,
+   "merged": false
+  },
+  {
+   "section": 96,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Restitution of Tax Upon Satisfaction of Outstanding Obligations",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 90,
+   "merged": false
+  },
+  {
+   "section": 97,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Payment of Tax Antecedent to the Transfer of Shares, Bonds or Rights",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 91,
+   "merged": false
+  },
+  {
+   "section": 98,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Imposition of Tax",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 93,
+   "merged": false
+  },
+  {
+   "section": 99,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "(B) The tax shall apply whether the transfer is in trust or otherwise, whether the gift is direct or indirect, and whether the property is real or personal, tangible or intangible",
+   "units": 5,
+   "numbers": 38,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 92,
+   "merged": false
+  },
+  {
+   "section": 100,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Transfer for Less Than Adequate and full Consideration",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 94,
+   "merged": false
+  },
+  {
+   "section": 101,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Exemption of Certain Gifts",
+   "units": 11,
+   "numbers": 10,
+   "internal_refs": 1,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 95,
+   "merged": false
+  },
+  {
+   "section": 102,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Valuation of Gifts Made in Property",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 96,
+   "merged": false
+  },
+  {
+   "section": 103,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Filing of Return and Payment of Tax",
+   "units": 7,
+   "numbers": 7,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 97,
+   "merged": false
+  },
+  {
+   "section": 104,
+   "title": "Title III - ESTATE AND DONOR'S TAXES",
+   "heading": "Definitions",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 98,
+   "merged": false
+  },
+  {
+   "section": 105,
+   "title": "Title IV - VALUE- ADDED TAX",
+   "heading": "Persons Liable",
+   "units": 0,
+   "numbers": 3,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 3,
+   "cluster": 100,
+   "merged": false
+  },
+  {
+   "section": 106,
+   "title": "Title IV - VALUE- ADDED TAX",
+   "heading": "Value-Added Tax on Sale of Goods or Properties",
+   "units": 18,
+   "numbers": 24,
+   "internal_refs": 4,
+   "fan_in": 7,
+   "fan_out": 2,
+   "cluster": 6,
+   "merged": false
+  },
+  {
+   "section": 107,
+   "title": "Title IV - VALUE- ADDED TAX",
+   "heading": "Value-Added Tax on Importation of Goods",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 99,
+   "merged": false
+  },
+  {
+   "section": 108,
+   "title": "Title IV - VALUE- ADDED TAX",
+   "heading": "Value-added Tax on Sale of Services and Use or Lease of Properties",
+   "units": 19,
+   "numbers": 23,
+   "internal_refs": 3,
+   "fan_in": 6,
+   "fan_out": 1,
+   "cluster": 11,
+   "merged": false
+  },
+  {
+   "section": 109,
+   "title": "Title IV - VALUE- ADDED TAX",
+   "heading": "Exempt Transactions",
+   "units": 12,
+   "numbers": 21,
+   "internal_refs": 2,
+   "fan_in": 2,
+   "fan_out": 3,
+   "cluster": 11,
+   "merged": true
+  },
+  {
+   "section": 110,
+   "title": "Title IV - VALUE- ADDED TAX",
+   "heading": "Tax Credits",
+   "units": 9,
+   "numbers": 7,
+   "internal_refs": 2,
+   "fan_in": 1,
+   "fan_out": 4,
+   "cluster": 11,
+   "merged": false
+  },
+  {
+   "section": 111,
+   "title": "Title IV - VALUE- ADDED TAX",
+   "heading": "Transitional/Presumptive Input Tax Credits",
+   "units": 5,
+   "numbers": 9,
+   "internal_refs": 1,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 7,
+   "merged": false
+  },
+  {
+   "section": 112,
+   "title": "Title IV - VALUE- ADDED TAX",
+   "heading": "(C) Determination of Creditable Input Tax",
+   "units": 8,
+   "numbers": 14,
+   "internal_refs": 2,
+   "fan_in": 1,
+   "fan_out": 2,
+   "cluster": 11,
+   "merged": false
+  },
+  {
+   "section": 113,
+   "title": "Title IV - VALUE- ADDED TAX",
+   "heading": "Invoicing and Accounting Requirements for VAT-Registered Persons",
+   "units": 6,
+   "numbers": 6,
+   "internal_refs": 0,
+   "fan_in": 2,
+   "fan_out": 4,
+   "cluster": 11,
+   "merged": false
+  },
+  {
+   "section": 114,
+   "title": "Title IV - VALUE- ADDED TAX",
+   "heading": "Return and Payment of Value-Added Tax",
+   "units": 6,
+   "numbers": 10,
+   "internal_refs": 1,
+   "fan_in": 1,
+   "fan_out": 3,
+   "cluster": 101,
+   "merged": false
+  },
+  {
+   "section": 115,
+   "title": "Title IV - VALUE- ADDED TAX",
+   "heading": "Power of the Commissioner to Suspend the Business Operations of a Taxpayer",
+   "units": 6,
+   "numbers": 7,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 2,
+   "cluster": 102,
+   "merged": false
+  },
+  {
+   "section": 116,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Tax on Persons Exempt from Value-Added Tax (VAT)",
+   "units": 3,
+   "numbers": 3,
+   "internal_refs": 0,
+   "fan_in": 2,
+   "fan_out": 1,
+   "cluster": 11,
+   "merged": true
+  },
+  {
+   "section": 117,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Percentage Tax on Domestic Carriers and Keepers of Garages",
+   "units": 5,
+   "numbers": 20,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 103,
+   "merged": false
+  },
+  {
+   "section": 118,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Percentage Tax on International Carriers",
+   "units": 4,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 104,
+   "merged": false
+  },
+  {
+   "section": 119,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Tax on Franchises",
+   "units": 4,
+   "numbers": 5,
+   "internal_refs": 1,
+   "fan_in": 1,
+   "fan_out": 2,
+   "cluster": 11,
+   "merged": false
+  },
+  {
+   "section": 120,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Tax on Overseas Dispatch, Message or Conversation Originating from the Philippines",
+   "units": 7,
+   "numbers": 6,
+   "internal_refs": 2,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 105,
+   "merged": false
+  },
+  {
+   "section": 121,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Tax on Banks and Non-bank Financial Intermediaries",
+   "units": 9,
+   "numbers": 15,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 106,
+   "merged": false
+  },
+  {
+   "section": 122,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Tax on Finance Companies",
+   "units": 7,
+   "numbers": 13,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 107,
+   "merged": false
+  },
+  {
+   "section": 123,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Tax on Life Insurance Premiums",
+   "units": 3,
+   "numbers": 5,
+   "internal_refs": 0,
+   "fan_in": 2,
+   "fan_out": 0,
+   "cluster": 108,
+   "merged": false
+  },
+  {
+   "section": 124,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Tax on Agents of Foreign Insurance Companies",
+   "units": 3,
+   "numbers": 3,
+   "internal_refs": 2,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 109,
+   "merged": false
+  },
+  {
+   "section": 125,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Amusement Taxes",
+   "units": 8,
+   "numbers": 8,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 110,
+   "merged": false
+  },
+  {
+   "section": 126,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Tax on Winnings",
+   "units": 4,
+   "numbers": 4,
+   "internal_refs": 2,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 111,
+   "merged": false
+  },
+  {
+   "section": 127,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Tax on Sale, Barter or Exchange of Shares of Stock Listed and Traded through the Local Stock Exchange or through Initial Public Offering",
+   "units": 14,
+   "numbers": 38,
+   "internal_refs": 13,
+   "fan_in": 0,
+   "fan_out": 3,
+   "cluster": 112,
+   "merged": false
+  },
+  {
+   "section": 128,
+   "title": "Title V - OTHER PERCENTAGE TAXES",
+   "heading": "Returns and Payment of Percentage Taxes",
+   "units": 6,
+   "numbers": 7,
+   "internal_refs": 1,
+   "fan_in": 1,
+   "fan_out": 1,
+   "cluster": 11,
+   "merged": false
+  },
+  {
+   "section": 129,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Goods subject to Excise Taxes",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 113,
+   "merged": false
+  },
+  {
+   "section": 130,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Filing of Return and Payment of Excise Tax on Domestic Products",
+   "units": 8,
+   "numbers": 22,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 2,
+   "cluster": 116,
+   "merged": false
+  },
+  {
+   "section": 131,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Payment of Excise Taxes on Importer Articles",
+   "units": 4,
+   "numbers": 6,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 117,
+   "merged": false
+  },
+  {
+   "section": 132,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Mode of Computing Contents of Cask or Package",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 118,
+   "merged": false
+  },
+  {
+   "section": 133,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Removal of Wines and distilled Spirits for Treatment of Tobacco Leaf",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 119,
+   "merged": false
+  },
+  {
+   "section": 134,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Domestic Denatured Alcohol",
+   "units": 3,
+   "numbers": 5,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 3,
+   "cluster": 121,
+   "merged": false
+  },
+  {
+   "section": 135,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Petroleum Products Sold to International Carriers and Exempt Entities or Agencies",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 122,
+   "merged": false
+  },
+  {
+   "section": 136,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Denaturation, Withdrawal and Use of Denatured Alcohol",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 123,
+   "merged": false
+  },
+  {
+   "section": 137,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Removal of Spirits Under Bond for Rectification",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 124,
+   "merged": false
+  },
+  {
+   "section": 138,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Removal of Fermented Liquors to Bonded Warehouse",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 125,
+   "merged": false
+  },
+  {
+   "section": 139,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Removal of Damaged Liquors Free of Tax",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 126,
+   "merged": false
+  },
+  {
+   "section": 140,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Removal of Tobacco Products without Prepayment of Tax",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 127,
+   "merged": false
+  },
+  {
+   "section": 141,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Distilled Spirits",
+   "units": 12,
+   "numbers": 20,
+   "internal_refs": 2,
+   "fan_in": 1,
+   "fan_out": 1,
+   "cluster": 120,
+   "merged": false
+  },
+  {
+   "section": 142,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Wines",
+   "units": 10,
+   "numbers": 15,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 128,
+   "merged": false
+  },
+  {
+   "section": 143,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Fermented Liquor",
+   "units": 13,
+   "numbers": 23,
+   "internal_refs": 7,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 130,
+   "merged": false
+  },
+  {
+   "section": 144,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Tobacco Products",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 131,
+   "merged": false
+  },
+  {
+   "section": 145,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Cigars and Cigarettes",
+   "units": 16,
+   "numbers": 45,
+   "internal_refs": 5,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 132,
+   "merged": false
+  },
+  {
+   "section": 146,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Inspection Fee",
+   "units": 5,
+   "numbers": 10,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 2,
+   "cluster": 134,
+   "merged": false
+  },
+  {
+   "section": 147,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Definition of Terms",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 133,
+   "merged": false
+  },
+  {
+   "section": 148,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Manufactured Oils and Other Fuels",
+   "units": 13,
+   "numbers": 15,
+   "internal_refs": 5,
+   "fan_in": 2,
+   "fan_out": 0,
+   "cluster": 114,
+   "merged": false
+  },
+  {
+   "section": 149,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Automobiles",
+   "units": 5,
+   "numbers": 20,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 4,
+   "merged": false
+  },
+  {
+   "section": 150,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Non-essential Goods",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 5,
+   "merged": false
+  },
+  {
+   "section": 151,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Mineral Products",
+   "units": 13,
+   "numbers": 20,
+   "internal_refs": 4,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 115,
+   "merged": false
+  },
+  {
+   "section": 152,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Extent of Supervision Over Establishments Producing Taxable Output",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 135,
+   "merged": false
+  },
+  {
+   "section": 153,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Records to be Kept by Manufacturers; Assessment Based Thereon",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 136,
+   "merged": false
+  },
+  {
+   "section": 154,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Premises Subject to Approval by Commissioner",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 137,
+   "merged": false
+  },
+  {
+   "section": 155,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Manufacturers to Provide Themselves with Counting or Metering Devices to Determine Production",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 138,
+   "merged": false
+  },
+  {
+   "section": 156,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Labels and Form of Packages",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 139,
+   "merged": false
+  },
+  {
+   "section": 157,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Removal of Articles After the Payment of Tax",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 140,
+   "merged": false
+  },
+  {
+   "section": 158,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Storage of Goods in Internal-revenue Bonded Warehouses",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 141,
+   "merged": false
+  },
+  {
+   "section": 159,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Proof of Exportation; Exporter's Bond",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 142,
+   "merged": false
+  },
+  {
+   "section": 160,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Manufacturers' and Importers' Bond",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 143,
+   "merged": false
+  },
+  {
+   "section": 161,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Records to be Kept by Wholesale Dealers",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 144,
+   "merged": false
+  },
+  {
+   "section": 162,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Records to be Kept by Dealers in Leaf Tobacco",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 145,
+   "merged": false
+  },
+  {
+   "section": 163,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Preservation of Invoices and Stamps",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 147,
+   "merged": false
+  },
+  {
+   "section": 164,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Information to be Given by Manufacturers, Importers, Indentors, and Wholesalers of Apparatus or Mechanical Contrivances Specially for the Manufacture of Articles Subject to Excise Tax",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 148,
+   "merged": false
+  },
+  {
+   "section": 165,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Establishment of Distillery Warehouse",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 149,
+   "merged": false
+  },
+  {
+   "section": 166,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Custody of Distillery or Distillery Warehouse",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 150,
+   "merged": false
+  },
+  {
+   "section": 167,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Limitation on Quantity of Spirits Removed from Warehouse",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 151,
+   "merged": false
+  },
+  {
+   "section": 168,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Denaturing Within Premises",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 152,
+   "merged": false
+  },
+  {
+   "section": 169,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Recovery of Alcohol for Use in Arts and Industries",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 153,
+   "merged": false
+  },
+  {
+   "section": 170,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Requirements Governing Rectification and Compounding of Liquors",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 154,
+   "merged": false
+  },
+  {
+   "section": 171,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Authority of Internal Revenue Officer in Searching for Taxable Articles",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 155,
+   "merged": false
+  },
+  {
+   "section": 172,
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS",
+   "heading": "Detention of Package Containing Taxable Articles",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 156,
+   "merged": false
+  },
+  {
+   "section": 173,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Taxes Upon Documents, Loan Agreements, Instruments and Papers",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 157,
+   "merged": false
+  },
+  {
+   "section": 174,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Debentures and Certificates of Indebtedness",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 158,
+   "merged": false
+  },
+  {
+   "section": 175,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Original Issue of Shares of Stock",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 159,
+   "merged": false
+  },
+  {
+   "section": 176,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Sales, Agreements to Sell, Memoranda of Sales, Deliveries or Transfer of Due-bills, Certificates of Obligation, or Shares of Certificates of Stock",
+   "units": 3,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 160,
+   "merged": false
+  },
+  {
+   "section": 177,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Bonds, Debentures, Certificate of Stock or Indebtedness Issued in Foreign Countries",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 161,
+   "merged": false
+  },
+  {
+   "section": 178,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Certificates of Profits or Interest in Property or Accumulations",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 162,
+   "merged": false
+  },
+  {
+   "section": 179,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Bank Checks, Drafts, Certificates of Deposit not Bearing Interest, and Other Instruments",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 163,
+   "merged": false
+  },
+  {
+   "section": 180,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on All Bonds, Loan Agreements, Promissory Notes, Bills of Exchange, Drafts, Instruments and Securities Issued by the Government or Any of its Instrumentalities",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 164,
+   "merged": false
+  },
+  {
+   "section": 181,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax Upon Acceptance of Bills of Exchange and Others",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 165,
+   "merged": false
+  },
+  {
+   "section": 182,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Foreign Bills of Exchange and Letters of Credit",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 166,
+   "merged": false
+  },
+  {
+   "section": 183,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Life Insurance Policies",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 167,
+   "merged": false
+  },
+  {
+   "section": 184,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Policies of Insurance Upon Property",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 168,
+   "merged": false
+  },
+  {
+   "section": 185,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Fidelity Bonds and Other Insurance Policies",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 169,
+   "merged": false
+  },
+  {
+   "section": 186,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Policies of Annuities and Pre-Need Plans",
+   "units": 0,
+   "numbers": 5,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 170,
+   "merged": false
+  },
+  {
+   "section": 187,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Indemnity Bonds",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 171,
+   "merged": false
+  },
+  {
+   "section": 188,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Certificates",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 172,
+   "merged": false
+  },
+  {
+   "section": 189,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Warehouse Receipts",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 173,
+   "merged": false
+  },
+  {
+   "section": 190,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Jai-Alai, Horse Racing Tickets, lotto or Other Authorized Numbers Games",
+   "units": 0,
+   "numbers": 4,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 174,
+   "merged": false
+  },
+  {
+   "section": 191,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Bills of Lading or Receipts",
+   "units": 3,
+   "numbers": 3,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 175,
+   "merged": false
+  },
+  {
+   "section": 192,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Proxies",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 176,
+   "merged": false
+  },
+  {
+   "section": 193,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Powers of Attorney",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 177,
+   "merged": false
+  },
+  {
+   "section": 194,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp tax on Leases and Other Hiring Agreements",
+   "units": 0,
+   "numbers": 5,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 178,
+   "merged": false
+  },
+  {
+   "section": 195,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Mortgages, Pledges and Deeds of Trust",
+   "units": 5,
+   "numbers": 5,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 179,
+   "merged": false
+  },
+  {
+   "section": 196,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp tax on Deeds of Sale and Conveyances of Real Property",
+   "units": 5,
+   "numbers": 6,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 180,
+   "merged": false
+  },
+  {
+   "section": 197,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Charter Parties and Similar Instruments",
+   "units": 5,
+   "numbers": 13,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 181,
+   "merged": false
+  },
+  {
+   "section": 198,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Stamp Tax on Assignments and Renewals of Certain Instruments",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 182,
+   "merged": false
+  },
+  {
+   "section": 199,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Documents and Papers Not Subject to Stamp Tax",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 183,
+   "merged": false
+  },
+  {
+   "section": 200,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Payment of Documentary Stamp Tax",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 2,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 184,
+   "merged": false
+  },
+  {
+   "section": 201,
+   "title": "Title VII - DOCUMENTARY STAMP TAX",
+   "heading": "Effect of Failure to Stamp Taxable Document",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 185,
+   "merged": false
+  },
+  {
+   "section": 202,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Final Deed to Purchaser",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 186,
+   "merged": false
+  },
+  {
+   "section": 203,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Period of Limitation Upon Assessment and Collection",
+   "units": 0,
+   "numbers": 3,
+   "internal_refs": 1,
+   "fan_in": 5,
+   "fan_out": 1,
+   "cluster": 81,
+   "merged": false
+  },
+  {
+   "section": 204,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Authority of the Commissioner to Compromise, Abate and Refund or Credit Taxes",
+   "units": 12,
+   "numbers": 11,
+   "internal_refs": 1,
+   "fan_in": 4,
+   "fan_out": 1,
+   "cluster": 13,
+   "merged": false
+  },
+  {
+   "section": 205,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Remedies for the Collection of Delinquent Taxes",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 187,
+   "merged": false
+  },
+  {
+   "section": 206,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Constructive Distraint of the Property of A Taxpayer",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 188,
+   "merged": false
+  },
+  {
+   "section": 207,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Summary Remedies",
+   "units": 6,
+   "numbers": 5,
+   "internal_refs": 2,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 189,
+   "merged": false
+  },
+  {
+   "section": 208,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Procedure for Distraint and Garnishment",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 190,
+   "merged": false
+  },
+  {
+   "section": 209,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Sale of Property Distrained and Disposition of Proceeds",
+   "units": 0,
+   "numbers": 3,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 191,
+   "merged": false
+  },
+  {
+   "section": 210,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Release of Distrained Property Upon Payment Prior to Sale",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 192,
+   "merged": false
+  },
+  {
+   "section": 211,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Report of Sale to Bureau of Internal Revenue",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 193,
+   "merged": false
+  },
+  {
+   "section": 212,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Purchase by Government at Sale Upon Distraint",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 194,
+   "merged": false
+  },
+  {
+   "section": 213,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Advertisement and Sale",
+   "units": 4,
+   "numbers": 4,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 195,
+   "merged": false
+  },
+  {
+   "section": 214,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Redemption of Property Sold",
+   "units": 3,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 196,
+   "merged": false
+  },
+  {
+   "section": 215,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Forfeiture to Government for Want of Bidder",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 197,
+   "merged": false
+  },
+  {
+   "section": 216,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Resale of Real Estate Taken for Taxes",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 198,
+   "merged": false
+  },
+  {
+   "section": 217,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Further Distraint or Levy",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 199,
+   "merged": false
+  },
+  {
+   "section": 218,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Injunction not Available to Restrain Collection of Tax",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 200,
+   "merged": false
+  },
+  {
+   "section": 219,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Nature and Extent of Tax Lien",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 201,
+   "merged": false
+  },
+  {
+   "section": 220,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Form and Mode of Proceeding in Actions Arising under this Code",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 202,
+   "merged": false
+  },
+  {
+   "section": 221,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Remedy for Enforcement of Statutory Penal Provisions",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 203,
+   "merged": false
+  },
+  {
+   "section": 222,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Exceptions as to Period of Limitation of Assessment and Collection of Taxes",
+   "units": 0,
+   "numbers": 4,
+   "internal_refs": 5,
+   "fan_in": 2,
+   "fan_out": 1,
+   "cluster": 81,
+   "merged": false
+  },
+  {
+   "section": 223,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Suspension of Running of Statute of Limitations",
+   "units": 0,
+   "numbers": 3,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 2,
+   "cluster": 204,
+   "merged": false
+  },
+  {
+   "section": 224,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Remedy for Enforcement of Forfeitures",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 205,
+   "merged": false
+  },
+  {
+   "section": 225,
+   "title": "Title VIII - REMEDIES",
+   "heading": "When Property to be Sold or Destroyed",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 206,
+   "merged": false
+  },
+  {
+   "section": 226,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Disposition of funds Recovered in Legal Proceedings or Obtained from Forfeitures",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 207,
+   "merged": false
+  },
+  {
+   "section": 227,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Satisfaction of Judgment Recovered Against any Internal Revenue Officer",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 208,
+   "merged": false
+  },
+  {
+   "section": 228,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Protesting of Assessment",
+   "units": 6,
+   "numbers": 5,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 209,
+   "merged": false
+  },
+  {
+   "section": 229,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Recovery of Tax Erroneously or Illegally Collected",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 210,
+   "merged": false
+  },
+  {
+   "section": 230,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Forfeiture of Cash Refund and of Tax Credit",
+   "units": 5,
+   "numbers": 6,
+   "internal_refs": 1,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 12,
+   "merged": false
+  },
+  {
+   "section": 231,
+   "title": "Title VIII - REMEDIES",
+   "heading": "Action to Contest Forfeiture of Chattel",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 211,
+   "merged": false
+  },
+  {
+   "section": 232,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Keeping of Books of Accounts",
+   "units": 4,
+   "numbers": 3,
+   "internal_refs": 1,
+   "fan_in": 2,
+   "fan_out": 0,
+   "cluster": 212,
+   "merged": false
+  },
+  {
+   "section": 233,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Subsidiary Books",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 1,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 9,
+   "merged": false
+  },
+  {
+   "section": 234,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Language in which Books are to be Kept; Translation",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 1,
+   "fan_in": 1,
+   "fan_out": 1,
+   "cluster": 213,
+   "merged": false
+  },
+  {
+   "section": 235,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Preservation of Books and Accounts and Other Accounting Records",
+   "units": 0,
+   "numbers": 3,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 2,
+   "cluster": 146,
+   "merged": false
+  },
+  {
+   "section": 236,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Registration Requirements",
+   "units": 14,
+   "numbers": 24,
+   "internal_refs": 22,
+   "fan_in": 4,
+   "fan_out": 2,
+   "cluster": 11,
+   "merged": true
+  },
+  {
+   "section": 237,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Issuance of Receipts or Sales or Commercial Invoices",
+   "units": 0,
+   "numbers": 3,
+   "internal_refs": 1,
+   "fan_in": 3,
+   "fan_out": 0,
+   "cluster": 10,
+   "merged": false
+  },
+  {
+   "section": 238,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Printing of Receipts or Sales or Commercial Invoices",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 214,
+   "merged": false
+  },
+  {
+   "section": 239,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Sign to be Exhibited by Distiller, Rectifier, Compounder, Repacker and Wholesale Liquor Dealer",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 215,
+   "merged": false
+  },
+  {
+   "section": 240,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Sign to be exhibited by manufacturer of Products of Tobacco",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 216,
+   "merged": false
+  },
+  {
+   "section": 241,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Exhibition of Certificate of Payment at Place of Business",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 217,
+   "merged": false
+  },
+  {
+   "section": 242,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Continuation of Business of Deceased Person",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 218,
+   "merged": false
+  },
+  {
+   "section": 243,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Removal of Business to Other Location",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 219,
+   "merged": false
+  },
+  {
+   "section": 244,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Authority of Secretary of Finance to Promulgate Rules and Regulations",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 220,
+   "merged": false
+  },
+  {
+   "section": 245,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Specific Provisions to be Contained in Rules and Regulations",
+   "units": 8,
+   "numbers": 11,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 222,
+   "merged": false
+  },
+  {
+   "section": 246,
+   "title": "Title IX - COMPLIANCE REQUIREMENTS",
+   "heading": "Non- Retroactivity of Rulings",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 223,
+   "merged": false
+  },
+  {
+   "section": 247,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "General Provisions",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 224,
+   "merged": false
+  },
+  {
+   "section": 248,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Civil Penalties",
+   "units": 8,
+   "numbers": 8,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 221,
+   "merged": true
+  },
+  {
+   "section": 249,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Interest",
+   "units": 7,
+   "numbers": 4,
+   "internal_refs": 5,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 225,
+   "merged": true
+  },
+  {
+   "section": 250,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Failure to File Certain Information Returns",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 226,
+   "merged": false
+  },
+  {
+   "section": 251,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Failure of a Withholding Agent to Collect and Remit Tax",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 227,
+   "merged": false
+  },
+  {
+   "section": 252,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Failure of a Withholding Agent to refund Excess Withholding Tax",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 228,
+   "merged": false
+  },
+  {
+   "section": 253,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "General Provisions",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 229,
+   "merged": false
+  },
+  {
+   "section": 254,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Attempt to Evade or Defeat Tax",
+   "units": 3,
+   "numbers": 4,
+   "internal_refs": 1,
+   "fan_in": 2,
+   "fan_out": 0,
+   "cluster": 129,
+   "merged": false
+  },
+  {
+   "section": 255,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Failure to File Return, Supply Correct and Accurate Information, Pay Tax Withhold and Remit Tax and Refund Excess Taxes Withheld on Compensation",
+   "units": 4,
+   "numbers": 7,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 230,
+   "merged": false
+  },
+  {
+   "section": 256,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Penal Liability of Corporations",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 231,
+   "merged": false
+  },
+  {
+   "section": 257,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Penal Liability for Making False Entries, Records or Reports, or Using Falsified or Fake Accountable Forms",
+   "units": 13,
+   "numbers": 19,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 2,
+   "cluster": 232,
+   "merged": false
+  },
+  {
+   "section": 258,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Unlawful Pursuit of Business",
+   "units": 3,
+   "numbers": 8,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 233,
+   "merged": false
+  },
+  {
+   "section": 259,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Illegal Collection of Foreign Payments",
+   "units": 3,
+   "numbers": 5,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 234,
+   "merged": false
+  },
+  {
+   "section": 260,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Unlawful Possession of Cigarette Paper in Bobbins or Rolls, Etc",
+   "units": 3,
+   "numbers": 5,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 235,
+   "merged": false
+  },
+  {
+   "section": 261,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Unlawful Use of Denatured Alcohol",
+   "units": 3,
+   "numbers": 5,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 236,
+   "merged": false
+  },
+  {
+   "section": 262,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Shipment or Removal of Liquor or Tobacco Products under False Name or Brand or as an Imitation of any Existing or Otherwise Known Product Name or Brand",
+   "units": 3,
+   "numbers": 5,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 237,
+   "merged": false
+  },
+  {
+   "section": 263,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Unlawful Possession or Removal of Articles Subject to Excise Tax without Payment of the Tax",
+   "units": 8,
+   "numbers": 29,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 238,
+   "merged": false
+  },
+  {
+   "section": 264,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Failure or refusal to Issue Receipts or Sales or Commercial Invoices, Violations related to the Printing of such Receipts or Invoices and Other Violations",
+   "units": 6,
+   "numbers": 8,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 239,
+   "merged": false
+  },
+  {
+   "section": 265,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Offenses Relating to Stamps",
+   "units": 3,
+   "numbers": 4,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 240,
+   "merged": false
+  },
+  {
+   "section": 266,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Failure to Obey Summons",
+   "units": 3,
+   "numbers": 4,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 241,
+   "merged": false
+  },
+  {
+   "section": 267,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Declaration under Penalties of Perjury",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 242,
+   "merged": false
+  },
+  {
+   "section": 268,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Other Crimes and Offenses",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 243,
+   "merged": false
+  },
+  {
+   "section": 269,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Violations Committed by Government Enforcement Officers",
+   "units": 3,
+   "numbers": 4,
+   "internal_refs": 3,
+   "fan_in": 2,
+   "fan_out": 0,
+   "cluster": 21,
+   "merged": false
+  },
+  {
+   "section": 270,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Unlawful Divulgence of Trade Secrets",
+   "units": 3,
+   "numbers": 7,
+   "internal_refs": 0,
+   "fan_in": 2,
+   "fan_out": 1,
+   "cluster": 23,
+   "merged": false
+  },
+  {
+   "section": 271,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Unlawful Interest of Revenue Law Enforcers in Business",
+   "units": 3,
+   "numbers": 5,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 244,
+   "merged": false
+  },
+  {
+   "section": 272,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Violation of Withholding Tax Provision",
+   "units": 3,
+   "numbers": 5,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 245,
+   "merged": false
+  },
+  {
+   "section": 273,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Penalty for Failure to Issue and Execute Warrant",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 246,
+   "merged": false
+  },
+  {
+   "section": 274,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Penalty for Second and Subsequent Offenses",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 247,
+   "merged": false
+  },
+  {
+   "section": 275,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Violation of Other Provisions of this Code or Rules and Regulations in General",
+   "units": 0,
+   "numbers": 2,
+   "internal_refs": 0,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 8,
+   "merged": false
+  },
+  {
+   "section": 276,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Penalty for Selling, Transferring, Encumbering or in any way Disposing of Property Placed under Constructive Distraint",
+   "units": 3,
+   "numbers": 4,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 248,
+   "merged": false
+  },
+  {
+   "section": 277,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Failure to Surrender Property Placed under Distraint and Levy",
+   "units": 3,
+   "numbers": 4,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 249,
+   "merged": false
+  },
+  {
+   "section": 278,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Procuring Unlawful Divulgence of Trade Secrets",
+   "units": 3,
+   "numbers": 3,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 250,
+   "merged": false
+  },
+  {
+   "section": 279,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Confiscation and Forfeiture of the Proceeds or Instruments of Crime",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 251,
+   "merged": false
+  },
+  {
+   "section": 280,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Subsidiary Penalty",
+   "units": 0,
+   "numbers": 3,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 252,
+   "merged": false
+  },
+  {
+   "section": 281,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Prescription for Violations of any Provision of this Code",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 253,
+   "merged": false
+  },
+  {
+   "section": 282,
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES",
+   "heading": "Informer's Reward to Persons Instrumental in the Discovery of Violations of the National Internal Revenue Code and in the Discovery and Seizure of Smuggled Goods",
+   "units": 6,
+   "numbers": 6,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 254,
+   "merged": false
+  },
+  {
+   "section": 283,
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE",
+   "heading": "Disposition of National Internal Revenue",
+   "units": 6,
+   "numbers": 11,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 3,
+   "cluster": 255,
+   "merged": false
+  },
+  {
+   "section": 284,
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE",
+   "heading": "Allotment for the Commission on Audit",
+   "units": 3,
+   "numbers": 5,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 256,
+   "merged": false
+  },
+  {
+   "section": 285,
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE",
+   "heading": "Allotment for the Bureau of Internal Revenue",
+   "units": 0,
+   "numbers": 1,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 257,
+   "merged": false
+  },
+  {
+   "section": 286,
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE",
+   "heading": "Disposition of Proceeds of insurance Premium Tax",
+   "units": 3,
+   "numbers": 4,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 1,
+   "cluster": 258,
+   "merged": false
+  },
+  {
+   "section": 287,
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE",
+   "heading": "Shares of Local Government Units in the Proceeds from the Development and Utilization of the National Wealth",
+   "units": 10,
+   "numbers": 16,
+   "internal_refs": 5,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 259,
+   "merged": false
+  },
+  {
+   "section": 288,
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE",
+   "heading": "Disposition of Incremental Revenues",
+   "units": 13,
+   "numbers": 39,
+   "internal_refs": 2,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 260,
+   "merged": false
+  },
+  {
+   "section": 289,
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE",
+   "heading": "Special Financial Support to Beneficiary Provinces Producing Virginia Tobacco",
+   "units": 7,
+   "numbers": 15,
+   "internal_refs": 1,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 261,
+   "merged": false
+  },
+  {
+   "section": 290,
+   "title": "Title XII - OVERSIGHT COMMITTEE",
+   "heading": "Congressional Oversight Committee",
+   "units": 7,
+   "numbers": 6,
+   "internal_refs": 1,
+   "fan_in": 1,
+   "fan_out": 0,
+   "cluster": 32,
+   "merged": false
+  },
+  {
+   "section": 291,
+   "title": "Title XIII - REPEALING PROVISIONS",
+   "heading": "In General",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 0,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 262,
+   "merged": false
+  },
+  {
+   "section": 292,
+   "title": "Title XIV - FINAL PROVISIONS",
+   "heading": "Separability Clause",
+   "units": 0,
+   "numbers": 0,
+   "internal_refs": 2,
+   "fan_in": 0,
+   "fan_out": 0,
+   "cluster": 263,
+   "merged": false
+  }
+ ],
+ "cluster_list": [
+  {
+   "cluster": 0,
+   "sections": [
+    1
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Title of the Code",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 1,
+   "sections": [
+    2
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Powers and duties of the Bureau of Internal Revenue",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 2,
+   "sections": [
+    3
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Chief Officials of the Bureau of Internal Revenue",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 3,
+   "sections": [
+    4
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Power of the Commissioner to Interpret Tax Laws and to Decide Tax Cases",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 4,
+   "sections": [
+    149
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    6
+   ],
+   "units_est": 5,
+   "units_remaining": 5,
+   "fan_in": 1,
+   "heading": "Automobiles",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 5,
+   "sections": [
+    150
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    6
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Non-essential Goods",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 6,
+   "sections": [
+    106
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    149,
+    150
+   ],
+   "dependents": [
+    11,
+    100,
+    101,
+    121,
+    255
+   ],
+   "units_est": 18,
+   "units_remaining": 18,
+   "fan_in": 7,
+   "heading": "Value-Added Tax on Sale of Goods or Properties",
+   "title": "Title IV - VALUE- ADDED TAX"
+  },
+  {
+   "cluster": 7,
+   "sections": [
+    111
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    11
+   ],
+   "units_est": 5,
+   "units_remaining": 5,
+   "fan_in": 1,
+   "heading": "Transitional/Presumptive Input Tax Credits",
+   "title": "Title IV - VALUE- ADDED TAX"
+  },
+  {
+   "cluster": 8,
+   "sections": [
+    275
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    11
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Violation of Other Provisions of this Code or Rules and Regulations in General",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 9,
+   "sections": [
+    233
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    11
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Subsidiary Books",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 10,
+   "sections": [
+    237
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    11,
+    14,
+    239
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 3,
+   "heading": "Issuance of Receipts or Sales or Commercial Invoices",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 11,
+   "sections": [
+    108,
+    109,
+    110,
+    112,
+    113,
+    116,
+    119,
+    128,
+    236
+   ],
+   "size": 9,
+   "depth": 2,
+   "status": "partial",
+   "deps": [
+    106,
+    111,
+    233,
+    237,
+    275
+   ],
+   "dependents": [
+    14,
+    100,
+    101,
+    102,
+    255
+   ],
+   "units_est": 81,
+   "units_remaining": 52,
+   "fan_in": 20,
+   "heading": "Value-added Tax on Sale of Services and Use or Lease of Properties",
+   "title": "Title IV - VALUE- ADDED TAX"
+  },
+  {
+   "cluster": 12,
+   "sections": [
+    230
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    13
+   ],
+   "units_est": 5,
+   "units_remaining": 5,
+   "fan_in": 1,
+   "heading": "Forfeiture of Cash Refund and of Tax Credit",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 13,
+   "sections": [
+    204
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    230
+   ],
+   "dependents": [
+    14,
+    16,
+    33,
+    42
+   ],
+   "units_est": 12,
+   "units_remaining": 12,
+   "fan_in": 4,
+   "heading": "Authority of the Commissioner to Compromise, Abate and Refund or Credit Taxes",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 14,
+   "sections": [
+    6
+   ],
+   "size": 1,
+   "depth": 3,
+   "status": "untouched",
+   "deps": [
+    113,
+    204,
+    237
+   ],
+   "dependents": [
+    15,
+    42,
+    180
+   ],
+   "units_est": 11,
+   "units_remaining": 11,
+   "fan_in": 4,
+   "heading": "Power of the Commissioner to Make assessments and Prescribe additional Requirements for Tax Administration and Enforcement",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 15,
+   "sections": [
+    5
+   ],
+   "size": 1,
+   "depth": 4,
+   "status": "untouched",
+   "deps": [
+    6
+   ],
+   "dependents": [
+    146
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Power of the Commissioner to Obtain Information, and to Summon, Examine, and Take Testimony of Persons",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 16,
+   "sections": [
+    7
+   ],
+   "size": 1,
+   "depth": 2,
+   "status": "untouched",
+   "deps": [
+    204
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Authority of the Commissioner to Delegate Power",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 17,
+   "sections": [
+    8
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Duty of the Commissioner to Ensure the Provision and Distribution of forms, Receipts, Certificates, and Appliances, and the Acknowledgment of Payment of Taxes",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 18,
+   "sections": [
+    9
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Internal Revenue Districts",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 19,
+   "sections": [
+    10
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Revenue Regional Director",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 20,
+   "sections": [
+    11
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Duties of Revenue District Officers and Other Internal Revenue Officers",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 21,
+   "sections": [
+    269
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    24,
+    42
+   ],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 2,
+   "heading": "Violations Committed by Government Enforcement Officers",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 22,
+   "sections": [
+    71
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    23
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Disposition of Income Tax Returns, Publication of Lists of Taxpayers and Filers",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 23,
+   "sections": [
+    270
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    71
+   ],
+   "dependents": [
+    24,
+    33
+   ],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 2,
+   "heading": "Unlawful Divulgence of Trade Secrets",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 24,
+   "sections": [
+    12
+   ],
+   "size": 1,
+   "depth": 2,
+   "status": "untouched",
+   "deps": [
+    269,
+    270
+   ],
+   "dependents": [
+    134
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Agents and Deputies for Collection of National Internal Revenue Taxes",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 25,
+   "sections": [
+    13
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Authority of a Revenue Offices",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 26,
+   "sections": [
+    14
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Authority of Officers to Administer Oaths and Take Testimony",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 27,
+   "sections": [
+    15
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Authority of Internal Revenue Officers to Make Arrests and Seizures",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 28,
+   "sections": [
+    16
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    29
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Assignment of Internal Revenue Officers Involved in Excise Tax Functions to Establishments Where Articles subject to Excise Tax are Produced or Kept",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 29,
+   "sections": [
+    17
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    16
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Assignment of Internal Revenue Officers and Other Employees to Other Duties",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 30,
+   "sections": [
+    18
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Reports of violation of Laws",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 31,
+   "sections": [
+    19
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Contents of Commissioner's Annual Report",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 32,
+   "sections": [
+    290
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    33
+   ],
+   "units_est": 7,
+   "units_remaining": 7,
+   "fan_in": 1,
+   "heading": "Congressional Oversight Committee",
+   "title": "Title XII - OVERSIGHT COMMITTEE"
+  },
+  {
+   "cluster": 33,
+   "sections": [
+    20
+   ],
+   "size": 1,
+   "depth": 2,
+   "status": "untouched",
+   "deps": [
+    204,
+    270,
+    290
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Submission of Report and Pertinent Information by the Commissioner",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 34,
+   "sections": [
+    21
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "merged",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Sources of Revenue",
+   "title": "Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 35,
+   "sections": [
+    23
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    42
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "General Principles of Income Taxation in the Philippines",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 36,
+   "sections": [
+    31
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    42
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Taxable Income Defined",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 37,
+   "sections": [
+    40
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    42
+   ],
+   "units_est": 12,
+   "units_remaining": 12,
+   "fan_in": 1,
+   "heading": "Determination of Amount and Recognition of Gain or Loss",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 38,
+   "sections": [
+    49
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    42
+   ],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 2,
+   "heading": "Installment Basis",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 39,
+   "sections": [
+    69
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    40
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Return of Information of Brokers",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 40,
+   "sections": [
+    68
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    69
+   ],
+   "dependents": [
+    42,
+    79
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 2,
+   "heading": "Information at Source as to Income Payments",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 41,
+   "sections": [
+    81
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    42
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Filing of Return and Payment of Taxes Withheld",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 42,
+   "sections": [
+    22,
+    24,
+    25,
+    27,
+    28,
+    32,
+    33,
+    34,
+    35,
+    36,
+    38,
+    39,
+    51,
+    56,
+    57,
+    58,
+    79
+   ],
+   "size": 17,
+   "depth": 4,
+   "status": "partial",
+   "deps": [
+    6,
+    23,
+    31,
+    40,
+    49,
+    68,
+    81,
+    204,
+    269
+   ],
+   "dependents": [
+    49,
+    56,
+    57,
+    59,
+    71,
+    72,
+    74,
+    94,
+    106,
+    112
+   ],
+   "units_est": 252,
+   "units_remaining": 238,
+   "fan_in": 56,
+   "heading": "Definitions - When used in this Title: (A) The term 'person' means an individual, a trust, estate or corporation",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 43,
+   "sections": [
+    26
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Tax Liability of Members of General Professional Partnerships",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 44,
+   "sections": [
+    29
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 9,
+   "units_remaining": 9,
+   "fan_in": 0,
+   "heading": "Imposition of Improperly Accumulated Earnings Tax",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 45,
+   "sections": [
+    30
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Exemptions from Tax on Corporations",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 46,
+   "sections": [
+    37
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Special Provisions Regarding Income and Deductions of Insurance Companies, Whether Domestic or Foreign",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 47,
+   "sections": [
+    41
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Inventories",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 48,
+   "sections": [
+    42
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 20,
+   "units_remaining": 20,
+   "fan_in": 0,
+   "heading": "Income from Sources Within the Philippines",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 49,
+   "sections": [
+    43
+   ],
+   "size": 1,
+   "depth": 5,
+   "status": "untouched",
+   "deps": [
+    22
+   ],
+   "dependents": [
+    50
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "General Rule",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 50,
+   "sections": [
+    44
+   ],
+   "size": 1,
+   "depth": 6,
+   "status": "untouched",
+   "deps": [
+    43
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Period in which Items of Gross Income Included",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 51,
+   "sections": [
+    45
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Period for which Deductions and Credits Taken",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 52,
+   "sections": [
+    47
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    53,
+    56
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 2,
+   "heading": "Section 47",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 53,
+   "sections": [
+    46
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    47
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Change of Accounting Period",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 54,
+   "sections": [
+    48
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Accounting for Long-term Contracts",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 55,
+   "sections": [
+    50
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Allocation of Income and Deductions",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 56,
+   "sections": [
+    52
+   ],
+   "size": 1,
+   "depth": 5,
+   "status": "untouched",
+   "deps": [
+    24,
+    25,
+    27,
+    28,
+    47
+   ],
+   "dependents": [],
+   "units_est": 5,
+   "units_remaining": 5,
+   "fan_in": 0,
+   "heading": "Corporation Returns",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 57,
+   "sections": [
+    53
+   ],
+   "size": 1,
+   "depth": 5,
+   "status": "untouched",
+   "deps": [
+    56
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Extension of Time to File Returns",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 58,
+   "sections": [
+    54
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Returns of Receivers, Trustees in Bankruptcy or Assignees",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 59,
+   "sections": [
+    55
+   ],
+   "size": 1,
+   "depth": 5,
+   "status": "untouched",
+   "deps": [
+    32
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Returns of General Professional Partnerships",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 60,
+   "sections": [
+    59
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Tax on Profits Collectible from Owner or Other Persons",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 61,
+   "sections": [
+    63
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    63
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Revocable trusts",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 62,
+   "sections": [
+    64
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    63
+   ],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 1,
+   "heading": "Income for Benefit of Grantor",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 63,
+   "sections": [
+    60
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    63,
+    64
+   ],
+   "dependents": [],
+   "units_est": 9,
+   "units_remaining": 9,
+   "fan_in": 0,
+   "heading": "Imposition of Tax",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 64,
+   "sections": [
+    61
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Taxable Income",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 65,
+   "sections": [
+    62
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Exemption Allowed to Estates and Trusts",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 66,
+   "sections": [
+    65
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Fiduciary Returns",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 67,
+   "sections": [
+    66
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Fiduciaries Indemnified Against Claims for Taxes Paid",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 68,
+   "sections": [
+    67
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    234
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Collection of Foreign Payments",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 69,
+   "sections": [
+    70
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Returns of Foreign Corporations",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 70,
+   "sections": [
+    72
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Suit to Recover Tax Based on False or Fraudulent Returns",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 71,
+   "sections": [
+    73
+   ],
+   "size": 1,
+   "depth": 5,
+   "status": "untouched",
+   "deps": [
+    27
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Distribution of dividends or Assets by Corporations",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 72,
+   "sections": [
+    74
+   ],
+   "size": 1,
+   "depth": 5,
+   "status": "untouched",
+   "deps": [
+    24,
+    25
+   ],
+   "dependents": [],
+   "units_est": 4,
+   "units_remaining": 4,
+   "fan_in": 0,
+   "heading": "Declaration of Income Tax for Individuals",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 73,
+   "sections": [
+    75
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    75
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Declaration of Quarterly Corporate Income Tax",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 74,
+   "sections": [
+    76
+   ],
+   "size": 1,
+   "depth": 5,
+   "status": "untouched",
+   "deps": [
+    27
+   ],
+   "dependents": [
+    75
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Final Adjustment Return",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 75,
+   "sections": [
+    77
+   ],
+   "size": 1,
+   "depth": 6,
+   "status": "untouched",
+   "deps": [
+    75,
+    76
+   ],
+   "dependents": [],
+   "units_est": 5,
+   "units_remaining": 5,
+   "fan_in": 0,
+   "heading": "Place and Time of Filing and Payment of Quarterly Corporate Income Tax",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 76,
+   "sections": [
+    78
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 8,
+   "units_remaining": 8,
+   "fan_in": 0,
+   "heading": "Definitions",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 77,
+   "sections": [
+    80
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 5,
+   "units_remaining": 5,
+   "fan_in": 0,
+   "heading": "Liability for Tax",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 78,
+   "sections": [
+    82
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Return and Payment in Case of Government Employees",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 79,
+   "sections": [
+    83
+   ],
+   "size": 1,
+   "depth": 2,
+   "status": "untouched",
+   "deps": [
+    68
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Statements and Returns",
+   "title": "Title II - TAX ON INCOME"
+  },
+  {
+   "cluster": 80,
+   "sections": [
+    85
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    82
+   ],
+   "units_est": 8,
+   "units_remaining": 8,
+   "fan_in": 1,
+   "heading": "Gross Estate",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 81,
+   "sections": [
+    203,
+    222
+   ],
+   "size": 2,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    82,
+    86,
+    146,
+    204
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 7,
+   "heading": "Period of Limitation Upon Assessment and Collection",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 82,
+   "sections": [
+    84,
+    86,
+    90,
+    91
+   ],
+   "size": 4,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    85,
+    203
+   ],
+   "dependents": [],
+   "units_est": 53,
+   "units_remaining": 53,
+   "fan_in": 6,
+   "heading": "Rates of Estate Tax",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 83,
+   "sections": [
+    87
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Exemption of Certain Acquisitions and Transmissions",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 84,
+   "sections": [
+    88
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    96
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Determination of the Value of the Estate",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 85,
+   "sections": [
+    89
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Notice of Death to be Filed",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 86,
+   "sections": [
+    92
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    203
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Discharge of Executor or Administrator from Personal Liability",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 87,
+   "sections": [
+    93
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Definition of Deficiency",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 88,
+   "sections": [
+    94
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Payment before Delivery by Executor or Administrator",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 89,
+   "sections": [
+    95
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Duties of Certain Officers and Debtors",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 90,
+   "sections": [
+    96
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Restitution of Tax Upon Satisfaction of Outstanding Obligations",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 91,
+   "sections": [
+    97
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Payment of Tax Antecedent to the Transfer of Shares, Bonds or Rights",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 92,
+   "sections": [
+    99
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    93
+   ],
+   "units_est": 5,
+   "units_remaining": 5,
+   "fan_in": 1,
+   "heading": "(B) The tax shall apply whether the transfer is in trust or otherwise, whether the gift is direct or indirect, and whether the property is real or personal, tangible or intangible",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 93,
+   "sections": [
+    98
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    99
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Imposition of Tax",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 94,
+   "sections": [
+    100
+   ],
+   "size": 1,
+   "depth": 5,
+   "status": "untouched",
+   "deps": [
+    24
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Transfer for Less Than Adequate and full Consideration",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 95,
+   "sections": [
+    101
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    97
+   ],
+   "units_est": 11,
+   "units_remaining": 11,
+   "fan_in": 1,
+   "heading": "Exemption of Certain Gifts",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 96,
+   "sections": [
+    102
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    88
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Valuation of Gifts Made in Property",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 97,
+   "sections": [
+    103
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    101
+   ],
+   "dependents": [],
+   "units_est": 7,
+   "units_remaining": 7,
+   "fan_in": 0,
+   "heading": "Filing of Return and Payment of Tax",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 98,
+   "sections": [
+    104
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Definitions",
+   "title": "Title III - ESTATE AND DONOR'S TAXES"
+  },
+  {
+   "cluster": 99,
+   "sections": [
+    107
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    100
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Value-Added Tax on Importation of Goods",
+   "title": "Title IV - VALUE- ADDED TAX"
+  },
+  {
+   "cluster": 100,
+   "sections": [
+    105
+   ],
+   "size": 1,
+   "depth": 3,
+   "status": "untouched",
+   "deps": [
+    106,
+    107,
+    108
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Persons Liable",
+   "title": "Title IV - VALUE- ADDED TAX"
+  },
+  {
+   "cluster": 101,
+   "sections": [
+    114
+   ],
+   "size": 1,
+   "depth": 3,
+   "status": "untouched",
+   "deps": [
+    106,
+    108,
+    236
+   ],
+   "dependents": [
+    102
+   ],
+   "units_est": 6,
+   "units_remaining": 6,
+   "fan_in": 1,
+   "heading": "Return and Payment of Value-Added Tax",
+   "title": "Title IV - VALUE- ADDED TAX"
+  },
+  {
+   "cluster": 102,
+   "sections": [
+    115
+   ],
+   "size": 1,
+   "depth": 4,
+   "status": "untouched",
+   "deps": [
+    114,
+    236
+   ],
+   "dependents": [],
+   "units_est": 6,
+   "units_remaining": 6,
+   "fan_in": 0,
+   "heading": "Power of the Commissioner to Suspend the Business Operations of a Taxpayer",
+   "title": "Title IV - VALUE- ADDED TAX"
+  },
+  {
+   "cluster": 103,
+   "sections": [
+    117
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 5,
+   "units_remaining": 5,
+   "fan_in": 0,
+   "heading": "Percentage Tax on Domestic Carriers and Keepers of Garages",
+   "title": "Title V - OTHER PERCENTAGE TAXES"
+  },
+  {
+   "cluster": 104,
+   "sections": [
+    118
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 4,
+   "units_remaining": 4,
+   "fan_in": 0,
+   "heading": "Percentage Tax on International Carriers",
+   "title": "Title V - OTHER PERCENTAGE TAXES"
+  },
+  {
+   "cluster": 105,
+   "sections": [
+    120
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 7,
+   "units_remaining": 7,
+   "fan_in": 0,
+   "heading": "Tax on Overseas Dispatch, Message or Conversation Originating from the Philippines",
+   "title": "Title V - OTHER PERCENTAGE TAXES"
+  },
+  {
+   "cluster": 106,
+   "sections": [
+    121
+   ],
+   "size": 1,
+   "depth": 5,
+   "status": "untouched",
+   "deps": [
+    32
+   ],
+   "dependents": [],
+   "units_est": 9,
+   "units_remaining": 9,
+   "fan_in": 0,
+   "heading": "Tax on Banks and Non-bank Financial Intermediaries",
+   "title": "Title V - OTHER PERCENTAGE TAXES"
+  },
+  {
+   "cluster": 107,
+   "sections": [
+    122
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 7,
+   "units_remaining": 7,
+   "fan_in": 0,
+   "heading": "Tax on Finance Companies",
+   "title": "Title V - OTHER PERCENTAGE TAXES"
+  },
+  {
+   "cluster": 108,
+   "sections": [
+    123
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    109,
+    258
+   ],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 2,
+   "heading": "Tax on Life Insurance Premiums",
+   "title": "Title V - OTHER PERCENTAGE TAXES"
+  },
+  {
+   "cluster": 109,
+   "sections": [
+    124
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    123
+   ],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Tax on Agents of Foreign Insurance Companies",
+   "title": "Title V - OTHER PERCENTAGE TAXES"
+  },
+  {
+   "cluster": 110,
+   "sections": [
+    125
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 8,
+   "units_remaining": 8,
+   "fan_in": 0,
+   "heading": "Amusement Taxes",
+   "title": "Title V - OTHER PERCENTAGE TAXES"
+  },
+  {
+   "cluster": 111,
+   "sections": [
+    126
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 4,
+   "units_remaining": 4,
+   "fan_in": 0,
+   "heading": "Tax on Winnings",
+   "title": "Title V - OTHER PERCENTAGE TAXES"
+  },
+  {
+   "cluster": 112,
+   "sections": [
+    127
+   ],
+   "size": 1,
+   "depth": 5,
+   "status": "untouched",
+   "deps": [
+    24,
+    27,
+    28
+   ],
+   "dependents": [],
+   "units_est": 14,
+   "units_remaining": 14,
+   "fan_in": 0,
+   "heading": "Tax on Sale, Barter or Exchange of Shares of Stock Listed and Traded through the Local Stock Exchange or through Initial Public Offering",
+   "title": "Title V - OTHER PERCENTAGE TAXES"
+  },
+  {
+   "cluster": 113,
+   "sections": [
+    129
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Goods subject to Excise Taxes",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 114,
+   "sections": [
+    148
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    116,
+    121
+   ],
+   "units_est": 13,
+   "units_remaining": 13,
+   "fan_in": 2,
+   "heading": "Manufactured Oils and Other Fuels",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 115,
+   "sections": [
+    151
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    116
+   ],
+   "units_est": 13,
+   "units_remaining": 13,
+   "fan_in": 1,
+   "heading": "Mineral Products",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 116,
+   "sections": [
+    130
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    148,
+    151
+   ],
+   "dependents": [],
+   "units_est": 8,
+   "units_remaining": 8,
+   "fan_in": 0,
+   "heading": "Filing of Return and Payment of Excise Tax on Domestic Products",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 117,
+   "sections": [
+    131
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 4,
+   "units_remaining": 4,
+   "fan_in": 0,
+   "heading": "Payment of Excise Taxes on Importer Articles",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 118,
+   "sections": [
+    132
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Mode of Computing Contents of Cask or Package",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 119,
+   "sections": [
+    133
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    120
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Removal of Wines and distilled Spirits for Treatment of Tobacco Leaf",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 120,
+   "sections": [
+    141
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    133
+   ],
+   "dependents": [
+    121
+   ],
+   "units_est": 12,
+   "units_remaining": 12,
+   "fan_in": 1,
+   "heading": "Distilled Spirits",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 121,
+   "sections": [
+    134
+   ],
+   "size": 1,
+   "depth": 2,
+   "status": "untouched",
+   "deps": [
+    106,
+    141,
+    148
+   ],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Domestic Denatured Alcohol",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 122,
+   "sections": [
+    135
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Petroleum Products Sold to International Carriers and Exempt Entities or Agencies",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 123,
+   "sections": [
+    136
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Denaturation, Withdrawal and Use of Denatured Alcohol",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 124,
+   "sections": [
+    137
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Removal of Spirits Under Bond for Rectification",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 125,
+   "sections": [
+    138
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Removal of Fermented Liquors to Bonded Warehouse",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 126,
+   "sections": [
+    139
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Removal of Damaged Liquors Free of Tax",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 127,
+   "sections": [
+    140
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Removal of Tobacco Products without Prepayment of Tax",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 128,
+   "sections": [
+    142
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 10,
+   "units_remaining": 10,
+   "fan_in": 0,
+   "heading": "Wines",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 129,
+   "sections": [
+    254
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    130,
+    132
+   ],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 2,
+   "heading": "Attempt to Evade or Defeat Tax",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 130,
+   "sections": [
+    143
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    254
+   ],
+   "dependents": [],
+   "units_est": 13,
+   "units_remaining": 13,
+   "fan_in": 0,
+   "heading": "Fermented Liquor",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 131,
+   "sections": [
+    144
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Tobacco Products",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 132,
+   "sections": [
+    145
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    254
+   ],
+   "dependents": [],
+   "units_est": 16,
+   "units_remaining": 16,
+   "fan_in": 0,
+   "heading": "Cigars and Cigarettes",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 133,
+   "sections": [
+    147
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    134
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Definition of Terms",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 134,
+   "sections": [
+    146
+   ],
+   "size": 1,
+   "depth": 3,
+   "status": "untouched",
+   "deps": [
+    12,
+    147
+   ],
+   "dependents": [],
+   "units_est": 5,
+   "units_remaining": 5,
+   "fan_in": 0,
+   "heading": "Inspection Fee",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 135,
+   "sections": [
+    152
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Extent of Supervision Over Establishments Producing Taxable Output",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 136,
+   "sections": [
+    153
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Records to be Kept by Manufacturers; Assessment Based Thereon",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 137,
+   "sections": [
+    154
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Premises Subject to Approval by Commissioner",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 138,
+   "sections": [
+    155
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Manufacturers to Provide Themselves with Counting or Metering Devices to Determine Production",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 139,
+   "sections": [
+    156
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Labels and Form of Packages",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 140,
+   "sections": [
+    157
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Removal of Articles After the Payment of Tax",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 141,
+   "sections": [
+    158
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Storage of Goods in Internal-revenue Bonded Warehouses",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 142,
+   "sections": [
+    159
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Proof of Exportation; Exporter's Bond",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 143,
+   "sections": [
+    160
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Manufacturers' and Importers' Bond",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 144,
+   "sections": [
+    161
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Records to be Kept by Wholesale Dealers",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 145,
+   "sections": [
+    162
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Records to be Kept by Dealers in Leaf Tobacco",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 146,
+   "sections": [
+    235
+   ],
+   "size": 1,
+   "depth": 5,
+   "status": "untouched",
+   "deps": [
+    5,
+    203
+   ],
+   "dependents": [
+    147
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Preservation of Books and Accounts and Other Accounting Records",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 147,
+   "sections": [
+    163
+   ],
+   "size": 1,
+   "depth": 6,
+   "status": "untouched",
+   "deps": [
+    235
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Preservation of Invoices and Stamps",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 148,
+   "sections": [
+    164
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Information to be Given by Manufacturers, Importers, Indentors, and Wholesalers of Apparatus or Mechanical Contrivances Specially for the Manufacture of Articles Subject to Excise Tax",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 149,
+   "sections": [
+    165
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Establishment of Distillery Warehouse",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 150,
+   "sections": [
+    166
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Custody of Distillery or Distillery Warehouse",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 151,
+   "sections": [
+    167
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Limitation on Quantity of Spirits Removed from Warehouse",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 152,
+   "sections": [
+    168
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Denaturing Within Premises",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 153,
+   "sections": [
+    169
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Recovery of Alcohol for Use in Arts and Industries",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 154,
+   "sections": [
+    170
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Requirements Governing Rectification and Compounding of Liquors",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 155,
+   "sections": [
+    171
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Authority of Internal Revenue Officer in Searching for Taxable Articles",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 156,
+   "sections": [
+    172
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Detention of Package Containing Taxable Articles",
+   "title": "Title VI - EXCISE TAX ON CERTAIN GOODS"
+  },
+  {
+   "cluster": 157,
+   "sections": [
+    173
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    183
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Stamp Taxes Upon Documents, Loan Agreements, Instruments and Papers",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 158,
+   "sections": [
+    174
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Debentures and Certificates of Indebtedness",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 159,
+   "sections": [
+    175
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Original Issue of Shares of Stock",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 160,
+   "sections": [
+    176
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Sales, Agreements to Sell, Memoranda of Sales, Deliveries or Transfer of Due-bills, Certificates of Obligation, or Shares of Certificates of Stock",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 161,
+   "sections": [
+    177
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Bonds, Debentures, Certificate of Stock or Indebtedness Issued in Foreign Countries",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 162,
+   "sections": [
+    178
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Certificates of Profits or Interest in Property or Accumulations",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 163,
+   "sections": [
+    179
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Bank Checks, Drafts, Certificates of Deposit not Bearing Interest, and Other Instruments",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 164,
+   "sections": [
+    180
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on All Bonds, Loan Agreements, Promissory Notes, Bills of Exchange, Drafts, Instruments and Securities Issued by the Government or Any of its Instrumentalities",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 165,
+   "sections": [
+    181
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax Upon Acceptance of Bills of Exchange and Others",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 166,
+   "sections": [
+    182
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Foreign Bills of Exchange and Letters of Credit",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 167,
+   "sections": [
+    183
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Life Insurance Policies",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 168,
+   "sections": [
+    184
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Policies of Insurance Upon Property",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 169,
+   "sections": [
+    185
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Fidelity Bonds and Other Insurance Policies",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 170,
+   "sections": [
+    186
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Policies of Annuities and Pre-Need Plans",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 171,
+   "sections": [
+    187
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Indemnity Bonds",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 172,
+   "sections": [
+    188
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Certificates",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 173,
+   "sections": [
+    189
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Warehouse Receipts",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 174,
+   "sections": [
+    190
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Jai-Alai, Horse Racing Tickets, lotto or Other Authorized Numbers Games",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 175,
+   "sections": [
+    191
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Bills of Lading or Receipts",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 176,
+   "sections": [
+    192
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Proxies",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 177,
+   "sections": [
+    193
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Powers of Attorney",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 178,
+   "sections": [
+    194
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp tax on Leases and Other Hiring Agreements",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 179,
+   "sections": [
+    195
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 5,
+   "units_remaining": 5,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Mortgages, Pledges and Deeds of Trust",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 180,
+   "sections": [
+    196
+   ],
+   "size": 1,
+   "depth": 4,
+   "status": "untouched",
+   "deps": [
+    6
+   ],
+   "dependents": [],
+   "units_est": 5,
+   "units_remaining": 5,
+   "fan_in": 0,
+   "heading": "Stamp tax on Deeds of Sale and Conveyances of Real Property",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 181,
+   "sections": [
+    197
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 5,
+   "units_remaining": 5,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Charter Parties and Similar Instruments",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 182,
+   "sections": [
+    198
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Stamp Tax on Assignments and Renewals of Certain Instruments",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 183,
+   "sections": [
+    199
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    173
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Documents and Papers Not Subject to Stamp Tax",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 184,
+   "sections": [
+    200
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Payment of Documentary Stamp Tax",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 185,
+   "sections": [
+    201
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Effect of Failure to Stamp Taxable Document",
+   "title": "Title VII - DOCUMENTARY STAMP TAX"
+  },
+  {
+   "cluster": 186,
+   "sections": [
+    202
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Final Deed to Purchaser",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 187,
+   "sections": [
+    205
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Remedies for the Collection of Delinquent Taxes",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 188,
+   "sections": [
+    206
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Constructive Distraint of the Property of A Taxpayer",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 189,
+   "sections": [
+    207
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    246
+   ],
+   "units_est": 6,
+   "units_remaining": 6,
+   "fan_in": 1,
+   "heading": "Summary Remedies",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 190,
+   "sections": [
+    208
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    191
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Procedure for Distraint and Garnishment",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 191,
+   "sections": [
+    209
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    208
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Sale of Property Distrained and Disposition of Proceeds",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 192,
+   "sections": [
+    210
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Release of Distrained Property Upon Payment Prior to Sale",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 193,
+   "sections": [
+    211
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Report of Sale to Bureau of Internal Revenue",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 194,
+   "sections": [
+    212
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Purchase by Government at Sale Upon Distraint",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 195,
+   "sections": [
+    213
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 4,
+   "units_remaining": 4,
+   "fan_in": 0,
+   "heading": "Advertisement and Sale",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 196,
+   "sections": [
+    214
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Redemption of Property Sold",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 197,
+   "sections": [
+    215
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Forfeiture to Government for Want of Bidder",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 198,
+   "sections": [
+    216
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Resale of Real Estate Taken for Taxes",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 199,
+   "sections": [
+    217
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Further Distraint or Levy",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 200,
+   "sections": [
+    218
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Injunction not Available to Restrain Collection of Tax",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 201,
+   "sections": [
+    219
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Nature and Extent of Tax Lien",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 202,
+   "sections": [
+    220
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Form and Mode of Proceeding in Actions Arising under this Code",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 203,
+   "sections": [
+    221
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Remedy for Enforcement of Statutory Penal Provisions",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 204,
+   "sections": [
+    223
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    203,
+    222
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Suspension of Running of Statute of Limitations",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 205,
+   "sections": [
+    224
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Remedy for Enforcement of Forfeitures",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 206,
+   "sections": [
+    225
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "When Property to be Sold or Destroyed",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 207,
+   "sections": [
+    226
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Disposition of funds Recovered in Legal Proceedings or Obtained from Forfeitures",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 208,
+   "sections": [
+    227
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Satisfaction of Judgment Recovered Against any Internal Revenue Officer",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 209,
+   "sections": [
+    228
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 6,
+   "units_remaining": 6,
+   "fan_in": 0,
+   "heading": "Protesting of Assessment",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 210,
+   "sections": [
+    229
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Recovery of Tax Erroneously or Illegally Collected",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 211,
+   "sections": [
+    231
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Action to Contest Forfeiture of Chattel",
+   "title": "Title VIII - REMEDIES"
+  },
+  {
+   "cluster": 212,
+   "sections": [
+    232
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [
+    213,
+    232
+   ],
+   "units_est": 4,
+   "units_remaining": 4,
+   "fan_in": 2,
+   "heading": "Keeping of Books of Accounts",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 213,
+   "sections": [
+    234
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    232
+   ],
+   "dependents": [
+    232
+   ],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Language in which Books are to be Kept; Translation",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 214,
+   "sections": [
+    238
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Printing of Receipts or Sales or Commercial Invoices",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 215,
+   "sections": [
+    239
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Sign to be Exhibited by Distiller, Rectifier, Compounder, Repacker and Wholesale Liquor Dealer",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 216,
+   "sections": [
+    240
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Sign to be exhibited by manufacturer of Products of Tobacco",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 217,
+   "sections": [
+    241
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Exhibition of Certificate of Payment at Place of Business",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 218,
+   "sections": [
+    242
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Continuation of Business of Deceased Person",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 219,
+   "sections": [
+    243
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Removal of Business to Other Location",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 220,
+   "sections": [
+    244
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Authority of Secretary of Finance to Promulgate Rules and Regulations",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 221,
+   "sections": [
+    248
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "merged",
+   "deps": [],
+   "dependents": [
+    222
+   ],
+   "units_est": 8,
+   "units_remaining": 0,
+   "fan_in": 1,
+   "heading": "Civil Penalties",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 222,
+   "sections": [
+    245
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    248
+   ],
+   "dependents": [],
+   "units_est": 8,
+   "units_remaining": 8,
+   "fan_in": 0,
+   "heading": "Specific Provisions to be Contained in Rules and Regulations",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 223,
+   "sections": [
+    246
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Non- Retroactivity of Rulings",
+   "title": "Title IX - COMPLIANCE REQUIREMENTS"
+  },
+  {
+   "cluster": 224,
+   "sections": [
+    247
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "General Provisions",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 225,
+   "sections": [
+    249
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "merged",
+   "deps": [],
+   "dependents": [],
+   "units_est": 7,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Interest",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 226,
+   "sections": [
+    250
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Failure to File Certain Information Returns",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 227,
+   "sections": [
+    251
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Failure of a Withholding Agent to Collect and Remit Tax",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 228,
+   "sections": [
+    252
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Failure of a Withholding Agent to refund Excess Withholding Tax",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 229,
+   "sections": [
+    253
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "General Provisions",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 230,
+   "sections": [
+    255
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 4,
+   "units_remaining": 4,
+   "fan_in": 0,
+   "heading": "Failure to File Return, Supply Correct and Accurate Information, Pay Tax Withhold and Remit Tax and Refund Excess Taxes Withheld on Compensation",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 231,
+   "sections": [
+    256
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Penal Liability of Corporations",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 232,
+   "sections": [
+    257
+   ],
+   "size": 1,
+   "depth": 2,
+   "status": "untouched",
+   "deps": [
+    232,
+    234
+   ],
+   "dependents": [],
+   "units_est": 13,
+   "units_remaining": 13,
+   "fan_in": 0,
+   "heading": "Penal Liability for Making False Entries, Records or Reports, or Using Falsified or Fake Accountable Forms",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 233,
+   "sections": [
+    258
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Unlawful Pursuit of Business",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 234,
+   "sections": [
+    259
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    67
+   ],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Illegal Collection of Foreign Payments",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 235,
+   "sections": [
+    260
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Unlawful Possession of Cigarette Paper in Bobbins or Rolls, Etc",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 236,
+   "sections": [
+    261
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Unlawful Use of Denatured Alcohol",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 237,
+   "sections": [
+    262
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Shipment or Removal of Liquor or Tobacco Products under False Name or Brand or as an Imitation of any Existing or Otherwise Known Product Name or Brand",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 238,
+   "sections": [
+    263
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 8,
+   "units_remaining": 8,
+   "fan_in": 0,
+   "heading": "Unlawful Possession or Removal of Articles Subject to Excise Tax without Payment of the Tax",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 239,
+   "sections": [
+    264
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    237
+   ],
+   "dependents": [],
+   "units_est": 6,
+   "units_remaining": 6,
+   "fan_in": 0,
+   "heading": "Failure or refusal to Issue Receipts or Sales or Commercial Invoices, Violations related to the Printing of such Receipts or Invoices and Other Violations",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 240,
+   "sections": [
+    265
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Offenses Relating to Stamps",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 241,
+   "sections": [
+    266
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Failure to Obey Summons",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 242,
+   "sections": [
+    267
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Declaration under Penalties of Perjury",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 243,
+   "sections": [
+    268
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Other Crimes and Offenses",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 244,
+   "sections": [
+    271
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Unlawful Interest of Revenue Law Enforcers in Business",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 245,
+   "sections": [
+    272
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Violation of Withholding Tax Provision",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 246,
+   "sections": [
+    273
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    207
+   ],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Penalty for Failure to Issue and Execute Warrant",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 247,
+   "sections": [
+    274
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Penalty for Second and Subsequent Offenses",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 248,
+   "sections": [
+    276
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Penalty for Selling, Transferring, Encumbering or in any way Disposing of Property Placed under Constructive Distraint",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 249,
+   "sections": [
+    277
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Failure to Surrender Property Placed under Distraint and Levy",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 250,
+   "sections": [
+    278
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Procuring Unlawful Divulgence of Trade Secrets",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 251,
+   "sections": [
+    279
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Confiscation and Forfeiture of the Proceeds or Instruments of Crime",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 252,
+   "sections": [
+    280
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Subsidiary Penalty",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 253,
+   "sections": [
+    281
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Prescription for Violations of any Provision of this Code",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 254,
+   "sections": [
+    282
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 6,
+   "units_remaining": 6,
+   "fan_in": 0,
+   "heading": "Informer's Reward to Persons Instrumental in the Discovery of Violations of the National Internal Revenue Code and in the Discovery and Seizure of Smuggled Goods",
+   "title": "Title X - STATUTORY OFFENSES AND PENALTIES"
+  },
+  {
+   "cluster": 255,
+   "sections": [
+    283
+   ],
+   "size": 1,
+   "depth": 3,
+   "status": "untouched",
+   "deps": [
+    106,
+    108,
+    116
+   ],
+   "dependents": [],
+   "units_est": 6,
+   "units_remaining": 6,
+   "fan_in": 0,
+   "heading": "Disposition of National Internal Revenue",
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 256,
+   "sections": [
+    284
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Allotment for the Commission on Audit",
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 257,
+   "sections": [
+    285
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Allotment for the Bureau of Internal Revenue",
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 258,
+   "sections": [
+    286
+   ],
+   "size": 1,
+   "depth": 1,
+   "status": "untouched",
+   "deps": [
+    123
+   ],
+   "dependents": [],
+   "units_est": 3,
+   "units_remaining": 3,
+   "fan_in": 0,
+   "heading": "Disposition of Proceeds of insurance Premium Tax",
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 259,
+   "sections": [
+    287
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 10,
+   "units_remaining": 10,
+   "fan_in": 0,
+   "heading": "Shares of Local Government Units in the Proceeds from the Development and Utilization of the National Wealth",
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 260,
+   "sections": [
+    288
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 13,
+   "units_remaining": 13,
+   "fan_in": 0,
+   "heading": "Disposition of Incremental Revenues",
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 261,
+   "sections": [
+    289
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 7,
+   "units_remaining": 7,
+   "fan_in": 0,
+   "heading": "Special Financial Support to Beneficiary Provinces Producing Virginia Tobacco",
+   "title": "Title XI - ALLOTMENT OF INTERNAL REVENUE"
+  },
+  {
+   "cluster": 262,
+   "sections": [
+    291
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "In General",
+   "title": "Title XIII - REPEALING PROVISIONS"
+  },
+  {
+   "cluster": 263,
+   "sections": [
+    292
+   ],
+   "size": 1,
+   "depth": 0,
+   "status": "untouched",
+   "deps": [],
+   "dependents": [],
+   "units_est": 0,
+   "units_remaining": 0,
+   "fan_in": 0,
+   "heading": "Separability Clause",
+   "title": "Title XIV - FINAL PROVISIONS"
+  }
+ ],
+ "frontier_ready": [
+  4,
+  7,
+  12,
+  21,
+  32,
+  37,
+  38,
+  44,
+  48,
+  62,
+  76,
+  77,
+  80,
+  92,
+  95,
+  103,
+  104,
+  105,
+  107,
+  108,
+  110,
+  111,
+  114,
+  115,
+  117,
+  128,
+  129,
+  160,
+  175,
+  179,
+  181,
+  189,
+  195,
+  196,
+  209,
+  212,
+  222,
+  230,
+  233,
+  235,
+  236,
+  237,
+  238,
+  240,
+  241,
+  244,
+  245,
+  248,
+  249,
+  250,
+  254,
+  256,
+  259,
+  260,
+  261
+ ],
+ "frontier_next": [
+  6,
+  13,
+  23,
+  63,
+  75,
+  82,
+  97,
+  109,
+  116,
+  120,
+  130,
+  132,
+  134,
+  232,
+  234,
+  239,
+  258
+ ],
+ "order": [
+  0,
+  1,
+  2,
+  3,
+  16,
+  17,
+  18,
+  19,
+  20,
+  25,
+  26,
+  27,
+  29,
+  30,
+  31,
+  33,
+  34,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  50,
+  51,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  63,
+  64,
+  65,
+  66,
+  67,
+  69,
+  70,
+  71,
+  72,
+  75,
+  76,
+  77,
+  78,
+  79,
+  82,
+  83,
+  85,
+  86,
+  87,
+  88,
+  89,
+  90,
+  91,
+  93,
+  94,
+  96,
+  97,
+  98,
+  100,
+  102,
+  103,
+  104,
+  105,
+  106,
+  107,
+  109,
+  110,
+  111,
+  112,
+  113,
+  116,
+  117,
+  118,
+  121,
+  122,
+  123,
+  124,
+  125,
+  126,
+  127,
+  128,
+  130,
+  131,
+  132,
+  134,
+  135,
+  136,
+  137,
+  138,
+  139,
+  140,
+  141,
+  142,
+  143,
+  144,
+  145,
+  147,
+  148,
+  149,
+  150,
+  151,
+  152,
+  153,
+  154,
+  155,
+  156,
+  158,
+  159,
+  160,
+  161,
+  162,
+  163,
+  164,
+  165,
+  166,
+  167,
+  168,
+  169,
+  170,
+  171,
+  172,
+  173,
+  174,
+  175,
+  176,
+  177,
+  178,
+  179,
+  180,
+  181,
+  182,
+  183,
+  184,
+  185,
+  186,
+  187,
+  188,
+  191,
+  192,
+  193,
+  194,
+  195,
+  196,
+  197,
+  198,
+  199,
+  200,
+  201,
+  202,
+  203,
+  204,
+  205,
+  206,
+  207,
+  208,
+  209,
+  210,
+  211,
+  214,
+  215,
+  216,
+  217,
+  218,
+  219,
+  220,
+  222,
+  223,
+  224,
+  225,
+  226,
+  227,
+  228,
+  229,
+  230,
+  231,
+  232,
+  233,
+  234,
+  235,
+  236,
+  237,
+  238,
+  239,
+  240,
+  241,
+  242,
+  243,
+  244,
+  245,
+  246,
+  247,
+  248,
+  249,
+  250,
+  251,
+  252,
+  253,
+  254,
+  255,
+  256,
+  257,
+  258,
+  259,
+  260,
+  261,
+  262,
+  263,
+  28,
+  32,
+  49,
+  52,
+  61,
+  62,
+  73,
+  74,
+  80,
+  92,
+  84,
+  95,
+  99,
+  101,
+  115,
+  114,
+  120,
+  129,
+  24,
+  133,
+  146,
+  157,
+  190,
+  221,
+  213,
+  68,
+  189,
+  108,
+  42,
+  119,
+  23,
+  15,
+  81,
+  212,
+  21,
+  35,
+  36,
+  37,
+  38,
+  40,
+  41,
+  22,
+  14,
+  39,
+  11,
+  13,
+  6,
+  7,
+  8,
+  9,
+  10,
+  12,
+  4,
+  5
+ ]
+}

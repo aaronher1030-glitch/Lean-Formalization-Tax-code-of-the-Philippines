@@ -1,0 +1,35 @@
+case_id,period,regular_centavos,supp_centavos,benefits_nt_centavos,sss_centavos,display_net_taxable_centavos,bir_centavos,statute_centavos,diff_centavos,verdict,defect,note
+daily_zero_600,daily,60000,0,0,0,60000,60000,0,60000,bir_over,daily_zero_branch,"P600/day, below the P685 floor: returns the income"
+daily_zero_684_99,daily,68499,0,0,0,68499,68499,0,68499,bir_over,daily_zero_branch,last centavo below the floor
+daily_floor_685,daily,68500,0,0,0,68500,0,0,0,match,none,first taxable centavo
+daily_over_685,daily,70000,0,0,0,70000,225,225,0,match,none,P15 above the floor
+daily_zero_with_supp,daily,60000,100000,0,0,160000,160000,16245,143755,bir_over,daily_zero_branch,"same day, P1,000 supplementary"
+daily_bracket_1096,daily,109600,0,0,0,109600,6165,6165,0,match,none,second floor
+daily_top_21918,daily,2191800,0,0,0,2191800,603430,603430,0,match,none,top floor
+weekly_zero_4807_99,weekly,480799,0,0,0,480799,0,0,0,match,none,just below floor
+weekly_floor_4808,weekly,480800,0,0,0,480800,0,0,0,match,none,first taxable centavo
+weekly_top_153846,weekly,15384600,0,0,0,15384600,4235565,4235565,0,match,none,top floor
+semi_floor_10417,semi_monthly,1041700,0,0,0,1041700,0,0,0,match,none,first taxable centavo
+semi_top_333333,semi_monthly,33333300,0,0,0,33333300,9177070,9177070,0,match,none,top floor
+monthly_zero_20832_99,monthly,2083299,0,0,0,2083299,0,0,0,match,none,just below floor
+monthly_floor_20833,monthly,2083300,0,0,0,2083300,0,0,0,match,none,first taxable centavo
+monthly_below_floor_with_supp,monthly,2000000,1000000,0,0,3000000,0,137505,-137505,bir_under,supp_bracket,"regular below floor, P10,000 supplementary: dropped"
+monthly_39999,monthly,3999900,0,0,0,3999900,320820,320820,0,match,none,inside the 15% band
+monthly_top_666667,monthly,66666700,0,0,0,66666700,18354180,18354180,0,match,none,top floor
+monthly_30000,monthly,3000000,0,0,0,3000000,137505,137505,0,match,none,"P30,000 with the SSS box empty: the baseline, see report"
+annual_250000,annual,25000000,0,0,0,25000000,0,0,0,match,none,"P250,000 floor"
+annual_250000_10,annual,25000010,0,0,0,25000010,2,1,1,bir_over,float,15% of 10 centavos is 1.5: binary noise rounds it up
+annual_400000,annual,40000000,0,0,0,40000000,2250000,2250000,0,match,none,second floor
+annual_cross_399999_supp100k,annual,39999900,10000000,0,0,49999900,3749985,4249980,-499995,bir_under,supp_bracket,"total P499,999 crosses into the 20% band"
+annual_800000,annual,80000000,0,0,0,80000000,10250000,10250000,0,match,none,third floor
+annual_2M,annual,200000000,0,0,0,200000000,40250000,40250000,0,match,none,fourth floor
+annual_8M,annual,800000000,0,0,0,800000000,220250000,220250000,0,match,none,top floor
+annual_10M,annual,1000000000,0,0,0,1000000000,290250000,290250000,0,match,none,top band
+annual_below_floor_with_supp,annual,24000000,5000000,0,0,29000000,0,600000,-600000,bir_under,supp_bracket,"regular below floor, total above it"
+annual_ben_90000,annual,25000000,0,9000000,0,25000000,0,0,0,match,none,benefits at the ceiling
+annual_ben_95000,annual,25000000,0,9500000,0,25500000,75000,75000,0,match,none,"P5,000 of benefits above the ceiling"
+annual_top_10c,annual,800000010,0,0,0,800000010,220250003,220250003,0,match,float,35% of 10 centavos is 3.5: the same noise rounds it down
+monthly_30000_sss_1350,monthly,3000000,0,0,135000,3000000,137505,137505,0,match,sss_ignored,"P1,350 in the SSS box: tax and display both unchanged"
+monthly_28650_sss_reading,monthly,2865000,0,0,0,2865000,117255,117255,0,match,sss_ignored,"the same salary entered net of P1,350: P202.50 less tax"
+annual_400k_sss_10k,annual,40000000,0,0,1000000,40000000,2250000,2250000,0,match,sss_ignored,"P10,000 in the SSS box: tax and display both unchanged"
+annual_390k_net_of_sss,annual,39000000,0,0,0,39000000,2100000,2100000,0,match,sss_ignored,"the same salary entered net of P10,000: P1,500.00 less tax"

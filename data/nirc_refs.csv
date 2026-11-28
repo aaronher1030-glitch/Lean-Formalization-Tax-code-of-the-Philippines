@@ -1,0 +1,164 @@
+from,to,phrase
+5,6,Section 6(F)
+6,113,Sections 113 and 237
+6,204,Sec. 204 (A) (2)
+6,237,Sections 113 and 237
+7,204,Sec. 204 (A) and
+12,269,Sections 269 and 270
+12,270,Sections 269 and 270
+17,16,Section 16 and
+20,204,Section 204
+20,270,Section 270
+20,290,Section 290
+22,39,Section 39(A)(1)
+22,57,Section 57
+24,6,Section 6(E)
+24,23,Section 23
+24,31,Section 31
+24,39,Section 39(B)
+24,51,Section 51 (D)
+25,22,Section 22 (G)
+25,24,Section 24
+25,28,Section 28
+27,6,Section 6(E)
+27,22,Section 22(B)
+28,22,Section 22(DD)
+28,27,Section 27 (A)
+28,57,Sections 57 and 58
+28,58,Sections 57 and 58
+32,22,Section 22 (BB)
+33,25,Section 25
+33,57,Section 57 (A)
+34,22,Section 22 (T)
+34,24,Sections 24 (A)
+34,27,Section 27 (B)
+34,33,Section 33
+34,36,Section 36 (B)
+34,38,Section 38
+34,39,Section 39
+34,58,Section 58 and 81
+34,81,Section 58 and 81
+35,24,Section 24 (A)
+36,34,Section 34
+38,34,Section 34
+39,34,Section 34
+43,22,"Section 22(Q),"
+44,43,"Section 43,"
+46,47,Section 47
+51,24,Section 24(c)
+51,32,"Section 32 (A)(1),"
+51,35,Section 35
+51,57,Section 57(A)
+51,79,Section 79
+52,24,"Sections 24 (c), 25 (A)(3), 27 (E)(2), 28(A)(8)(c) and 28 (B)(5)(c),"
+52,25,"Sections 24 (c), 25 (A)(3), 27 (E)(2), 28(A)(8)(c) and 28 (B)(5)(c),"
+52,27,"Sections 24 (c), 25 (A)(3), 27 (E)(2), 28(A)(8)(c) and 28 (B)(5)(c),"
+52,28,"Sections 24 (c), 25 (A)(3), 27 (E)(2), 28(A)(8)(c) and 28 (B)(5)(c),"
+52,47,Section 47
+53,56,Section 56
+55,32,Section 32 (B)
+56,24,"Section 24 (c), 24(D), 27(E)(2), 28(A)(8)(c) and 28(B)(5)(c)"
+56,27,"Section 24 (c), 24(D), 27(E)(2), 28(A)(8)(c) and 28(B)(5)(c)"
+56,28,"Section 24 (c), 24(D), 27(E)(2), 28(A)(8)(c) and 28(B)(5)(c)"
+56,49,Section 49
+57,24,"Sections 24(B)(1), 24(B)(2), 24(C), 24(D)(1)"
+57,58,Section 58
+58,40,"Section 40,"
+58,56,Section 56
+58,57,Section 57
+58,68,Section 68
+58,204,Section 204
+58,269,Section 269
+60,63,Section 63
+60,64,Section 64
+68,69,"Section 69,"
+73,27,Section 27 (A)
+74,24,Sections 24 and 25(A)
+74,25,Sections 24 and 25(A)
+76,27,Section 27
+77,75,Section 75 and
+77,76,Section 76
+79,24,Section 24(A)
+79,49,"Section 49,"
+83,68,Section 68
+84,85,Sections 85 and 86
+84,86,Sections 85 and 86
+86,90,Section 90
+86,91,Section 91
+90,84,Section 84
+90,86,Section 86
+91,84,Section 84
+91,203,Section 203
+92,203,Section 203
+98,99,Section 99
+100,24,"Section 24(D),"
+102,88,Section 88(B)
+103,101,"Section 101,"
+105,106,Sections 106 to 108
+105,107,Sections 106 to 108
+105,108,Sections 106 to 108
+106,149,"Sections 149 and 150,"
+106,150,"Sections 149 and 150,"
+108,119,Section 119
+109,106,Section 106 or 108
+109,108,Section 106 or 108
+109,110,"Section 110,"
+110,111,Section 111
+110,112,Section 112
+110,113,Section 113
+110,236,Section 236
+112,106,"Section 106(A)(2)(a)(1),"
+112,108,Section 108 (B)(1) and
+113,106,Sections 106 and 108
+113,108,Sections 106 and 108
+113,233,"Section 233,"
+113,237,"Section 237,"
+114,106,Sections 106 and 108
+114,108,Sections 106 and 108
+114,236,"Section 236,"
+115,114,Section 114
+115,236,Section 236
+116,109,Section 109(z)
+119,128,Section 128
+119,236,Section 236
+121,32,Section 32
+124,123,Section 123
+127,24,"Sections 24(C), 27(D)(2), 28(A)(8)(c),"
+127,27,"Sections 24(C), 27(D)(2), 28(A)(8)(c),"
+127,28,"Sections 24(C), 27(D)(2), 28(A)(8)(c),"
+128,116,Section 116
+130,148,"Sections 148 and 151(A)(4),"
+130,151,"Sections 148 and 151(A)(4),"
+134,106,Section 106(A)
+134,141,Section 141
+134,148,Section 148(d)
+141,133,Section 133
+143,254,Section 254
+145,254,Section 254
+146,12,Section 12
+146,147,Section 147
+163,235,"Section 235,"
+196,6,Section 6(E)
+199,173,Section 173 to
+203,222,"Section 222,"
+204,230,Section 230
+209,208,Section 208
+222,203,Section 203
+223,203,Sections 203 and 222
+223,222,Sections 203 and 222
+234,232,Section 232
+235,5,Section 5(B) to
+235,203,Section 203
+236,109,Section 109(z)
+236,275,Section 275
+245,248,Section 248
+257,232,Section 232 (A) and
+257,234,Section 234
+259,67,Section 67
+264,237,Section 237 to
+270,71,Section 71
+273,207,Section 207 or
+283,106,"Sections 106, 108 and 116"
+283,108,"Sections 106, 108 and 116"
+283,116,"Sections 106, 108 and 116"
+286,123,Section 123

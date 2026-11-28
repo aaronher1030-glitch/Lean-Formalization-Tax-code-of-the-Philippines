@@ -1,0 +1,265 @@
+cluster,size,depth,status,units_est,units_remaining,fan_in,sections,deps,dependents,heading,title
+48,1,0,untouched,20,20,0,42,,,Income from Sources Within the Philippines,Title II - TAX ON INCOME
+114,1,0,untouched,13,13,2,148,,116 121,Manufactured Oils and Other Fuels,Title VI - EXCISE TAX ON CERTAIN GOODS
+115,1,0,untouched,13,13,1,151,,116,Mineral Products,Title VI - EXCISE TAX ON CERTAIN GOODS
+260,1,0,untouched,13,13,0,288,,,Disposition of Incremental Revenues,Title XI - ALLOTMENT OF INTERNAL REVENUE
+37,1,0,untouched,12,12,1,40,,42,Determination of Amount and Recognition of Gain or Loss,Title II - TAX ON INCOME
+95,1,0,untouched,11,11,1,101,,97,Exemption of Certain Gifts,Title III - ESTATE AND DONOR'S TAXES
+128,1,0,untouched,10,10,0,142,,,Wines,Title VI - EXCISE TAX ON CERTAIN GOODS
+259,1,0,untouched,10,10,0,287,,,Shares of Local Government Units in the Proceeds from the Development and Utilization of the National Wealth,Title XI - ALLOTMENT OF INTERNAL REVENUE
+44,1,0,untouched,9,9,0,29,,,Imposition of Improperly Accumulated Earnings Tax,Title II - TAX ON INCOME
+76,1,0,untouched,8,8,0,78,,,Definitions,Title II - TAX ON INCOME
+80,1,0,untouched,8,8,1,85,,82,Gross Estate,Title III - ESTATE AND DONOR'S TAXES
+110,1,0,untouched,8,8,0,125,,,Amusement Taxes,Title V - OTHER PERCENTAGE TAXES
+238,1,0,untouched,8,8,0,263,,,Unlawful Possession or Removal of Articles Subject to Excise Tax without Payment of the Tax,Title X - STATUTORY OFFENSES AND PENALTIES
+32,1,0,untouched,7,7,1,290,,33,Congressional Oversight Committee,Title XII - OVERSIGHT COMMITTEE
+105,1,0,untouched,7,7,0,120,,,"Tax on Overseas Dispatch, Message or Conversation Originating from the Philippines",Title V - OTHER PERCENTAGE TAXES
+107,1,0,untouched,7,7,0,122,,,Tax on Finance Companies,Title V - OTHER PERCENTAGE TAXES
+261,1,0,untouched,7,7,0,289,,,Special Financial Support to Beneficiary Provinces Producing Virginia Tobacco,Title XI - ALLOTMENT OF INTERNAL REVENUE
+189,1,0,untouched,6,6,1,207,,246,Summary Remedies,Title VIII - REMEDIES
+209,1,0,untouched,6,6,0,228,,,Protesting of Assessment,Title VIII - REMEDIES
+254,1,0,untouched,6,6,0,282,,,Informer's Reward to Persons Instrumental in the Discovery of Violations of the National Internal Revenue Code and in the Discovery and Seizure of Smuggled Goods,Title X - STATUTORY OFFENSES AND PENALTIES
+4,1,0,untouched,5,5,1,149,,6,Automobiles,Title VI - EXCISE TAX ON CERTAIN GOODS
+7,1,0,untouched,5,5,1,111,,11,Transitional/Presumptive Input Tax Credits,Title IV - VALUE- ADDED TAX
+12,1,0,untouched,5,5,1,230,,13,Forfeiture of Cash Refund and of Tax Credit,Title VIII - REMEDIES
+77,1,0,untouched,5,5,0,80,,,Liability for Tax,Title II - TAX ON INCOME
+92,1,0,untouched,5,5,1,99,,93,"(B) The tax shall apply whether the transfer is in trust or otherwise, whether the gift is direct or indirect, and whether the property is real or personal, tangible or intangible",Title III - ESTATE AND DONOR'S TAXES
+103,1,0,untouched,5,5,0,117,,,Percentage Tax on Domestic Carriers and Keepers of Garages,Title V - OTHER PERCENTAGE TAXES
+179,1,0,untouched,5,5,0,195,,,"Stamp Tax on Mortgages, Pledges and Deeds of Trust",Title VII - DOCUMENTARY STAMP TAX
+181,1,0,untouched,5,5,0,197,,,Stamp Tax on Charter Parties and Similar Instruments,Title VII - DOCUMENTARY STAMP TAX
+104,1,0,untouched,4,4,0,118,,,Percentage Tax on International Carriers,Title V - OTHER PERCENTAGE TAXES
+111,1,0,untouched,4,4,0,126,,,Tax on Winnings,Title V - OTHER PERCENTAGE TAXES
+117,1,0,untouched,4,4,0,131,,,Payment of Excise Taxes on Importer Articles,Title VI - EXCISE TAX ON CERTAIN GOODS
+195,1,0,untouched,4,4,0,213,,,Advertisement and Sale,Title VIII - REMEDIES
+212,1,0,untouched,4,4,2,232,,213 232,Keeping of Books of Accounts,Title IX - COMPLIANCE REQUIREMENTS
+230,1,0,untouched,4,4,0,255,,,"Failure to File Return, Supply Correct and Accurate Information, Pay Tax Withhold and Remit Tax and Refund Excess Taxes Withheld on Compensation",Title X - STATUTORY OFFENSES AND PENALTIES
+21,1,0,untouched,3,3,2,269,,24 42,Violations Committed by Government Enforcement Officers,Title X - STATUTORY OFFENSES AND PENALTIES
+38,1,0,untouched,3,3,2,49,,42,Installment Basis,Title II - TAX ON INCOME
+62,1,0,untouched,3,3,1,64,,63,Income for Benefit of Grantor,Title II - TAX ON INCOME
+108,1,0,untouched,3,3,2,123,,109 258,Tax on Life Insurance Premiums,Title V - OTHER PERCENTAGE TAXES
+129,1,0,untouched,3,3,2,254,,130 132,Attempt to Evade or Defeat Tax,Title X - STATUTORY OFFENSES AND PENALTIES
+160,1,0,untouched,3,3,0,176,,,"Stamp Tax on Sales, Agreements to Sell, Memoranda of Sales, Deliveries or Transfer of Due-bills, Certificates of Obligation, or Shares of Certificates of Stock",Title VII - DOCUMENTARY STAMP TAX
+175,1,0,untouched,3,3,0,191,,,Stamp Tax on Bills of Lading or Receipts,Title VII - DOCUMENTARY STAMP TAX
+196,1,0,untouched,3,3,0,214,,,Redemption of Property Sold,Title VIII - REMEDIES
+233,1,0,untouched,3,3,0,258,,,Unlawful Pursuit of Business,Title X - STATUTORY OFFENSES AND PENALTIES
+235,1,0,untouched,3,3,0,260,,,"Unlawful Possession of Cigarette Paper in Bobbins or Rolls, Etc",Title X - STATUTORY OFFENSES AND PENALTIES
+236,1,0,untouched,3,3,0,261,,,Unlawful Use of Denatured Alcohol,Title X - STATUTORY OFFENSES AND PENALTIES
+237,1,0,untouched,3,3,0,262,,,Shipment or Removal of Liquor or Tobacco Products under False Name or Brand or as an Imitation of any Existing or Otherwise Known Product Name or Brand,Title X - STATUTORY OFFENSES AND PENALTIES
+240,1,0,untouched,3,3,0,265,,,Offenses Relating to Stamps,Title X - STATUTORY OFFENSES AND PENALTIES
+241,1,0,untouched,3,3,0,266,,,Failure to Obey Summons,Title X - STATUTORY OFFENSES AND PENALTIES
+244,1,0,untouched,3,3,0,271,,,Unlawful Interest of Revenue Law Enforcers in Business,Title X - STATUTORY OFFENSES AND PENALTIES
+245,1,0,untouched,3,3,0,272,,,Violation of Withholding Tax Provision,Title X - STATUTORY OFFENSES AND PENALTIES
+248,1,0,untouched,3,3,0,276,,,"Penalty for Selling, Transferring, Encumbering or in any way Disposing of Property Placed under Constructive Distraint",Title X - STATUTORY OFFENSES AND PENALTIES
+249,1,0,untouched,3,3,0,277,,,Failure to Surrender Property Placed under Distraint and Levy,Title X - STATUTORY OFFENSES AND PENALTIES
+250,1,0,untouched,3,3,0,278,,,Procuring Unlawful Divulgence of Trade Secrets,Title X - STATUTORY OFFENSES AND PENALTIES
+256,1,0,untouched,3,3,0,284,,,Allotment for the Commission on Audit,Title XI - ALLOTMENT OF INTERNAL REVENUE
+0,1,0,untouched,0,0,0,1,,,Title of the Code,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+1,1,0,untouched,0,0,0,2,,,Powers and duties of the Bureau of Internal Revenue,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+2,1,0,untouched,0,0,0,3,,,Chief Officials of the Bureau of Internal Revenue,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+3,1,0,untouched,0,0,0,4,,,Power of the Commissioner to Interpret Tax Laws and to Decide Tax Cases,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+5,1,0,untouched,0,0,1,150,,6,Non-essential Goods,Title VI - EXCISE TAX ON CERTAIN GOODS
+8,1,0,untouched,0,0,1,275,,11,Violation of Other Provisions of this Code or Rules and Regulations in General,Title X - STATUTORY OFFENSES AND PENALTIES
+9,1,0,untouched,0,0,1,233,,11,Subsidiary Books,Title IX - COMPLIANCE REQUIREMENTS
+10,1,0,untouched,0,0,3,237,,11 14 239,Issuance of Receipts or Sales or Commercial Invoices,Title IX - COMPLIANCE REQUIREMENTS
+17,1,0,untouched,0,0,0,8,,,"Duty of the Commissioner to Ensure the Provision and Distribution of forms, Receipts, Certificates, and Appliances, and the Acknowledgment of Payment of Taxes",Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+18,1,0,untouched,0,0,0,9,,,Internal Revenue Districts,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+19,1,0,untouched,0,0,0,10,,,Revenue Regional Director,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+20,1,0,untouched,0,0,0,11,,,Duties of Revenue District Officers and Other Internal Revenue Officers,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+22,1,0,untouched,0,0,1,71,,23,"Disposition of Income Tax Returns, Publication of Lists of Taxpayers and Filers",Title II - TAX ON INCOME
+25,1,0,untouched,0,0,0,13,,,Authority of a Revenue Offices,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+26,1,0,untouched,0,0,0,14,,,Authority of Officers to Administer Oaths and Take Testimony,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+27,1,0,untouched,0,0,0,15,,,Authority of Internal Revenue Officers to Make Arrests and Seizures,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+28,1,0,untouched,0,0,1,16,,29,Assignment of Internal Revenue Officers Involved in Excise Tax Functions to Establishments Where Articles subject to Excise Tax are Produced or Kept,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+30,1,0,untouched,0,0,0,18,,,Reports of violation of Laws,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+31,1,0,untouched,0,0,0,19,,,Contents of Commissioner's Annual Report,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+34,1,0,merged,0,0,0,21,,,Sources of Revenue,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+35,1,0,untouched,0,0,1,23,,42,General Principles of Income Taxation in the Philippines,Title II - TAX ON INCOME
+36,1,0,untouched,0,0,1,31,,42,Taxable Income Defined,Title II - TAX ON INCOME
+39,1,0,untouched,0,0,1,69,,40,Return of Information of Brokers,Title II - TAX ON INCOME
+41,1,0,untouched,0,0,1,81,,42,Filing of Return and Payment of Taxes Withheld,Title II - TAX ON INCOME
+43,1,0,untouched,0,0,0,26,,,Tax Liability of Members of General Professional Partnerships,Title II - TAX ON INCOME
+45,1,0,untouched,0,0,0,30,,,Exemptions from Tax on Corporations,Title II - TAX ON INCOME
+46,1,0,untouched,0,0,0,37,,,"Special Provisions Regarding Income and Deductions of Insurance Companies, Whether Domestic or Foreign",Title II - TAX ON INCOME
+47,1,0,untouched,0,0,0,41,,,Inventories,Title II - TAX ON INCOME
+51,1,0,untouched,0,0,0,45,,,Period for which Deductions and Credits Taken,Title II - TAX ON INCOME
+52,1,0,untouched,0,0,2,47,,53 56,Section 47,Title II - TAX ON INCOME
+54,1,0,untouched,0,0,0,48,,,Accounting for Long-term Contracts,Title II - TAX ON INCOME
+55,1,0,untouched,0,0,0,50,,,Allocation of Income and Deductions,Title II - TAX ON INCOME
+58,1,0,untouched,0,0,0,54,,,"Returns of Receivers, Trustees in Bankruptcy or Assignees",Title II - TAX ON INCOME
+60,1,0,untouched,0,0,0,59,,,Tax on Profits Collectible from Owner or Other Persons,Title II - TAX ON INCOME
+61,1,0,untouched,0,0,1,63,,63,Revocable trusts,Title II - TAX ON INCOME
+64,1,0,untouched,0,0,0,61,,,Taxable Income,Title II - TAX ON INCOME
+65,1,0,untouched,0,0,0,62,,,Exemption Allowed to Estates and Trusts,Title II - TAX ON INCOME
+66,1,0,untouched,0,0,0,65,,,Fiduciary Returns,Title II - TAX ON INCOME
+67,1,0,untouched,0,0,0,66,,,Fiduciaries Indemnified Against Claims for Taxes Paid,Title II - TAX ON INCOME
+68,1,0,untouched,0,0,1,67,,234,Collection of Foreign Payments,Title II - TAX ON INCOME
+69,1,0,untouched,0,0,0,70,,,Returns of Foreign Corporations,Title II - TAX ON INCOME
+70,1,0,untouched,0,0,0,72,,,Suit to Recover Tax Based on False or Fraudulent Returns,Title II - TAX ON INCOME
+73,1,0,untouched,0,0,1,75,,75,Declaration of Quarterly Corporate Income Tax,Title II - TAX ON INCOME
+78,1,0,untouched,0,0,0,82,,,Return and Payment in Case of Government Employees,Title II - TAX ON INCOME
+81,2,0,untouched,0,0,7,203 222,,82 86 146 204,Period of Limitation Upon Assessment and Collection,Title VIII - REMEDIES
+83,1,0,untouched,0,0,0,87,,,Exemption of Certain Acquisitions and Transmissions,Title III - ESTATE AND DONOR'S TAXES
+84,1,0,untouched,0,0,1,88,,96,Determination of the Value of the Estate,Title III - ESTATE AND DONOR'S TAXES
+85,1,0,untouched,0,0,0,89,,,Notice of Death to be Filed,Title III - ESTATE AND DONOR'S TAXES
+87,1,0,untouched,0,0,0,93,,,Definition of Deficiency,Title III - ESTATE AND DONOR'S TAXES
+88,1,0,untouched,0,0,0,94,,,Payment before Delivery by Executor or Administrator,Title III - ESTATE AND DONOR'S TAXES
+89,1,0,untouched,0,0,0,95,,,Duties of Certain Officers and Debtors,Title III - ESTATE AND DONOR'S TAXES
+90,1,0,untouched,0,0,0,96,,,Restitution of Tax Upon Satisfaction of Outstanding Obligations,Title III - ESTATE AND DONOR'S TAXES
+91,1,0,untouched,0,0,0,97,,,"Payment of Tax Antecedent to the Transfer of Shares, Bonds or Rights",Title III - ESTATE AND DONOR'S TAXES
+98,1,0,untouched,0,0,0,104,,,Definitions,Title III - ESTATE AND DONOR'S TAXES
+99,1,0,untouched,0,0,1,107,,100,Value-Added Tax on Importation of Goods,Title IV - VALUE- ADDED TAX
+113,1,0,untouched,0,0,0,129,,,Goods subject to Excise Taxes,Title VI - EXCISE TAX ON CERTAIN GOODS
+118,1,0,untouched,0,0,0,132,,,Mode of Computing Contents of Cask or Package,Title VI - EXCISE TAX ON CERTAIN GOODS
+119,1,0,untouched,0,0,1,133,,120,Removal of Wines and distilled Spirits for Treatment of Tobacco Leaf,Title VI - EXCISE TAX ON CERTAIN GOODS
+122,1,0,untouched,0,0,0,135,,,Petroleum Products Sold to International Carriers and Exempt Entities or Agencies,Title VI - EXCISE TAX ON CERTAIN GOODS
+123,1,0,untouched,0,0,0,136,,,"Denaturation, Withdrawal and Use of Denatured Alcohol",Title VI - EXCISE TAX ON CERTAIN GOODS
+124,1,0,untouched,0,0,0,137,,,Removal of Spirits Under Bond for Rectification,Title VI - EXCISE TAX ON CERTAIN GOODS
+125,1,0,untouched,0,0,0,138,,,Removal of Fermented Liquors to Bonded Warehouse,Title VI - EXCISE TAX ON CERTAIN GOODS
+126,1,0,untouched,0,0,0,139,,,Removal of Damaged Liquors Free of Tax,Title VI - EXCISE TAX ON CERTAIN GOODS
+127,1,0,untouched,0,0,0,140,,,Removal of Tobacco Products without Prepayment of Tax,Title VI - EXCISE TAX ON CERTAIN GOODS
+131,1,0,untouched,0,0,0,144,,,Tobacco Products,Title VI - EXCISE TAX ON CERTAIN GOODS
+133,1,0,untouched,0,0,1,147,,134,Definition of Terms,Title VI - EXCISE TAX ON CERTAIN GOODS
+135,1,0,untouched,0,0,0,152,,,Extent of Supervision Over Establishments Producing Taxable Output,Title VI - EXCISE TAX ON CERTAIN GOODS
+136,1,0,untouched,0,0,0,153,,,Records to be Kept by Manufacturers; Assessment Based Thereon,Title VI - EXCISE TAX ON CERTAIN GOODS
+137,1,0,untouched,0,0,0,154,,,Premises Subject to Approval by Commissioner,Title VI - EXCISE TAX ON CERTAIN GOODS
+138,1,0,untouched,0,0,0,155,,,Manufacturers to Provide Themselves with Counting or Metering Devices to Determine Production,Title VI - EXCISE TAX ON CERTAIN GOODS
+139,1,0,untouched,0,0,0,156,,,Labels and Form of Packages,Title VI - EXCISE TAX ON CERTAIN GOODS
+140,1,0,untouched,0,0,0,157,,,Removal of Articles After the Payment of Tax,Title VI - EXCISE TAX ON CERTAIN GOODS
+141,1,0,untouched,0,0,0,158,,,Storage of Goods in Internal-revenue Bonded Warehouses,Title VI - EXCISE TAX ON CERTAIN GOODS
+142,1,0,untouched,0,0,0,159,,,Proof of Exportation; Exporter's Bond,Title VI - EXCISE TAX ON CERTAIN GOODS
+143,1,0,untouched,0,0,0,160,,,Manufacturers' and Importers' Bond,Title VI - EXCISE TAX ON CERTAIN GOODS
+144,1,0,untouched,0,0,0,161,,,Records to be Kept by Wholesale Dealers,Title VI - EXCISE TAX ON CERTAIN GOODS
+145,1,0,untouched,0,0,0,162,,,Records to be Kept by Dealers in Leaf Tobacco,Title VI - EXCISE TAX ON CERTAIN GOODS
+148,1,0,untouched,0,0,0,164,,,"Information to be Given by Manufacturers, Importers, Indentors, and Wholesalers of Apparatus or Mechanical Contrivances Specially for the Manufacture of Articles Subject to Excise Tax",Title VI - EXCISE TAX ON CERTAIN GOODS
+149,1,0,untouched,0,0,0,165,,,Establishment of Distillery Warehouse,Title VI - EXCISE TAX ON CERTAIN GOODS
+150,1,0,untouched,0,0,0,166,,,Custody of Distillery or Distillery Warehouse,Title VI - EXCISE TAX ON CERTAIN GOODS
+151,1,0,untouched,0,0,0,167,,,Limitation on Quantity of Spirits Removed from Warehouse,Title VI - EXCISE TAX ON CERTAIN GOODS
+152,1,0,untouched,0,0,0,168,,,Denaturing Within Premises,Title VI - EXCISE TAX ON CERTAIN GOODS
+153,1,0,untouched,0,0,0,169,,,Recovery of Alcohol for Use in Arts and Industries,Title VI - EXCISE TAX ON CERTAIN GOODS
+154,1,0,untouched,0,0,0,170,,,Requirements Governing Rectification and Compounding of Liquors,Title VI - EXCISE TAX ON CERTAIN GOODS
+155,1,0,untouched,0,0,0,171,,,Authority of Internal Revenue Officer in Searching for Taxable Articles,Title VI - EXCISE TAX ON CERTAIN GOODS
+156,1,0,untouched,0,0,0,172,,,Detention of Package Containing Taxable Articles,Title VI - EXCISE TAX ON CERTAIN GOODS
+157,1,0,untouched,0,0,1,173,,183,"Stamp Taxes Upon Documents, Loan Agreements, Instruments and Papers",Title VII - DOCUMENTARY STAMP TAX
+158,1,0,untouched,0,0,0,174,,,Stamp Tax on Debentures and Certificates of Indebtedness,Title VII - DOCUMENTARY STAMP TAX
+159,1,0,untouched,0,0,0,175,,,Stamp Tax on Original Issue of Shares of Stock,Title VII - DOCUMENTARY STAMP TAX
+161,1,0,untouched,0,0,0,177,,,"Stamp Tax on Bonds, Debentures, Certificate of Stock or Indebtedness Issued in Foreign Countries",Title VII - DOCUMENTARY STAMP TAX
+162,1,0,untouched,0,0,0,178,,,Stamp Tax on Certificates of Profits or Interest in Property or Accumulations,Title VII - DOCUMENTARY STAMP TAX
+163,1,0,untouched,0,0,0,179,,,"Stamp Tax on Bank Checks, Drafts, Certificates of Deposit not Bearing Interest, and Other Instruments",Title VII - DOCUMENTARY STAMP TAX
+164,1,0,untouched,0,0,0,180,,,"Stamp Tax on All Bonds, Loan Agreements, Promissory Notes, Bills of Exchange, Drafts, Instruments and Securities Issued by the Government or Any of its Instrumentalities",Title VII - DOCUMENTARY STAMP TAX
+165,1,0,untouched,0,0,0,181,,,Stamp Tax Upon Acceptance of Bills of Exchange and Others,Title VII - DOCUMENTARY STAMP TAX
+166,1,0,untouched,0,0,0,182,,,Stamp Tax on Foreign Bills of Exchange and Letters of Credit,Title VII - DOCUMENTARY STAMP TAX
+167,1,0,untouched,0,0,0,183,,,Stamp Tax on Life Insurance Policies,Title VII - DOCUMENTARY STAMP TAX
+168,1,0,untouched,0,0,0,184,,,Stamp Tax on Policies of Insurance Upon Property,Title VII - DOCUMENTARY STAMP TAX
+169,1,0,untouched,0,0,0,185,,,Stamp Tax on Fidelity Bonds and Other Insurance Policies,Title VII - DOCUMENTARY STAMP TAX
+170,1,0,untouched,0,0,0,186,,,Stamp Tax on Policies of Annuities and Pre-Need Plans,Title VII - DOCUMENTARY STAMP TAX
+171,1,0,untouched,0,0,0,187,,,Stamp Tax on Indemnity Bonds,Title VII - DOCUMENTARY STAMP TAX
+172,1,0,untouched,0,0,0,188,,,Stamp Tax on Certificates,Title VII - DOCUMENTARY STAMP TAX
+173,1,0,untouched,0,0,0,189,,,Stamp Tax on Warehouse Receipts,Title VII - DOCUMENTARY STAMP TAX
+174,1,0,untouched,0,0,0,190,,,"Stamp Tax on Jai-Alai, Horse Racing Tickets, lotto or Other Authorized Numbers Games",Title VII - DOCUMENTARY STAMP TAX
+176,1,0,untouched,0,0,0,192,,,Stamp Tax on Proxies,Title VII - DOCUMENTARY STAMP TAX
+177,1,0,untouched,0,0,0,193,,,Stamp Tax on Powers of Attorney,Title VII - DOCUMENTARY STAMP TAX
+178,1,0,untouched,0,0,0,194,,,Stamp tax on Leases and Other Hiring Agreements,Title VII - DOCUMENTARY STAMP TAX
+182,1,0,untouched,0,0,0,198,,,Stamp Tax on Assignments and Renewals of Certain Instruments,Title VII - DOCUMENTARY STAMP TAX
+184,1,0,untouched,0,0,0,200,,,Payment of Documentary Stamp Tax,Title VII - DOCUMENTARY STAMP TAX
+185,1,0,untouched,0,0,0,201,,,Effect of Failure to Stamp Taxable Document,Title VII - DOCUMENTARY STAMP TAX
+186,1,0,untouched,0,0,0,202,,,Final Deed to Purchaser,Title VIII - REMEDIES
+187,1,0,untouched,0,0,0,205,,,Remedies for the Collection of Delinquent Taxes,Title VIII - REMEDIES
+188,1,0,untouched,0,0,0,206,,,Constructive Distraint of the Property of A Taxpayer,Title VIII - REMEDIES
+190,1,0,untouched,0,0,1,208,,191,Procedure for Distraint and Garnishment,Title VIII - REMEDIES
+192,1,0,untouched,0,0,0,210,,,Release of Distrained Property Upon Payment Prior to Sale,Title VIII - REMEDIES
+193,1,0,untouched,0,0,0,211,,,Report of Sale to Bureau of Internal Revenue,Title VIII - REMEDIES
+194,1,0,untouched,0,0,0,212,,,Purchase by Government at Sale Upon Distraint,Title VIII - REMEDIES
+197,1,0,untouched,0,0,0,215,,,Forfeiture to Government for Want of Bidder,Title VIII - REMEDIES
+198,1,0,untouched,0,0,0,216,,,Resale of Real Estate Taken for Taxes,Title VIII - REMEDIES
+199,1,0,untouched,0,0,0,217,,,Further Distraint or Levy,Title VIII - REMEDIES
+200,1,0,untouched,0,0,0,218,,,Injunction not Available to Restrain Collection of Tax,Title VIII - REMEDIES
+201,1,0,untouched,0,0,0,219,,,Nature and Extent of Tax Lien,Title VIII - REMEDIES
+202,1,0,untouched,0,0,0,220,,,Form and Mode of Proceeding in Actions Arising under this Code,Title VIII - REMEDIES
+203,1,0,untouched,0,0,0,221,,,Remedy for Enforcement of Statutory Penal Provisions,Title VIII - REMEDIES
+205,1,0,untouched,0,0,0,224,,,Remedy for Enforcement of Forfeitures,Title VIII - REMEDIES
+206,1,0,untouched,0,0,0,225,,,When Property to be Sold or Destroyed,Title VIII - REMEDIES
+207,1,0,untouched,0,0,0,226,,,Disposition of funds Recovered in Legal Proceedings or Obtained from Forfeitures,Title VIII - REMEDIES
+208,1,0,untouched,0,0,0,227,,,Satisfaction of Judgment Recovered Against any Internal Revenue Officer,Title VIII - REMEDIES
+210,1,0,untouched,0,0,0,229,,,Recovery of Tax Erroneously or Illegally Collected,Title VIII - REMEDIES
+211,1,0,untouched,0,0,0,231,,,Action to Contest Forfeiture of Chattel,Title VIII - REMEDIES
+214,1,0,untouched,0,0,0,238,,,Printing of Receipts or Sales or Commercial Invoices,Title IX - COMPLIANCE REQUIREMENTS
+215,1,0,untouched,0,0,0,239,,,"Sign to be Exhibited by Distiller, Rectifier, Compounder, Repacker and Wholesale Liquor Dealer",Title IX - COMPLIANCE REQUIREMENTS
+216,1,0,untouched,0,0,0,240,,,Sign to be exhibited by manufacturer of Products of Tobacco,Title IX - COMPLIANCE REQUIREMENTS
+217,1,0,untouched,0,0,0,241,,,Exhibition of Certificate of Payment at Place of Business,Title IX - COMPLIANCE REQUIREMENTS
+218,1,0,untouched,0,0,0,242,,,Continuation of Business of Deceased Person,Title IX - COMPLIANCE REQUIREMENTS
+219,1,0,untouched,0,0,0,243,,,Removal of Business to Other Location,Title IX - COMPLIANCE REQUIREMENTS
+220,1,0,untouched,0,0,0,244,,,Authority of Secretary of Finance to Promulgate Rules and Regulations,Title IX - COMPLIANCE REQUIREMENTS
+221,1,0,merged,8,0,1,248,,222,Civil Penalties,Title X - STATUTORY OFFENSES AND PENALTIES
+223,1,0,untouched,0,0,0,246,,,Non- Retroactivity of Rulings,Title IX - COMPLIANCE REQUIREMENTS
+224,1,0,untouched,0,0,0,247,,,General Provisions,Title X - STATUTORY OFFENSES AND PENALTIES
+225,1,0,merged,7,0,0,249,,,Interest,Title X - STATUTORY OFFENSES AND PENALTIES
+226,1,0,untouched,0,0,0,250,,,Failure to File Certain Information Returns,Title X - STATUTORY OFFENSES AND PENALTIES
+227,1,0,untouched,0,0,0,251,,,Failure of a Withholding Agent to Collect and Remit Tax,Title X - STATUTORY OFFENSES AND PENALTIES
+228,1,0,untouched,0,0,0,252,,,Failure of a Withholding Agent to refund Excess Withholding Tax,Title X - STATUTORY OFFENSES AND PENALTIES
+229,1,0,untouched,0,0,0,253,,,General Provisions,Title X - STATUTORY OFFENSES AND PENALTIES
+231,1,0,untouched,0,0,0,256,,,Penal Liability of Corporations,Title X - STATUTORY OFFENSES AND PENALTIES
+242,1,0,untouched,0,0,0,267,,,Declaration under Penalties of Perjury,Title X - STATUTORY OFFENSES AND PENALTIES
+243,1,0,untouched,0,0,0,268,,,Other Crimes and Offenses,Title X - STATUTORY OFFENSES AND PENALTIES
+247,1,0,untouched,0,0,0,274,,,Penalty for Second and Subsequent Offenses,Title X - STATUTORY OFFENSES AND PENALTIES
+251,1,0,untouched,0,0,0,279,,,Confiscation and Forfeiture of the Proceeds or Instruments of Crime,Title X - STATUTORY OFFENSES AND PENALTIES
+252,1,0,untouched,0,0,0,280,,,Subsidiary Penalty,Title X - STATUTORY OFFENSES AND PENALTIES
+253,1,0,untouched,0,0,0,281,,,Prescription for Violations of any Provision of this Code,Title X - STATUTORY OFFENSES AND PENALTIES
+257,1,0,untouched,0,0,0,285,,,Allotment for the Bureau of Internal Revenue,Title XI - ALLOTMENT OF INTERNAL REVENUE
+262,1,0,untouched,0,0,0,291,,,In General,Title XIII - REPEALING PROVISIONS
+263,1,0,untouched,0,0,0,292,,,Separability Clause,Title XIV - FINAL PROVISIONS
+82,4,1,untouched,53,53,6,84 86 90 91,85 203,,Rates of Estate Tax,Title III - ESTATE AND DONOR'S TAXES
+6,1,1,untouched,18,18,7,106,149 150,11 100 101 121 255,Value-Added Tax on Sale of Goods or Properties,Title IV - VALUE- ADDED TAX
+132,1,1,untouched,16,16,0,145,254,,Cigars and Cigarettes,Title VI - EXCISE TAX ON CERTAIN GOODS
+130,1,1,untouched,13,13,0,143,254,,Fermented Liquor,Title VI - EXCISE TAX ON CERTAIN GOODS
+13,1,1,untouched,12,12,4,204,230,14 16 33 42,"Authority of the Commissioner to Compromise, Abate and Refund or Credit Taxes",Title VIII - REMEDIES
+120,1,1,untouched,12,12,1,141,133,121,Distilled Spirits,Title VI - EXCISE TAX ON CERTAIN GOODS
+63,1,1,untouched,9,9,0,60,63 64,,Imposition of Tax,Title II - TAX ON INCOME
+116,1,1,untouched,8,8,0,130,148 151,,Filing of Return and Payment of Excise Tax on Domestic Products,Title VI - EXCISE TAX ON CERTAIN GOODS
+222,1,1,untouched,8,8,0,245,248,,Specific Provisions to be Contained in Rules and Regulations,Title IX - COMPLIANCE REQUIREMENTS
+97,1,1,untouched,7,7,0,103,101,,Filing of Return and Payment of Tax,Title III - ESTATE AND DONOR'S TAXES
+239,1,1,untouched,6,6,0,264,237,,"Failure or refusal to Issue Receipts or Sales or Commercial Invoices, Violations related to the Printing of such Receipts or Invoices and Other Violations",Title X - STATUTORY OFFENSES AND PENALTIES
+23,1,1,untouched,3,3,2,270,71,24 33,Unlawful Divulgence of Trade Secrets,Title X - STATUTORY OFFENSES AND PENALTIES
+109,1,1,untouched,3,3,0,124,123,,Tax on Agents of Foreign Insurance Companies,Title V - OTHER PERCENTAGE TAXES
+234,1,1,untouched,3,3,0,259,67,,Illegal Collection of Foreign Payments,Title X - STATUTORY OFFENSES AND PENALTIES
+258,1,1,untouched,3,3,0,286,123,,Disposition of Proceeds of insurance Premium Tax,Title XI - ALLOTMENT OF INTERNAL REVENUE
+29,1,1,untouched,0,0,0,17,16,,Assignment of Internal Revenue Officers and Other Employees to Other Duties,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+40,1,1,untouched,0,0,2,68,69,42 79,Information at Source as to Income Payments,Title II - TAX ON INCOME
+53,1,1,untouched,0,0,0,46,47,,Change of Accounting Period,Title II - TAX ON INCOME
+86,1,1,untouched,0,0,0,92,203,,Discharge of Executor or Administrator from Personal Liability,Title III - ESTATE AND DONOR'S TAXES
+93,1,1,untouched,0,0,0,98,99,,Imposition of Tax,Title III - ESTATE AND DONOR'S TAXES
+96,1,1,untouched,0,0,0,102,88,,Valuation of Gifts Made in Property,Title III - ESTATE AND DONOR'S TAXES
+183,1,1,untouched,0,0,0,199,173,,Documents and Papers Not Subject to Stamp Tax,Title VII - DOCUMENTARY STAMP TAX
+191,1,1,untouched,0,0,0,209,208,,Sale of Property Distrained and Disposition of Proceeds,Title VIII - REMEDIES
+204,1,1,untouched,0,0,0,223,203 222,,Suspension of Running of Statute of Limitations,Title VIII - REMEDIES
+213,1,1,untouched,0,0,1,234,232,232,Language in which Books are to be Kept; Translation,Title IX - COMPLIANCE REQUIREMENTS
+246,1,1,untouched,0,0,0,273,207,,Penalty for Failure to Issue and Execute Warrant,Title X - STATUTORY OFFENSES AND PENALTIES
+11,9,2,partial,81,52,20,108 109 110 112 113 116 119 128 236,106 111 233 237 275,14 100 101 102 255,Value-added Tax on Sale of Services and Use or Lease of Properties,Title IV - VALUE- ADDED TAX
+232,1,2,untouched,13,13,0,257,232 234,,"Penal Liability for Making False Entries, Records or Reports, or Using Falsified or Fake Accountable Forms",Title X - STATUTORY OFFENSES AND PENALTIES
+121,1,2,untouched,3,3,0,134,106 141 148,,Domestic Denatured Alcohol,Title VI - EXCISE TAX ON CERTAIN GOODS
+16,1,2,untouched,0,0,0,7,204,,Authority of the Commissioner to Delegate Power,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+24,1,2,untouched,0,0,1,12,269 270,134,Agents and Deputies for Collection of National Internal Revenue Taxes,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+33,1,2,untouched,0,0,0,20,204 270 290,,Submission of Report and Pertinent Information by the Commissioner,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+79,1,2,untouched,0,0,0,83,68,,Statements and Returns,Title II - TAX ON INCOME
+14,1,3,untouched,11,11,4,6,113 204 237,15 42 180,Power of the Commissioner to Make assessments and Prescribe additional Requirements for Tax Administration and Enforcement,Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+101,1,3,untouched,6,6,1,114,106 108 236,102,Return and Payment of Value-Added Tax,Title IV - VALUE- ADDED TAX
+255,1,3,untouched,6,6,0,283,106 108 116,,Disposition of National Internal Revenue,Title XI - ALLOTMENT OF INTERNAL REVENUE
+134,1,3,untouched,5,5,0,146,12 147,,Inspection Fee,Title VI - EXCISE TAX ON CERTAIN GOODS
+100,1,3,untouched,0,0,0,105,106 107 108,,Persons Liable,Title IV - VALUE- ADDED TAX
+42,17,4,partial,252,238,56,22 24 25 27 28 32 33 34 35 36 38 39 51 56 57 58 79,6 23 31 40 49 68 81 204 269,49 56 57 59 71 72 74 94 106 112,"Definitions - When used in this Title: (A) The term 'person' means an individual, a trust, estate or corporation",Title II - TAX ON INCOME
+102,1,4,untouched,6,6,0,115,114 236,,Power of the Commissioner to Suspend the Business Operations of a Taxpayer,Title IV - VALUE- ADDED TAX
+180,1,4,untouched,5,5,0,196,6,,Stamp tax on Deeds of Sale and Conveyances of Real Property,Title VII - DOCUMENTARY STAMP TAX
+15,1,4,untouched,0,0,1,5,6,146,"Power of the Commissioner to Obtain Information, and to Summon, Examine, and Take Testimony of Persons",Title I - ORGANIZATION AND FUNCTION OF THE BUREAU OF INTERNAL REVENUE
+112,1,5,untouched,14,14,0,127,24 27 28,,"Tax on Sale, Barter or Exchange of Shares of Stock Listed and Traded through the Local Stock Exchange or through Initial Public Offering",Title V - OTHER PERCENTAGE TAXES
+106,1,5,untouched,9,9,0,121,32,,Tax on Banks and Non-bank Financial Intermediaries,Title V - OTHER PERCENTAGE TAXES
+56,1,5,untouched,5,5,0,52,24 25 27 28 47,,Corporation Returns,Title II - TAX ON INCOME
+72,1,5,untouched,4,4,0,74,24 25,,Declaration of Income Tax for Individuals,Title II - TAX ON INCOME
+49,1,5,untouched,0,0,1,43,22,50,General Rule,Title II - TAX ON INCOME
+57,1,5,untouched,0,0,0,53,56,,Extension of Time to File Returns,Title II - TAX ON INCOME
+59,1,5,untouched,0,0,0,55,32,,Returns of General Professional Partnerships,Title II - TAX ON INCOME
+71,1,5,untouched,0,0,0,73,27,,Distribution of dividends or Assets by Corporations,Title II - TAX ON INCOME
+74,1,5,untouched,0,0,1,76,27,75,Final Adjustment Return,Title II - TAX ON INCOME
+94,1,5,untouched,0,0,0,100,24,,Transfer for Less Than Adequate and full Consideration,Title III - ESTATE AND DONOR'S TAXES
+146,1,5,untouched,0,0,1,235,5 203,147,Preservation of Books and Accounts and Other Accounting Records,Title IX - COMPLIANCE REQUIREMENTS
+75,1,6,untouched,5,5,0,77,75 76,,Place and Time of Filing and Payment of Quarterly Corporate Income Tax,Title II - TAX ON INCOME
+50,1,6,untouched,0,0,0,44,43,,Period in which Items of Gross Income Included,Title II - TAX ON INCOME
+147,1,6,untouched,0,0,0,163,235,,Preservation of Invoices and Stamps,Title VI - EXCISE TAX ON CERTAIN GOODS
