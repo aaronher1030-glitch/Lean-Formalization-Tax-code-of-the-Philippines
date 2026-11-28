@@ -35,7 +35,11 @@ annual column is a claim about the Code (§24(A)(2)(a)); the daily, weekly,
 semi-monthly and monthly columns are claims about Annex E of RR 11-2018, the
 Bureau's own withholding tables. Those four are transcribed below as ANNEX_E
 and asserted equal to TABLES row for row, so the comparison with the
-regulation is checked on every run instead of being asserted in prose.
+regulation is checked on every run instead of being asserted in prose. Two
+other publications reprint the same table -- the Bureau's withholding-tax
+page, preserved in a court circular, and a Vialto advisory -- and REPRINTS
+holds those, so the twenty bases are checked against something other than
+the annex file as well.
 
 The SSS/GSIS/Pag-IBIG box is recorded per case in SSS, but it is not an
 argument to bir_tax or statute_tax. That the box changes neither the tax nor
@@ -198,6 +202,97 @@ RR_TEXT_FLOORS = {
     "monthly": {20_833_00, 33_333_00, 66_667_00},
 }
 
+# Two reprints of the same 2023 table, neither of them the annex file above,
+# read on RETRIEVED. They answer the one question the regulation body could
+# not: are the twenty per-period *bases* as the Bureau publishes them, or as
+# one PDF's text layer rendered them?
+#
+#   1. The Bureau's withholding-tax page,
+#      bir.gov.ph/index.php/tax-information/withholding-tax.html, as
+#      print-captured into Annex A of OCA Circular No. 35-2024 (Office of the
+#      Court Administrator, 5 February 2024,
+#      oca.judiciary.gov.ph/wp-content/uploads/OCA-Circular-No.-35-2024.pdf).
+#      The circular adopts "the Revised Withholding Tax Table (Annex A) as
+#      required by the Bureau" for monthly salaries; the capture carries the
+#      page's own URL and its "EFFECTIVE DATE JANUARY 1, 2023" annual table.
+#      The page itself answered 404 when checked on RETRIEVED, so the capture
+#      is the surviving copy compared here.
+#   2. Vialto Partners, "Philippines | 2024 Year-end reminders on employment
+#      taxes", 4 December 2024, which reprints the WTC table "effective
+#      January 1, 2023 onwards".
+#
+# Both print the 2023 ranges with the 2023 bases, and both agree with ANNEX_E
+# band for band. That rules out a transcription error in the annex file -- the
+# failure the daily table's mangled "P 6,034.00.30" invites -- but not a
+# drafting error in the regulation, since every source reprints the same
+# table rather than deriving it from Sec. 24(A)(2)(a).
+BIR_WT_PAGE_2023 = {
+    "daily": [
+        (685_00, 0, 15),
+        (1_096_00, 61_65, 20),
+        (2_192_00, 280_85, 25),
+        (5_479_00, 1_102_60, 30),
+        (21_918_00, 6_034_30, 35),
+    ],
+    "weekly": [
+        (4_808_00, 0, 15),
+        (7_692_00, 432_60, 20),
+        (15_385_00, 1_971_20, 25),
+        (38_462_00, 7_740_45, 30),
+        (153_846_00, 42_355_65, 35),
+    ],
+    "semi_monthly": [
+        (10_417_00, 0, 15),
+        (16_667_00, 937_50, 20),
+        (33_333_00, 4_270_70, 25),
+        (83_333_00, 16_770_70, 30),
+        (333_333_00, 91_770_70, 35),
+    ],
+    "monthly": [
+        (20_833_00, 0, 15),
+        (33_333_00, 1_875_00, 20),
+        (66_667_00, 8_541_80, 25),
+        (166_667_00, 33_541_80, 30),
+        (666_667_00, 183_541_80, 35),
+    ],
+}
+
+VIALTO_2023 = {
+    "daily": [
+        (685_00, 0, 15),
+        (1_096_00, 61_65, 20),
+        (2_192_00, 280_85, 25),
+        (5_479_00, 1_102_60, 30),
+        (21_918_00, 6_034_30, 35),
+    ],
+    "weekly": [
+        (4_808_00, 0, 15),
+        (7_692_00, 432_60, 20),
+        (15_385_00, 1_971_20, 25),
+        (38_462_00, 7_740_45, 30),
+        (153_846_00, 42_355_65, 35),
+    ],
+    "semi_monthly": [
+        (10_417_00, 0, 15),
+        (16_667_00, 937_50, 20),
+        (33_333_00, 4_270_70, 25),
+        (83_333_00, 16_770_70, 30),
+        (333_333_00, 91_770_70, 35),
+    ],
+    "monthly": [
+        (20_833_00, 0, 15),
+        (33_333_00, 1_875_00, 20),
+        (66_667_00, 8_541_80, 25),
+        (166_667_00, 33_541_80, 30),
+        (666_667_00, 183_541_80, 35),
+    ],
+}
+
+REPRINTS = {
+    "OCA Circular 35-2024 / BIR withholding-tax page": BIR_WT_PAGE_2023,
+    "Vialto 2024 year-end alert": VIALTO_2023,
+}
+
 
 def rr_text_mismatches():
     """Where TABLES disagrees with what the regulation body itself prints."""
@@ -208,6 +303,26 @@ def rr_text_mismatches():
         known = {row[0] for row in TABLES[period]}
         for floor_c in sorted(named - known):
             out.append(f"{period} {floor_c}: named in RR 11-2018, not a floor here")
+    return out
+
+
+def reprint_mismatches():
+    """Bands where TABLES departs from a reprint of the 2023 table.
+
+    Two publications other than the annex file, and both print the twenty
+    bases, so a slip in transcribing the annex fails here even though the two
+    transcriptions of the annex agree with each other.
+    """
+    out = []
+    for name, tables in REPRINTS.items():
+        for period, rows in tables.items():
+            if len(rows) != len(TABLES[period]):
+                out.append(f"{name}: {period} has {len(rows)} bands, "
+                           f"TABLES has {len(TABLES[period])}")
+                continue
+            for i, (want, row) in enumerate(zip(rows, TABLES[period]), start=1):
+                if want != row:
+                    out.append(f"{name}: {period} band {i} {row} != reprint {want}")
     return out
 
 
@@ -508,6 +623,13 @@ def main():
             print(f"ANNEX E {p}")
         sys.exit("period tables no longer match RR 11-2018 Annex E")
 
+    # The same twenty bases in two publications that are not the annex file.
+    reprint_problems = reprint_mismatches()
+    if reprint_problems:
+        for p in reprint_problems:
+            print(f"REPRINT {p}")
+        sys.exit("period tables no longer match the independent reprints")
+
     sweep = (list(range(0, 900_000_00, 7_777)) +
              [250_000_00 - 1, 250_000_00, 250_000_00 + 1,
               400_000_00 - 1, 400_000_00, 400_000_00 + 1,
@@ -535,6 +657,9 @@ def main():
     print(f"RR 11-2018 text: annual schedule matches, and "
           f"{sum(len(v) for v in RR_TEXT_FLOORS.values())} illustrated floors "
           f"are floors here")
+    print(f"independent reprints of the 2023 table "
+          f"({len(REPRINTS)} sources) agree on "
+          f"{sum(len(r) for r in BIR_WT_PAGE_2023.values())} bands")
     print()
     print(f"{'case':<32}{'period':<14}{'BIR':>14}{'statute':>14}{'diff':>14}")
     for r in differs:
