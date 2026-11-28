@@ -41,6 +41,13 @@ page, preserved in a court circular, and a Vialto advisory -- and REPRINTS
 holds those, so the twenty bases are checked against something other than
 the annex file as well.
 
+The annex has two tranches and the regulation sends the other one to Annex
+"D", for compensation paid 1 January 2018 to 31 December 2022. That table is
+transcribed separately as ANNEX_D. The shipped calculator implements only the
+2023 table, so ANNEX_D is applied to no case: it is a second transcription
+with its own check, against the 2018 bases the regulation's worked
+illustrations print.
+
 The SSS/GSIS/Pag-IBIG box is recorded per case in SSS, but it is not an
 argument to bir_tax or statute_tax. That the box changes neither the tax nor
 the displayed figure is the measurement (finding C), not an assumption.
@@ -195,6 +202,7 @@ RR_TEXT_ANNUAL = [
 # not, so they do corroborate these. Only floors the body actually prints are
 # listed: Illustration 6 names P2,192 daily, 7 names P7,692 weekly, 8 names
 # P10,417 semi-monthly, and 9-12 name P20,833, P33,333 and P66,667 monthly.
+# The 2018 bases printed beside those floors are the check on ANNEX_D.
 RR_TEXT_FLOORS = {
     "daily": {2_192_00},
     "weekly": {7_692_00},
@@ -293,6 +301,86 @@ REPRINTS = {
     "Vialto 2024 year-end alert": VIALTO_2023,
 }
 
+# Annex "D" of the same regulation, "Revised Withholding Tax Table", effective
+# 1 January 2018 to 31 December 2022, read on RETRIEVED from
+# bir-cdn.bir.gov.ph/local/pdf/Annex D RR 11-2018.pdf. Kept apart from TABLES
+# on purpose: the calculator implements the 2023 tranche, so this table is a
+# second transcription with its own check, not a table the cases run on.
+#
+# Same row shape as ANNEX_E -- (floor, tax at the floor, rate above the floor)
+# -- so the two tranches can be compared directly.
+#
+#     P 685 and below      0.00
+#     P 685 - P 1,095      0.00  + 20% over P 685
+#     P 1,096 - P 2,191    P 82.19 + 25% over P 1,096
+#     P 2,192 - P 5,478    P 356.16 + 30% over P 2,192
+#     P 5,479 - P 21,917   P 1,342.47 + 32% over P 5,479
+#     P 21,918 and above   P 6,602.74 + 35% over P 21,918
+#
+# The first band's rate is 20%, not the 15% of the 2023 table: the 2018
+# schedule exempts the first P250,000 of annual income, so 20% is the first
+# rate that bites, and the daily P685 floor is that exemption divided by 264.
+ANNEX_D = {
+    "daily": [
+        (685_00, 0, 20),
+        (1_096_00, 82_19, 25),
+        (2_192_00, 356_16, 30),
+        (5_479_00, 1_342_47, 32),
+        (21_918_00, 6_602_74, 35),
+    ],
+    "weekly": [
+        (4_808_00, 0, 20),
+        (7_692_00, 576_92, 25),
+        (15_385_00, 2_500_00, 30),
+        (38_462_00, 9_423_08, 32),
+        (153_846_00, 46_346_15, 35),
+    ],
+    "semi_monthly": [
+        (10_417_00, 0, 20),
+        (16_667_00, 1_250_00, 25),
+        (33_333_00, 5_416_67, 30),
+        (83_333_00, 20_416_67, 32),
+        (333_333_00, 100_416_67, 35),
+    ],
+    "monthly": [
+        (20_833_00, 0, 20),
+        (33_333_00, 2_500_00, 25),
+        (66_667_00, 10_833_33, 30),
+        (166_667_00, 40_833_33, 32),
+        (666_667_00, 200_833_33, 35),
+    ],
+}
+
+# The 2018 bases the regulation body itself prints, in the illustrations of
+# Sec. 2.79(B)(4) that use the withholding tables. Each entry is the tax printed
+# on that floor, the marginal rate printed beside it, and the illustration that
+# prints them, so a failure names its source rather than "the annex".
+#
+#   Illustration 6, P2,500 daily:      "Predetermined Tax on P2,192.00 P356.16"
+#                                      "+ 30% of the excess"
+#   Illustration 7, P9,500 weekly:     "Predetermined Tax on P7,692.00 P576.92"
+#                                      "+ 25%"
+#   Illustration 8, P15,500 semi:      "Predetermined Tax on P10,417.00 P0"
+#                                      "+ 20%"
+#   Illustration 9, P165,000 monthly:  "On P66,667.00 P10,833.33" "x 30%"
+#   Illustrations 10-12, monthly:      "Tax on P20,833 P0.00" "x 20%",
+#                                      "Tax on P33,333 P2,500.00" "x 25%"
+#
+# Six of the twenty bases, which is what the body prints. Illustration 9's
+# prose adds P43,659.89 where its own schedule adds to P41,833.23 (and a
+# P103,833 excess where its figures give P103,333); the base is not what it
+# fumbles, so only the schedule line is read here.
+RR_ILLUSTRATIONS = {
+    "daily": {2_192_00: (356_16, 30, "Illustration 6")},
+    "weekly": {7_692_00: (576_92, 25, "Illustration 7")},
+    "semi_monthly": {10_417_00: (0, 20, "Illustration 8")},
+    "monthly": {
+        20_833_00: (0, 20, "Illustrations 10-12"),
+        33_333_00: (2_500_00, 25, "Illustration 10"),
+        66_667_00: (10_833_33, 30, "Illustration 9"),
+    },
+}
+
 
 def rr_text_mismatches():
     """Where TABLES disagrees with what the regulation body itself prints."""
@@ -323,6 +411,54 @@ def reprint_mismatches():
             for i, (want, row) in enumerate(zip(rows, TABLES[period]), start=1):
                 if want != row:
                     out.append(f"{name}: {period} band {i} {row} != reprint {want}")
+    return out
+
+
+def annex_d_mismatches():
+    """Where ANNEX_D departs from what RR 11-2018's body prints.
+
+    Two claims. The floors must be TABLES' floors: the P250,000 exemption did
+    not move between the tranches, so only bases and rates changed, and a
+    mistyped floor would otherwise pass unless an illustration happened to
+    name it. And every base and rate an illustration prints must be the one
+    transcribed.
+    """
+    out = []
+    for period, rows in ANNEX_D.items():
+        got = [row[0] for row in rows]
+        want = [row[0] for row in TABLES[period]]
+        if got != want:
+            out.append(f"{period}: Annex D floors {got} != Annex E floors {want}")
+    for period, named in RR_ILLUSTRATIONS.items():
+        rows = {row[0]: row for row in ANNEX_D[period]}
+        for floor_c, (base_c, rate, cite) in sorted(named.items()):
+            row = rows.get(floor_c)
+            if row is None:
+                out.append(f"{cite}: {period} floor {floor_c} is not in Annex D")
+            elif (row[1], row[2]) != (base_c, rate):
+                out.append(f"{cite}: Annex D {period} at {floor_c} is "
+                           f"{(row[1], row[2])} != printed {(base_c, rate)}")
+    return out
+
+
+def annex_d_drift():
+    """Annex D bands whose base is not the tax accumulated at their floor.
+
+    The arithmetic that holds to the centavo on Annex E does not hold on Annex
+    D, and that is a measurement rather than an oversight: the 2018 bases were
+    annualised and rounded (the daily P82.19 against 20% of P411), while the
+    2023 table was generated from the annual schedule in one step and is exact.
+    So this function reports the drift instead of being a check, and is why
+    ANNEX_D is checked against the illustrations.
+    """
+    out = []
+    for period, rows in ANNEX_D.items():
+        for i in range(1, len(rows)):
+            floor_c, base_c, _ = rows[i]
+            prev_floor, prev_base, prev_rate = rows[i - 1]
+            cumulative = prev_base + (floor_c - prev_floor) * prev_rate // 100
+            if cumulative != base_c:
+                out.append((period, floor_c, base_c, cumulative - base_c))
     return out
 
 
@@ -630,6 +766,14 @@ def main():
             print(f"REPRINT {p}")
         sys.exit("period tables no longer match the independent reprints")
 
+    # The other tranche, against the regulation body rather than another copy.
+    annex_d_problems = annex_d_mismatches()
+    if annex_d_problems:
+        for p in annex_d_problems:
+            print(f"ANNEX D {p}")
+        sys.exit("2018 Annex D no longer matches RR 11-2018's illustrations")
+    drift = annex_d_drift()
+
     sweep = (list(range(0, 900_000_00, 7_777)) +
              [250_000_00 - 1, 250_000_00, 250_000_00 + 1,
               400_000_00 - 1, 400_000_00, 400_000_00 + 1,
@@ -660,6 +804,13 @@ def main():
     print(f"independent reprints of the 2023 table "
           f"({len(REPRINTS)} sources) agree on "
           f"{sum(len(r) for r in BIR_WT_PAGE_2023.values())} bands")
+    print(f"2018 Annex D: RR 11-2018's illustrations print "
+          f"{sum(len(v) for v in RR_ILLUSTRATIONS.values())} of its bases and "
+          f"all match the transcription; floors are Annex E's")
+    print(f"2018 Annex D: {len(drift)} of "
+          f"{sum(len(r) - 1 for r in ANNEX_D.values())} bases are rounded, "
+          f"not the tax accumulated at their floor "
+          f"(largest P{max((abs(d) for *_, d in drift), default=0) / 100:.2f})")
     print()
     print(f"{'case':<32}{'period':<14}{'BIR':>14}{'statute':>14}{'diff':>14}")
     for r in differs:
